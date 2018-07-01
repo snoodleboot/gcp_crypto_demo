@@ -1,0 +1,4 @@
+
+
+class CryptoIngesterError(Exception):
+    pass

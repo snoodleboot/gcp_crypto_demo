@@ -1,0 +1,4 @@
+
+
+class CryptoIngestResponseError(Exception):
+    pass

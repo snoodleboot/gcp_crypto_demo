@@ -1,0 +1,1598 @@
+name,symbol,website_slug,circulating_supply,last_updated,max_supply,quotes,rank,total_supply
+Bitcoin,BTC,bitcoin,17125737.0,1530459378.0,21000000.0,"{'USD': {'price': 6312.71, 'volume_24h': 4077210000.0, 'market_cap': 108109811217.0, 'percent_change_1h': -0.39, 'percent_change_24h': -1.13, 'percent_change_7d': 4.65}}",1.0,17125737.0
+Bitcoin,BTC,bitcoin,17125925.0,1530473129.0,21000000.0,"{'USD': {'price': 6332.03, 'volume_24h': 4312930000.0, 'market_cap': 108441870878.0, 'percent_change_1h': -0.24, 'percent_change_24h': -0.23, 'percent_change_7d': 3.64}}",1.0,17125925.0
+Litecoin,LTC,litecoin,57219646.0,1530473101.0,84000000.0,"{'USD': {'price': 79.4842, 'volume_24h': 316605000.0, 'market_cap': 4548057782.0, 'percent_change_1h': -0.04, 'percent_change_24h': -0.77, 'percent_change_7d': -0.37}}",6.0,57219646.0
+Namecoin,NMC,namecoin,14736400.0,1530473101.0,42000000.0,"{'USD': {'price': 1.29711, 'volume_24h': 103699.0, 'market_cap': 19114732.0, 'percent_change_1h': -0.31, 'percent_change_24h': 0.74, 'percent_change_7d': -0.31}}",282.0,14736400.0
+Terracoin,TRC,terracoin,22935396.0,1530473104.0,42000000.0,"{'USD': {'price': 0.111348, 'volume_24h': 7774.92, 'market_cap': 2553811.0, 'percent_change_1h': 5.6, 'percent_change_24h': -7.22, 'percent_change_7d': 40.13}}",686.0,22935396.0
+Peercoin,PPC,peercoin,24833374.0,1530473103.0,,"{'USD': {'price': 1.32869, 'volume_24h': 547363.0, 'market_cap': 32995855.0, 'percent_change_1h': 1.42, 'percent_change_24h': -3.36, 'percent_change_7d': -8.78}}",197.0,24833374.0
+Novacoin,NVC,novacoin,2113708.0,1530473104.0,336000000.0,"{'USD': {'price': 2.69371, 'volume_24h': 8613.75, 'market_cap': 5693718.0, 'percent_change_1h': -0.26, 'percent_change_24h': -0.61, 'percent_change_7d': 1.68}}",523.0,2113708.0
+Mincoin,MNC,mincoin,4602271.0,1530459362.0,,"{'USD': {'price': 0.0236933, 'volume_24h': 210.37, 'market_cap': 109043.0, 'percent_change_1h': -0.51, 'percent_change_24h': -0.45, 'percent_change_7d': 15.11}}",1234.0,4602271.0
+Feathercoin,FTC,feathercoin,205432680.0,1530473101.0,336000000.0,"{'USD': {'price': 0.0815197, 'volume_24h': 90671.0, 'market_cap': 16746810.0, 'percent_change_1h': -0.2, 'percent_change_24h': -4.01, 'percent_change_7d': -17.26}}",308.0,205432680.0
+Mincoin,MNC,mincoin,4602271.0,1530473101.0,,"{'USD': {'price': 0.0235344, 'volume_24h': 230.943, 'market_cap': 108312.0, 'percent_change_1h': -1.46, 'percent_change_24h': -0.78, 'percent_change_7d': 13.53}}",1229.0,4602271.0
+Freicoin,FRC,freicoin,31111710.0,1530473103.0,,"{'USD': {'price': 0.00435354, 'volume_24h': 219.731, 'market_cap': 135446.0, 'percent_change_1h': -0.31, 'percent_change_24h': -18.4, 'percent_change_7d': -7.58}}",1207.0,100000000.0
+WorldCoin,WDC,worldcoin,119606941.0,1530459361.0,,"{'USD': {'price': 0.00598634, 'volume_24h': 59.0482, 'market_cap': 716008.0, 'percent_change_1h': 0.19, 'percent_change_24h': 0.06, 'percent_change_7d': 0.39}}",1085.0,119606941.0
+Digitalcoin,DGC,digitalcoin,29466683.0,1530459361.0,48166000.0,"{'USD': {'price': 0.0391451, 'volume_24h': 1504.45, 'market_cap': 1153476.0, 'percent_change_1h': -0.85, 'percent_change_24h': -3.31, 'percent_change_7d': 10.57}}",803.0,29466683.0
+Ixcoin,IXC,ixcoin,21004891.0,1530473101.0,72245700.0,"{'USD': {'price': 0.103937, 'volume_24h': 789.182, 'market_cap': 2183185.0, 'percent_change_1h': -0.31, 'percent_change_24h': -10.46, 'percent_change_7d': -24.55}}",714.0,21004891.0
+BitBar,BTB,bitbar,37854.0,1530473103.0,,"{'USD': {'price': 10.3433, 'volume_24h': 448.301, 'market_cap': 391533.0, 'percent_change_1h': -0.31, 'percent_change_24h': -0.4, 'percent_change_7d': -2.79}}",1123.0,37854.0
+Fastcoin,FST,fastcoin,156913424.0,1530459361.0,165888000.0,"{'USD': {'price': 0.00252057, 'volume_24h': 3.95348, 'market_cap': 395511.0, 'percent_change_1h': -0.51, 'percent_change_24h': 1.99, 'percent_change_7d': -8.72}}",1127.0,156913424.0
+WorldCoin,WDC,worldcoin,119606941.0,1530473103.0,,"{'USD': {'price': 0.00599401, 'volume_24h': 51.9506, 'market_cap': 716925.0, 'percent_change_1h': -0.31, 'percent_change_24h': 0.67, 'percent_change_7d': -3.46}}",1082.0,119606941.0
+Phoenixcoin,PXC,phoenixcoin,67512350.0,1530459361.0,,"{'USD': {'price': 0.00586032, 'volume_24h': 140.063, 'market_cap': 395644.0, 'percent_change_1h': -0.51, 'percent_change_24h': 0.09, 'percent_change_7d': 5.93}}",1126.0,67512350.0
+Digitalcoin,DGC,digitalcoin,29468533.0,1530473103.0,48166000.0,"{'USD': {'price': 0.0392148, 'volume_24h': 608.902, 'market_cap': 1155603.0, 'percent_change_1h': -0.44, 'percent_change_24h': -2.21, 'percent_change_7d': 5.99}}",802.0,29468533.0
+Infinitecoin,IFC,infinitecoin,,1530459361.0,,"{'USD': {'price': 3.33975e-05, 'volume_24h': 12556.9, 'market_cap': None, 'percent_change_1h': -1.13, 'percent_change_24h': -7.89, 'percent_change_7d': -19.73}}",1459.0,90596274910.0
+Primecoin,XPM,primecoin,24113784.0,1530459361.0,,"{'USD': {'price': 1.17816, 'volume_24h': 280859.0, 'market_cap': 28409896.0, 'percent_change_1h': -3.81, 'percent_change_24h': -3.84, 'percent_change_7d': -3.25}}",216.0,24113784.0
+Anoncoin,ANC,anoncoin,2110317.0,1530459365.0,,"{'USD': {'price': 1.06538, 'volume_24h': 201.856, 'market_cap': 2248289.0, 'percent_change_1h': -0.51, 'percent_change_24h': -0.96, 'percent_change_7d': 24.51}}",1034.0,2110317.0
+CasinoCoin,CSC,casinocoin,35973085511.0,1530459365.0,,"{'USD': {'price': 0.000455883, 'volume_24h': 7417.31, 'market_cap': 16399518.0, 'percent_change_1h': -0.99, 'percent_change_24h': -9.32, 'percent_change_7d': 5.32}}",315.0,39999999905.0
+Bullion,CBX,bullion,1016249.0,1530459361.0,,"{'USD': {'price': 1.44132, 'volume_24h': 857.718, 'market_cap': 1464740.0, 'percent_change_1h': -0.51, 'percent_change_24h': -18.01, 'percent_change_7d': -12.8}}",770.0,1016249.0
+Emerald Crypto,EMD,emerald,19117129.0,1530432665.0,,"{'USD': {'price': 0.00700506, 'volume_24h': None, 'market_cap': 133917.0, 'percent_change_1h': None, 'percent_change_24h': 0.06, 'percent_change_7d': 2.88}}",1213.0,19117129.0
+GoldCoin,GLD,goldcoin,41116452.0,1530473101.0,72245700.0,"{'USD': {'price': 0.0737167, 'volume_24h': 20312.1, 'market_cap': 3030969.0, 'percent_change_1h': -2.3, 'percent_change_24h': -7.37, 'percent_change_7d': -14.84}}",653.0,41116452.0
+XRP,XRP,ripple,39262097329.0,1530459361.0,100000000000.0,"{'USD': {'price': 0.451398, 'volume_24h': 266460000.0, 'market_cap': 17722832210.0, 'percent_change_1h': -0.43, 'percent_change_24h': -2.8, 'percent_change_7d': -3.93}}",3.0,99991924336.0
+Quark,QRK,quark,255614678.0,1530459362.0,,"{'USD': {'price': 0.00823854, 'volume_24h': 901.489, 'market_cap': 2105892.0, 'percent_change_1h': -2.79, 'percent_change_24h': 18.55, 'percent_change_7d': 10.61}}",723.0,255614678.0
+Zetacoin,ZET,zetacoin,168271911.0,1530459362.0,,"{'USD': {'price': 0.00424375, 'volume_24h': 95397.8, 'market_cap': 714104.0, 'percent_change_1h': 2.03, 'percent_change_24h': 4.03, 'percent_change_7d': 15.62}}",854.0,168271911.0
+SecureCoin,SRC,securecoin,8749501.0,1530459361.0,,"{'USD': {'price': 0.0182111, 'volume_24h': 123.537, 'market_cap': 159338.0, 'percent_change_1h': -0.8, 'percent_change_24h': 1.49, 'percent_change_7d': 6.41}}",1192.0,8749501.0
+Sexcoin,SXC,sexcoin,127389520.0,1530459361.0,,"{'USD': {'price': 0.00871331, 'volume_24h': 724.424, 'market_cap': 1109984.0, 'percent_change_1h': -0.93, 'percent_change_24h': -33.98, 'percent_change_7d': -35.13}}",809.0,127389520.0
+Argentum,ARG,argentum,9756337.0,1530473101.0,,"{'USD': {'price': 0.134329, 'volume_24h': 245.84, 'market_cap': 1310559.0, 'percent_change_1h': -0.19, 'percent_change_24h': -0.27, 'percent_change_7d': 36.34}}",1052.0,9756337.0
+Fastcoin,FST,fastcoin,156913424.0,1530470342.0,165888000.0,"{'USD': {'price': 0.0025286, 'volume_24h': None, 'market_cap': 396771.0, 'percent_change_1h': -0.12, 'percent_change_24h': -0.2, 'percent_change_7d': -10.33}}",1121.0,156913424.0
+FlorinCoin,FLO,florincoin,144678140.0,1530459365.0,160000000.0,"{'USD': {'price': 0.0440976, 'volume_24h': 14546.4, 'market_cap': 6379959.0, 'percent_change_1h': -0.96, 'percent_change_24h': 0.03, 'percent_change_7d': -17.98}}",498.0,144678140.0
+Bitgem,BTG,bitgem,61131.0,1530473101.0,1000000000.0,"{'USD': {'price': 4.49059, 'volume_24h': 238.382, 'market_cap': 274514.0, 'percent_change_1h': -0.31, 'percent_change_24h': -0.39, 'percent_change_7d': -7.11}}",1150.0,61131.0
+Phoenixcoin,PXC,phoenixcoin,67517950.0,1530473101.0,,"{'USD': {'price': 0.00593092, 'volume_24h': 367.577, 'market_cap': 400444.0, 'percent_change_1h': -5.19, 'percent_change_24h': -0.04, 'percent_change_7d': 5.6}}",1119.0,67517950.0
+Joulecoin,XJO,joulecoin,36160007.0,1530459364.0,,"{'USD': {'price': 0.00867341, 'volume_24h': 38.5975, 'market_cap': 313631.0, 'percent_change_1h': 0.15, 'percent_change_24h': -0.69, 'percent_change_7d': 8.68}}",1144.0,36160007.0
+Megacoin,MEC,megacoin,37211162.0,1530473103.0,42000000.0,"{'USD': {'price': 0.0227141, 'volume_24h': 475.208, 'market_cap': 845218.0, 'percent_change_1h': -4.55, 'percent_change_24h': 0.82, 'percent_change_7d': 11.0}}",1072.0,37211162.0
+BetaCoin,BET,betacoin,,1530459361.0,,"{'USD': {'price': 0.00189042, 'volume_24h': 26.2048, 'market_cap': None, 'percent_change_1h': -0.51, 'percent_change_24h': 2.43, 'percent_change_7d': -5.38}}",1531.0,
+GrandCoin,GDC,grandcoin,,1530459361.0,1420609614.0,"{'USD': {'price': 0.000252057, 'volume_24h': 199.038, 'market_cap': None, 'percent_change_1h': -0.51, 'percent_change_24h': 8.01, 'percent_change_7d': 109.23}}",1507.0,
+Deutsche eMark,DEM,deutsche-emark,39569486.0,1530459361.0,,"{'USD': {'price': 0.0138637, 'volume_24h': 724.341, 'market_cap': 548579.0, 'percent_change_1h': -0.96, 'percent_change_24h': 0.4, 'percent_change_7d': -16.9}}",877.0,46551462.0
+Infinitecoin,IFC,infinitecoin,115101500656.0,1530473103.0,,"{'USD': {'price': 3.46959e-05, 'volume_24h': 11871.5, 'market_cap': None, 'percent_change_1h': -0.31, 'percent_change_24h': -7.16, 'percent_change_7d': -18.6}}",1458.0,90596274910.0
+Primecoin,XPM,primecoin,24115526.0,1530473101.0,,"{'USD': {'price': 1.19625, 'volume_24h': 338242.0, 'market_cap': 28848198.0, 'percent_change_1h': -1.0, 'percent_change_24h': -0.85, 'percent_change_7d': -1.69}}",220.0,24115526.0
+Anoncoin,ANC,anoncoin,2110317.0,1530473103.0,,"{'USD': {'price': 1.06674, 'volume_24h': 199.245, 'market_cap': 2251159.0, 'percent_change_1h': -0.31, 'percent_change_24h': -6.11, 'percent_change_7d': 9.44}}",1032.0,2110317.0
+Diamond,DMD,diamond,2843166.0,1530459361.0,4380000.0,"{'USD': {'price': 3.37101, 'volume_24h': 5048.14, 'market_cap': 9584341.0, 'percent_change_1h': -3.89, 'percent_change_24h': -4.33, 'percent_change_7d': -3.7}}",417.0,2843166.0
+CasinoCoin,CSC,casinocoin,35973085511.0,1530473103.0,120000000.0,"{'USD': {'price': 0.000447061, 'volume_24h': 7361.95, 'market_cap': 16082164.0, 'percent_change_1h': -2.19, 'percent_change_24h': -11.78, 'percent_change_7d': -0.8}}",316.0,39999999905.0
+Tigercoin,TGC,tigercoin,43536800.0,1530459362.0,,"{'USD': {'price': 0.00466305, 'volume_24h': 144.98, 'market_cap': 203014.0, 'percent_change_1h': -0.51, 'percent_change_24h': -0.35, 'percent_change_7d': 2.2}}",1179.0,43536800.0
+Orbitcoin,ORB,orbitcoin,3220616.0,1530459365.0,,"{'USD': {'price': 0.240021, 'volume_24h': 34.2394, 'market_cap': 773016.0, 'percent_change_1h': -0.8, 'percent_change_24h': -1.46, 'percent_change_7d': -1.4}}",1079.0,3220616.0
+Omni,OMNI,omni,561185.0,1530459365.0,,"{'USD': {'price': 16.7345, 'volume_24h': 22207.2, 'market_cap': 9391142.0, 'percent_change_1h': -0.53, 'percent_change_24h': -4.91, 'percent_change_7d': 6.94}}",424.0,617501.0
+Bullion,CBX,bullion,1016249.0,1530473103.0,,"{'USD': {'price': 1.44317, 'volume_24h': 797.882, 'market_cap': 1466620.0, 'percent_change_1h': -0.31, 'percent_change_24h': -17.58, 'percent_change_7d': -9.72}}",767.0,1016249.0
+Emerald Crypto,EMD,emerald,19117129.0,1530432665.0,,"{'USD': {'price': 0.00700506, 'volume_24h': None, 'market_cap': 133917.0, 'percent_change_1h': None, 'percent_change_24h': 0.54, 'percent_change_7d': 2.42}}",1210.0,19117129.0
+GlobalCoin,GLC,globalcoin,65171010.0,1530473103.0,,"{'USD': {'price': 0.00189285, 'volume_24h': 50.2542, 'market_cap': 123359.0, 'percent_change_1h': -0.31, 'percent_change_24h': -0.39, 'percent_change_7d': -26.12}}",1220.0,65171010.0
+XRP,XRP,ripple,39262097329.0,1530473101.0,100000000000.0,"{'USD': {'price': 0.4555, 'volume_24h': 260888000.0, 'market_cap': 17883885333.0, 'percent_change_1h': -0.1, 'percent_change_24h': -0.73, 'percent_change_7d': -3.96}}",3.0,99991924336.0
+Quark,QRK,quark,255614678.0,1530473103.0,,"{'USD': {'price': 0.00785201, 'volume_24h': 924.118, 'market_cap': 2007089.0, 'percent_change_1h': -0.31, 'percent_change_24h': 2.45, 'percent_change_7d': 5.7}}",727.0,255614678.0
+42-coin,42,42-coin,42.0,1530459364.0,,"{'USD': {'price': 26199.7, 'volume_24h': 1710.53, 'market_cap': 1100387.0, 'percent_change_1h': -1.45, 'percent_change_24h': 8.18, 'percent_change_7d': 18.44}}",810.0,42.0
+Vertcoin,VTC,vertcoin,44892875.0,1530459364.0,84000000.0,"{'USD': {'price': 0.857509, 'volume_24h': 608783.0, 'market_cap': 38496044.0, 'percent_change_1h': -1.48, 'percent_change_24h': -1.3, 'percent_change_7d': -1.63}}",179.0,44892875.0
+Zetacoin,ZET,zetacoin,168272428.0,1530473103.0,,"{'USD': {'price': 0.00411747, 'volume_24h': 91246.8, 'market_cap': 692857.0, 'percent_change_1h': -1.54, 'percent_change_24h': 0.58, 'percent_change_7d': 7.89}}",860.0,168272428.0
+SecureCoin,SRC,securecoin,8750681.0,1530473101.0,,"{'USD': {'price': 0.0182344, 'volume_24h': 98.3353, 'market_cap': 159563.0, 'percent_change_1h': -0.31, 'percent_change_24h': 1.84, 'percent_change_7d': 6.7}}",1190.0,8750681.0
+Sexcoin,SXC,sexcoin,127390876.0,1530473102.0,21000000000.0,"{'USD': {'price': 0.00989599, 'volume_24h': 979.016, 'market_cap': 1260659.0, 'percent_change_1h': -0.23, 'percent_change_24h': -21.66, 'percent_change_7d': -26.95}}",787.0,127390876.0
+SmartCoin,SMC,smartcoin,24696632.0,1530459364.0,,"{'USD': {'price': 0.00903891, 'volume_24h': 84.9317, 'market_cap': 223231.0, 'percent_change_1h': -0.51, 'percent_change_24h': -1.05, 'percent_change_7d': 2.47}}",1172.0,24696632.0
+TeslaCoin,TES,teslacoin,75742290.0,1530459362.0,,"{'USD': {'price': 0.0194084, 'volume_24h': 299.531, 'market_cap': 1470037.0, 'percent_change_1h': 10.62, 'percent_change_24h': 1.99, 'percent_change_7d': 4.92}}",1052.0,75742290.0
+TagCoin,TAG,tagcoin,6433866.0,1530473103.0,,"{'USD': {'price': 0.0499711, 'volume_24h': 31.145, 'market_cap': 321507.0, 'percent_change_1h': -0.31, 'percent_change_24h': 1.04, 'percent_change_7d': 10.99}}",1138.0,6433866.0
+ReddCoin,RDD,reddcoin,28808713174.0,1530459364.0,,"{'USD': {'price': 0.00482004, 'volume_24h': 1519740.0, 'market_cap': 138859150.0, 'percent_change_1h': -1.71, 'percent_change_24h': -2.48, 'percent_change_7d': -7.03}}",69.0,28808713174.0
+I0Coin,I0C,i0coin,20991990.0,1530473103.0,337000000.0,"{'USD': {'price': 0.157106, 'volume_24h': 286.87, 'market_cap': 3297968.0, 'percent_change_1h': 2.15, 'percent_change_24h': -2.33, 'percent_change_7d': 72.77}}",1026.0,20991990.0
+FlorinCoin,FLO,florincoin,144682454.0,1530473103.0,160000000.0,"{'USD': {'price': 0.044128, 'volume_24h': 18070.9, 'market_cap': 6384547.0, 'percent_change_1h': -0.64, 'percent_change_24h': -0.4, 'percent_change_7d': -13.41}}",498.0,144682454.0
+PotCoin,POT,potcoin,220206045.0,1530459364.0,420000000.0,"{'USD': {'price': 0.0521669, 'volume_24h': 20771.6, 'market_cap': 11487467.0, 'percent_change_1h': -0.31, 'percent_change_24h': -0.24, 'percent_change_7d': -13.87}}",380.0,220206045.0
+Nxt,NXT,nxt,998999942.0,1530473103.0,1000000000.0,"{'USD': {'price': 0.0955228, 'volume_24h': 2871530.0, 'market_cap': 95427272.0, 'percent_change_1h': 1.33, 'percent_change_24h': 1.11, 'percent_change_7d': 3.94}}",94.0,998999942.0
+Unobtanium,UNO,unobtanium,198869.0,1530473104.0,,"{'USD': {'price': 161.593, 'volume_24h': 11102.8, 'market_cap': 32135829.0, 'percent_change_1h': -0.04, 'percent_change_24h': -1.7, 'percent_change_7d': 21.65}}",203.0,198869.0
+Joulecoin,XJO,joulecoin,36161423.0,1530473101.0,,"{'USD': {'price': 0.00869845, 'volume_24h': 46.1542, 'market_cap': 314548.0, 'percent_change_1h': -0.26, 'percent_change_24h': 0.5, 'percent_change_7d': 8.88}}",1140.0,36161423.0
+Datacoin,DTC,datacoin,32053496.0,1530473103.0,,"{'USD': {'price': 0.00567854, 'volume_24h': 47.3348, 'market_cap': 182017.0, 'percent_change_1h': -0.31, 'percent_change_24h': 26.27, 'percent_change_7d': 32.98}}",1184.0,32053496.0
+BetaCoin,BET,betacoin,8164196.0,1530473101.0,18900000.0,"{'USD': {'price': 0.00189285, 'volume_24h': 26.2384, 'market_cap': None, 'percent_change_1h': -0.31, 'percent_change_24h': 2.55, 'percent_change_7d': -4.68}}",1531.0,8164196.0
+GrandCoin,GDC,grandcoin,2616218.0,1530473103.0,1420609614.0,"{'USD': {'price': 0.000252379, 'volume_24h': 314.884, 'market_cap': None, 'percent_change_1h': -0.31, 'percent_change_24h': 32.81, 'percent_change_7d': 92.68}}",1503.0,2616218.0
+Deutsche eMark,DEM,deutsche-emark,39574836.0,1530473103.0,10000000.0,"{'USD': {'price': 0.0142591, 'volume_24h': 700.089, 'market_cap': 564302.0, 'percent_change_1h': -0.31, 'percent_change_24h': 3.23, 'percent_change_7d': -11.17}}",880.0,46556812.0
+TopCoin,TOP,topcoin,,1530459365.0,,"{'USD': {'price': 0.00075617, 'volume_24h': 19.9839, 'market_cap': None, 'percent_change_1h': -0.51, 'percent_change_24h': None, 'percent_change_7d': -10.33}}",1540.0,41643721.0
+Dogecoin,DOGE,dogecoin,115101500656.0,1530473101.0,,"{'USD': {'price': 0.00247653, 'volume_24h': 8377470.0, 'market_cap': 285052319.0, 'percent_change_1h': -0.31, 'percent_change_24h': -0.92, 'percent_change_7d': -1.61}}",43.0,115101500656.0
+NetCoin,NET,netcoin,787126712.0,1530473103.0,,"{'USD': {'price': 0.000630948, 'volume_24h': 211.102, 'market_cap': 496636.0, 'percent_change_1h': -0.31, 'percent_change_24h': -0.39, 'percent_change_7d': 3.43}}",1105.0,787126712.0
+Philosopher Stones,PHS,philosopher-stones,6014340.0,1530473103.0,,"{'USD': {'price': 0.0333141, 'volume_24h': 346.99, 'market_cap': 200362.0, 'percent_change_1h': -0.31, 'percent_change_24h': 1.14, 'percent_change_7d': 14.52}}",1176.0,6014340.0
+Diamond,DMD,diamond,2843401.0,1530473104.0,4380000.0,"{'USD': {'price': 3.37544, 'volume_24h': 2420.83, 'market_cap': 9597730.0, 'percent_change_1h': -2.95, 'percent_change_24h': -4.61, 'percent_change_7d': -5.03}}",419.0,2843401.0
+HoboNickels,HBN,hobonickels,64151405.0,1530473101.0,120000000.0,"{'USD': {'price': 0.00750829, 'volume_24h': 308.09, 'market_cap': 481667.0, 'percent_change_1h': -0.31, 'percent_change_24h': -0.39, 'percent_change_7d': 13.67}}",1109.0,64151405.0
+Tigercoin,TGC,tigercoin,43536800.0,1530473103.0,,"{'USD': {'price': 0.00460592, 'volume_24h': 146.608, 'market_cap': 200527.0, 'percent_change_1h': -0.31, 'percent_change_24h': -1.74, 'percent_change_7d': 1.29}}",1175.0,43536800.0
+Orbitcoin,ORB,orbitcoin,3220616.0,1530473103.0,,"{'USD': {'price': 0.240328, 'volume_24h': 72.0815, 'market_cap': 774004.0, 'percent_change_1h': -0.31, 'percent_change_24h': -0.45, 'percent_change_7d': -2.15}}",1077.0,3220616.0
+Marscoin,MARS,marscoin,28279074.0,1530459364.0,,"{'USD': {'price': 0.00838088, 'volume_24h': 106.613, 'market_cap': 237004.0, 'percent_change_1h': -0.51, 'percent_change_24h': 7.94, 'percent_change_7d': 18.7}}",1163.0,28279074.0
+Cashcoin,CASH,cashcoin,47675905.0,1530459364.0,,"{'USD': {'price': 0.00825485, 'volume_24h': 1.03236, 'market_cap': 393557.0, 'percent_change_1h': -18.55, 'percent_change_24h': -23.7, 'percent_change_7d': 32.15}}",1113.0,47675905.0
+Omni,OMNI,omni,561185.0,1530473103.0,,"{'USD': {'price': 16.6945, 'volume_24h': 22042.7, 'market_cap': 9368706.0, 'percent_change_1h': -0.88, 'percent_change_24h': -3.52, 'percent_change_7d': 5.18}}",427.0,617501.0
+Catcoin,CAT,catcoin,6543100.0,1530473103.0,,"{'USD': {'price': 0.015269, 'volume_24h': 227.468, 'market_cap': 99907.0, 'percent_change_1h': -0.66, 'percent_change_24h': 0.02, 'percent_change_7d': 5.19}}",1239.0,6543100.0
+MAZA,MAZA,mazacoin,1055345280.0,1530459376.0,,"{'USD': {'price': 0.000567127, 'volume_24h': 3061.12, 'market_cap': 598515.0, 'percent_change_1h': -0.51, 'percent_change_24h': 2.82, 'percent_change_7d': 6.82}}",870.0,1371778720.0
+Uniform Fiscal Object,UFO,uniform-fiscal-object,3635118137.0,1530459364.0,4000000000.0,"{'USD': {'price': 0.000441099, 'volume_24h': 249.697, 'market_cap': 1603447.0, 'percent_change_1h': -3.9, 'percent_change_24h': -1.09, 'percent_change_7d': -8.34}}",1051.0,3635118137.0
+FedoraCoin,TIPS,fedoracoin,212269865434.0,1530473103.0,,"{'USD': {'price': 1.34887e-05, 'volume_24h': 18301.5, 'market_cap': 2863245.0, 'percent_change_1h': 1.84, 'percent_change_24h': -0.07, 'percent_change_7d': -9.7}}",665.0,482759907611.0
+RonPaulCoin,RPC,ronpaulcoin,944704.0,1530473103.0,,"{'USD': {'price': 0.143225, 'volume_24h': 115.247, 'market_cap': 135305.0, 'percent_change_1h': -0.31, 'percent_change_24h': -2.54, 'percent_change_7d': 26.05}}",1208.0,944704.0
+Mooncoin,MOON,mooncoin,224386850851.0,1530473103.0,,"{'USD': {'price': 4.79208e-05, 'volume_24h': 2260.8, 'market_cap': 10752797.0, 'percent_change_1h': -4.64, 'percent_change_24h': 14.54, 'percent_change_7d': 23.58}}",395.0,224386850851.0
+Dimecoin,DIME,dimecoin,539096740560.0,1530473103.0,,"{'USD': {'price': 1.5915e-05, 'volume_24h': 6673.72, 'market_cap': 8579725.0, 'percent_change_1h': -0.6, 'percent_change_24h': -35.37, 'percent_change_7d': -19.3}}",448.0,539096740560.0
+Myriad,XMY,myriad,1586015750.0,1530459364.0,,"{'USD': {'price': 0.00359377, 'volume_24h': 32003.0, 'market_cap': 5699776.0, 'percent_change_1h': -3.83, 'percent_change_24h': -6.55, 'percent_change_7d': -9.9}}",519.0,1586015750.0
+Skeincoin,SKC,skeincoin,13377285.0,1530459361.0,,"{'USD': {'price': 0.0274112, 'volume_24h': 353.183, 'market_cap': 366687.0, 'percent_change_1h': -0.51, 'percent_change_24h': -0.99, 'percent_change_7d': 10.59}}",1135.0,16465394.0
+42-coin,42,42-coin,42.0,1530473101.0,,"{'USD': {'price': 26210.7, 'volume_24h': 1863.9, 'market_cap': 1100849.0, 'percent_change_1h': 0.69, 'percent_change_24h': 6.76, 'percent_change_7d': 17.4}}",811.0,42.0
+Bitcoin Scrypt,BTCS,bitcoin-scrypt,17436125.0,1530459365.0,,"{'USD': {'price': 0.0207317, 'volume_24h': 557.766, 'market_cap': 361481.0, 'percent_change_1h': -0.51, 'percent_change_24h': -0.99, 'percent_change_7d': 5.73}}",913.0,17436125.0
+Coin(O),CNO,coin,105330567.0,1530459362.0,,"{'USD': {'price': 0.00138631, 'volume_24h': 145.657, 'market_cap': 146021.0, 'percent_change_1h': -0.51, 'percent_change_24h': -0.99, 'percent_change_7d': 27.86}}",1203.0,105330567.0
+ECC,ECC,eccoin,25000000000.0,1530459361.0,25000000000.0,"{'USD': {'price': 0.00063028, 'volume_24h': 12612.7, 'market_cap': 15757000.0, 'percent_change_1h': -0.51, 'percent_change_24h': -0.97, 'percent_change_7d': -1.24}}",319.0,25000000000.0
+MonaCoin,MONA,monacoin,60550175.0,1530459365.0,,"{'USD': {'price': 2.02221, 'volume_24h': 329652.0, 'market_cap': 122445169.0, 'percent_change_1h': -0.48, 'percent_change_24h': -4.02, 'percent_change_7d': -3.85}}",72.0,60550175.0
+Rubycoin,RBY,rubycoin,25790862.0,1530459365.0,,"{'USD': {'price': 0.264793, 'volume_24h': 2724.21, 'market_cap': 6829240.0, 'percent_change_1h': -0.53, 'percent_change_24h': -7.99, 'percent_change_7d': -13.11}}",484.0,25790862.0
+Vertcoin,VTC,vertcoin,44894450.0,1530473103.0,84000000.0,"{'USD': {'price': 0.854615, 'volume_24h': 646731.0, 'market_cap': 38367470.0, 'percent_change_1h': -0.81, 'percent_change_24h': -0.72, 'percent_change_7d': -1.57}}",183.0,44894450.0
+FlutterCoin,FLT,fluttercoin,,,,,,
+KlondikeCoin,KDC,klondikecoin,,1530473103.0,,"{'USD': {'price': 0.010663, 'volume_24h': 81.069, 'market_cap': None, 'percent_change_1h': -0.31, 'percent_change_24h': 19.39, 'percent_change_7d': 21.53}}",1519.0,
+FairCoin,FAIR,faircoin,,,,,,
+RedCoin,RED,redcoin,74107896.0,1530473104.0,,"{'USD': {'price': 0.0012619, 'volume_24h': 301.53, 'market_cap': 93517.0, 'percent_change_1h': -0.31, 'percent_change_24h': -0.39, 'percent_change_7d': 8.75}}",1241.0,74107896.0
+e-Gulden,EFL,e-gulden,,,,,,
+Gulden,NLG,gulden,,,,,,
+Polcoin,PLC,polcoin,,,,,,
+Groestlcoin,GRS,groestlcoin,,,,,,
+PetroDollar,XPD,petrodollar,,,,,,
+DigiByte,DGB,digibyte,10466434507.0,1530473104.0,21000000000.0,"{'USD': {'price': 0.0249283, 'volume_24h': 1240590.0, 'market_cap': 260910419.0, 'percent_change_1h': -0.12, 'percent_change_24h': -0.76, 'percent_change_7d': 28.24}}",45.0,10466434507.0
+WhiteCoin,XWC,whitecoin,,,,,,
+AsiaCoin,AC,asiacoin,,,,,,
+PopularCoin,POP,popularcoin,,,,,,
+SmartCoin,SMC,smartcoin,24697608.0,1530473103.0,,"{'USD': {'price': 0.00904907, 'volume_24h': 81.7585, 'market_cap': 223490.0, 'percent_change_1h': -0.3, 'percent_change_24h': -0.48, 'percent_change_7d': 5.14}}",1166.0,24697608.0
+TeslaCoin,TES,teslacoin,75744030.0,1530473103.0,,"{'USD': {'price': 0.0208213, 'volume_24h': 488.047, 'market_cap': 1577089.0, 'percent_change_1h': -0.31, 'percent_change_24h': 9.94, 'percent_change_7d': 10.85}}",1048.0,75744030.0
+CannaCoin,CCN,cannacoin,,,,,,
+Slothcoin,SLOTH,slothcoin,,,,,,
+NobleCoin,NOBL,noblecoin,2330390613.0,1530473104.0,,"{'USD': {'price': 0.000504759, 'volume_24h': 115.252, 'market_cap': 1176286.0, 'percent_change_1h': -0.31, 'percent_change_24h': 5.08, 'percent_change_7d': 5.88}}",1060.0,2330390613.0
+ReddCoin,RDD,reddcoin,28808713174.0,1530473103.0,,"{'USD': {'price': 0.00467147, 'volume_24h': 1793510.0, 'market_cap': 134579039.0, 'percent_change_1h': -3.01, 'percent_change_24h': -6.3, 'percent_change_7d': -11.3}}",69.0,28808713174.0
+Bitcoin Plus,XBC,bitcoin-plus,,,,,,
+Nyancoin,NYAN,nyancoin,322805606.0,1530473103.0,337000000.0,"{'USD': {'price': 0.00100218, 'volume_24h': 37.0352, 'market_cap': 323509.0, 'percent_change_1h': -0.31, 'percent_change_24h': -6.88, 'percent_change_7d': 9.52}}",1136.0,322805606.0
+UltraCoin,UTC,ultracoin,47776744.0,1530473103.0,,"{'USD': {'price': 0.00359641, 'volume_24h': 1198.13, 'market_cap': 171825.0, 'percent_change_1h': 12.89, 'percent_change_24h': 7.13, 'percent_change_7d': -14.56}}",950.0,47776744.0
+PotCoin,POT,potcoin,220210906.0,1530473101.0,420000000.0,"{'USD': {'price': 0.0517494, 'volume_24h': 25873.5, 'market_cap': 11395782.0, 'percent_change_1h': -0.56, 'percent_change_24h': -1.69, 'percent_change_7d': -15.16}}",381.0,220210906.0
+Guncoin,GUN,guncoin,,,,,,
+PinkCoin,PINK,pinkcoin,,,,,,
+Blakecoin,BLC,blakecoin,18618884.0,1530473101.0,,"{'USD': {'price': 0.0123702, 'volume_24h': 248.653, 'market_cap': 230319.0, 'percent_change_1h': -0.37, 'percent_change_24h': -0.78, 'percent_change_7d': 0.99}}",1161.0,18618884.0
+CoffeeCoin,CFC,coffeecoin,,,,,,
+Energycoin,ENRG,energycoin,,,,,,
+MaxCoin,MAX,maxcoin,61445805.0,1530473103.0,,"{'USD': {'price': 0.0730966, 'volume_24h': 7311.13, 'market_cap': 4491479.0, 'percent_change_1h': -2.05, 'percent_change_24h': 10.61, 'percent_change_7d': 27.38}}",572.0,61445805.0
+QubitCoin,Q2C,qubitcoin,248933910.0,1530473107.0,,"{'USD': {'price': 0.00176666, 'volume_24h': 13.8701, 'market_cap': 439782.0, 'percent_change_1h': -0.31, 'percent_change_24h': -0.39, 'percent_change_7d': -3.47}}",1113.0,248933910.0
+HunterCoin,HUC,huntercoin,22877680.0,1530473107.0,,"{'USD': {'price': 0.0466902, 'volume_24h': 564.018, 'market_cap': 1068163.0, 'percent_change_1h': -0.04, 'percent_change_24h': -0.45, 'percent_change_7d': -4.22}}",813.0,22877680.0
+Dash,DASH,dash,8164501.0,1530473103.0,18900000.0,"{'USD': {'price': 233.391, 'volume_24h': 189678000.0, 'market_cap': 1905520954.0, 'percent_change_1h': -0.33, 'percent_change_24h': -0.99, 'percent_change_7d': -1.9}}",14.0,8164501.0
+Counterparty,XCP,counterparty,2616216.0,1530473103.0,,"{'USD': {'price': 7.38186, 'volume_24h': 68374.1, 'market_cap': 19312541.0, 'percent_change_1h': -1.08, 'percent_change_24h': -2.54, 'percent_change_7d': -4.54}}",279.0,2616216.0
+UnbreakableCoin,UNB,unbreakablecoin,,,,,,
+CacheCoin,CACH,cachecoin,4195132.0,1530473104.0,10000000.0,"{'USD': {'price': 0.0151428, 'volume_24h': 1.52936, 'market_cap': 63526.0, 'percent_change_1h': -0.31, 'percent_change_24h': 5.32, 'percent_change_7d': 34.09}}",1266.0,4195132.0
+TopCoin,TOP,topcoin,,1530473107.0,,"{'USD': {'price': 0.000757138, 'volume_24h': 20.0095, 'market_cap': None, 'percent_change_1h': -0.31, 'percent_change_24h': -0.44, 'percent_change_7d': -11.35}}",1539.0,41643721.0
+SuperCoin,SUPER,supercoin,,,,,,
+BoostCoin,BOST,boostcoin,,,,,,
+iCoin,ICN,icoin,29781663.0,1530473107.0,,"{'USD': {'price': 0.00403807, 'volume_24h': 20.1505, 'market_cap': 120260.0, 'percent_change_1h': -0.31, 'percent_change_24h': -0.39, 'percent_change_7d': 7.63}}",1221.0,29781663.0
+BitQuark,BTQ,bitquark,,,,,,
+Motocoin,MOTO,motocoin,,,,,,
+Mintcoin,MINT,mintcoin,24947260808.0,1530473104.0,,"{'USD': {'price': 0.000143419, 'volume_24h': 607.66, 'market_cap': 3577911.0, 'percent_change_1h': -1.01, 'percent_change_24h': 9.81, 'percent_change_7d': -9.89}}",627.0,24947260808.0
+Aricoin,ARI,aricoin,232432480.0,1530473103.0,,"{'USD': {'price': 0.00132499, 'volume_24h': 31.8717, 'market_cap': 307971.0, 'percent_change_1h': -0.31, 'percent_change_24h': -0.39, 'percent_change_7d': -4.47}}",1142.0,232432480.0
+Coin2.1,C2,coin2-1,,,,,,
+Fantomcoin,FCN,fantomcoin,,,,,,
+DopeCoin,DOPE,dopecoin,116845228.0,1530473103.0,,"{'USD': {'price': 0.0169267, 'volume_24h': 3143.2, 'market_cap': 1977804.0, 'percent_change_1h': -2.92, 'percent_change_24h': -5.66, 'percent_change_7d': -10.01}}",732.0,116845228.0
+ArtByte,ABY,artbyte,,,,,,
+NavCoin,NAV,nav-coin,,,,,,
+Auroracoin,AUR,auroracoin,8658139.0,1530473104.0,,"{'USD': {'price': 0.382484, 'volume_24h': 2302.81, 'market_cap': 3311600.0, 'percent_change_1h': -0.1, 'percent_change_24h': -7.7, 'percent_change_7d': -9.71}}",640.0,8658139.0
+Donationcoin,DON,donationcoin,,,,,,
+Animecoin,ANI,animecoin,,1530473103.0,,"{'USD': {'price': 0.00813923, 'volume_24h': 21558.8, 'market_cap': None, 'percent_change_1h': -0.31, 'percent_change_24h': -12.64, 'percent_change_7d': 25.41}}",1451.0,
+Pesetacoin,PTC,pesetacoin,134605664.0,1530473103.0,,"{'USD': {'price': 0.0208471, 'volume_24h': 2018.05, 'market_cap': 2806138.0, 'percent_change_1h': 3.43, 'percent_change_24h': -1.16, 'percent_change_7d': -3.71}}",669.0,134605664.0
+Kore,KORE,korecoin,,,,,,
+DigitalNote,XDN,digitalnote,,,,,,
+Marscoin,MARS,marscoin,28279074.0,1530473103.0,,"{'USD': {'price': 0.00839161, 'volume_24h': 106.749, 'market_cap': 237307.0, 'percent_change_1h': -0.31, 'percent_change_24h': 8.42, 'percent_change_7d': 19.55}}",1159.0,28279074.0
+SHACoin,SHA,shacoin,,,,,,
+BlazeCoin,BLZ,blazecoin,,,,,,
+HempCoin,THC,hempcoin,,,,,,
+BritCoin,BRIT,britcoin,,,,,,
+Cashcoin,CASH,cashcoin,47675905.0,1530473103.0,,"{'USD': {'price': 0.00940113, 'volume_24h': 1.05249, 'market_cap': 448207.0, 'percent_change_1h': 6.1, 'percent_change_24h': -12.69, 'percent_change_7d': 48.9}}",1112.0,47675905.0
+Riecoin,RIC,riecoin,43704150.0,1530473103.0,,"{'USD': {'price': 0.0494033, 'volume_24h': 2191.75, 'market_cap': 2159129.0, 'percent_change_1h': 1.37, 'percent_change_24h': 1.64, 'percent_change_7d': 2.12}}",717.0,43704150.0
+Pandacoin,PND,pandacoin-pnd,32514916898.0,1530473103.0,,"{'USD': {'price': 0.000141546, 'volume_24h': 1994.63, 'market_cap': 4602356.0, 'percent_change_1h': 11.9, 'percent_change_24h': -21.54, 'percent_change_7d': 1.06}}",564.0,32514916898.0
+Quatloo,QTL,quatloo,,,,,,
+BitShares,BTS,bitshares,,,,,,
+MAZA,MAZA,mazacoin,1055345280.0,1530473103.0,,"{'USD': {'price': 0.000567854, 'volume_24h': 3125.55, 'market_cap': 599282.0, 'percent_change_1h': -18.44, 'percent_change_24h': 12.06, 'percent_change_7d': 9.58}}",875.0,1371778720.0
+Truckcoin,TRK,truckcoin,,,,,,
+Viacoin,VIA,viacoin,,,,,,
+Triangles,TRI,triangles,,,,,,
+Uniform Fiscal Object,UFO,uniform-fiscal-object,3635240637.0,1530473101.0,4000000000.0,"{'USD': {'price': 0.000441664, 'volume_24h': 492.622, 'market_cap': 1605555.0, 'percent_change_1h': -0.31, 'percent_change_24h': -0.39, 'percent_change_7d': -9.88}}",1047.0,3635240637.0
+Cryptonite,XCN,cryptonite,,,,,,
+BlackCoin,BLK,blackcoin,76932377.0,1530473104.0,,"{'USD': {'price': 0.124459, 'volume_24h': 545335.0, 'market_cap': 9574927.0, 'percent_change_1h': -3.2, 'percent_change_24h': -3.51, 'percent_change_7d': -2.23}}",412.0,76932377.0
+CannabisCoin,CANN,cannabiscoin,,,,,,
+Stellar,XLM,stellar,,,,,,
+Titcoin,TIT,titcoin,,,,,,
+LiteBar,LTB,litebar,939017.0,1530473103.0,,"{'USD': {'price': 0.195657, 'volume_24h': 68.9061, 'market_cap': 183725.0, 'percent_change_1h': -0.31, 'percent_change_24h': -9.15, 'percent_change_7d': 0.97}}",1182.0,939017.0
+Photon,PHO,photon,23571557675.0,1530473104.0,,"{'USD': {'price': 4.2724e-05, 'volume_24h': 2223.03, 'market_cap': 1007071.0, 'percent_change_1h': 1.65, 'percent_change_24h': 6.37, 'percent_change_7d': 6.57}}",818.0,23571557675.0
+Joincoin,J,joincoin,,,,,,
+Syscoin,SYS,syscoin,,,,,,
+Bitmark,BTM,bitmark,,,,,,
+Halcyon,HAL,halcyon,,,,,,
+Storjcoin X,SJCX,storjcoin-x,,,,,,
+Zeitcoin,ZEIT,zeitcoin,36971209179.0,1530473103.0,,"{'USD': {'price': 5.6072e-05, 'volume_24h': 266.201, 'market_cap': 2073050.0, 'percent_change_1h': -0.19, 'percent_change_24h': -1.35, 'percent_change_7d': -6.98}}",1036.0,36971209179.0
+Myriad,XMY,myriad,1586060500.0,1530473103.0,,"{'USD': {'price': 0.00366004, 'volume_24h': 33012.6, 'market_cap': 5805045.0, 'percent_change_1h': 0.56, 'percent_change_24h': -4.71, 'percent_change_7d': -8.82}}",520.0,1586060500.0
+RabbitCoin,RBBT,rabbitcoin,,,,,,
+Burst,BURST,burst,,,,,,
+GameCredits,GAME,gamecredits,,,,,,
+WeAreSatoshi,WSX,wearesatoshi,,,,,,
+Ubiq,UBQ,ubiq,,,,,,
+BunnyCoin,BUN,bunnycoin,,,,,,
+Opal,OPAL,opal,,,,,,
+Acoin,ACOIN,acoin,,,,,,
+FoldingCoin,FLDC,foldingcoin,,,,,,
+bitUSD,BITUSD,bitusd,,,,,,
+bitCNY,BITCNY,bitcny,,,,,,
+bitBTC,BITBTC,bitbtc,,,,,,
+NuBits,USNBT,nubits,,,,,,
+Sterlingcoin,SLG,sterlingcoin,,,,,,
+Magi,XMG,magi,,,,,,
+ExclusiveCoin,EXCL,exclusivecoin,,,,,,
+Skeincoin,SKC,skeincoin,13377618.0,1530473107.0,,"{'USD': {'price': 0.0275094, 'volume_24h': 330.795, 'market_cap': 368010.0, 'percent_change_1h': -0.31, 'percent_change_24h': -0.2, 'percent_change_7d': 9.99}}",1131.0,16465727.0
+SuperNET,UNITY,supernet-unity,,,,,,
+Einsteinium,EMC2,einsteinium,217186621.0,1530473104.0,,"{'USD': {'price': 0.120101, 'volume_24h': 639494.0, 'market_cap': 26084330.0, 'percent_change_1h': -0.65, 'percent_change_24h': -3.97, 'percent_change_7d': 8.17}}",238.0,217186621.0
+DigitalPrice,DP,digitalprice,,,,,,
+Prime-XI,PXI,prime-xi,,,,,,
+Bitswift,SWIFT,bitswift,,,,,,
+Bitcoin Scrypt,BTCS,bitcoin-scrypt,17437663.0,1530473104.0,,"{'USD': {'price': 0.0207582, 'volume_24h': 525.875, 'market_cap': 361974.0, 'percent_change_1h': -0.31, 'percent_change_24h': -0.39, 'percent_change_7d': 4.88}}",914.0,17437663.0
+Coin(O),CNO,coin,105330612.0,1530473103.0,,"{'USD': {'price': 0.00132499, 'volume_24h': 173.693, 'market_cap': 139562.0, 'percent_change_1h': -0.31, 'percent_change_24h': -4.92, 'percent_change_7d': 20.66}}",1203.0,105330612.0
+Sativacoin,STV,sativacoin,,,,,,
+Verge,XVG,verge,,,,,,
+NuShares,NSR,nushares,,,,,,
+SpreadCoin,SPR,spreadcoin,,,,,,
+Rimbit,RBT,rimbit,,,,,,
+ECC,ECC,eccoin,25000000000.0,1530473104.0,25000000000.0,"{'USD': {'price': 0.000630807, 'volume_24h': 13129.2, 'market_cap': 15770175.0, 'percent_change_1h': -0.31, 'percent_change_24h': -0.41, 'percent_change_7d': -2.49}}",319.0,25000000000.0
+MonaCoin,MONA,monacoin,60553975.0,1530473104.0,,"{'USD': {'price': 2.05574, 'volume_24h': 299827.0, 'market_cap': 124483228.0, 'percent_change_1h': -0.04, 'percent_change_24h': -1.38, 'percent_change_7d': -3.04}}",70.0,60553975.0
+Gapcoin,GAP,gapcoin,,,,,,
+Rubycoin,RBY,rubycoin,25791466.0,1530473103.0,,"{'USD': {'price': 0.291518, 'volume_24h': 8154.86, 'market_cap': 7518677.0, 'percent_change_1h': 6.13, 'percent_change_24h': 6.27, 'percent_change_7d': -6.06}}",473.0,25791466.0
+Crown,CRW,crown,,,,,,
+Bela,BELA,belacoin,,1530473103.0,41120107.0,"{'USD': {'price': 0.0402422, 'volume_24h': 457.376, 'market_cap': None, 'percent_change_1h': -0.42, 'percent_change_24h': 6.06, 'percent_change_7d': 16.7}}",1491.0,39620107.0
+FlutterCoin,FLT,fluttercoin,436450711.0,1530473107.0,,"{'USD': {'price': 0.0011988, 'volume_24h': 129.588, 'market_cap': 523217.0, 'percent_change_1h': -0.31, 'percent_change_24h': -5.37, 'percent_change_7d': 9.33}}",1101.0,436450711.0
+Quotient,XQN,quotient,,,,,,
+Bytecent,BYC,bytecent,,,,,,
+OctoCoin,888,octocoin,54902974.0,1530473107.0,,"{'USD': {'price': 0.0023976, 'volume_24h': 23.069, 'market_cap': 131635.0, 'percent_change_1h': -0.31, 'percent_change_24h': -7.09, 'percent_change_7d': -28.92}}",1212.0,54902974.0
+OKCash,OK,okcash,,,,,,
+PayCoin,XPY,paycoin2,,,,,,
+FairCoin,FAIR,faircoin,53193831.0,1530473104.0,,"{'USD': {'price': 0.407719, 'volume_24h': 361.11, 'market_cap': 21688136.0, 'percent_change_1h': -5.96, 'percent_change_24h': -8.03, 'percent_change_7d': 35.85}}",1000.0,53193831.0
+bitGold,BITGOLD,bitgold,,,,,,
+Unitus,UIS,unitus,,,,,,
+GoldPieces,GP,goldpieces,,,,,,
+Circuits of Value,COVAL,circuits-of-value,,,,,,
+Nexus,NXS,nexus,,,,,,
+SoonCoin,SOON,sooncoin,,,,,,
+MetalCoin,METAL,metalcoin,,,,,,
+IncaKoin,NKA,incakoin,,,,,,
+SolarCoin,SLR,solarcoin,44007443.0,1530473103.0,,"{'USD': {'price': 0.311811, 'volume_24h': 3844.04, 'market_cap': 13722005.0, 'percent_change_1h': 8.2, 'percent_change_24h': 89.49, 'percent_change_7d': 67.9}}",342.0,98034462850.0
+e-Gulden,EFL,e-gulden,16823577.0,1530473104.0,21000000.0,"{'USD': {'price': 0.0763958, 'volume_24h': 3637.51, 'market_cap': 1285251.0, 'percent_change_1h': 0.15, 'percent_change_24h': 4.93, 'percent_change_7d': 18.01}}",786.0,20749517.0
+bitSilver,BITSILVER,bitsilver,,,,,,
+Dotcoin,DOT,dotcoin,,,,,,
+Kobocoin,KOBO,kobocoin,,,,,,
+PayCon,CON,paycon,,,,,,
+Bean Cash,BITB,bean-cash,,,,,,
+GeoCoin,GEO,geocoin,,,,,,
+Tether,USDT,tether,,,,,,
+Wild Beast Block,WBB,wild-beast-block,,,,,,
+GridCoin,GRC,gridcoin,,,,,,
+Vcash,XVC,vcash,,,,,,
+X-Coin,XCO,x-coin,,,,,,
+Sharkcoin,SAK,sharkcoin,,,,,,
+LiteDoge,LDOGE,litedoge,,,,,,
+SongCoin,SONG,songcoin,,,,,,
+Woodcoin,LOG,woodcoin,,,,,,
+Crave,CRAVE,crave,,,,,,
+Pura,PURA,pura,,,,,,
+NEM,XEM,nem,,,,,,
+8Bit,8BIT,8bit,,,,,,
+Gulden,NLG,gulden,400233900.0,1530473104.0,,"{'USD': {'price': 0.070196, 'volume_24h': 71576.4, 'market_cap': 28094819.0, 'percent_change_1h': 0.1, 'percent_change_24h': 2.25, 'percent_change_7d': 0.21}}",224.0,471733900.0
+Neutron,NTRN,neutron,,,,,,
+Xaurum,XAUR,xaurum,,,,,,
+Polcoin,PLC,polcoin,78446045.0,1530473103.0,218500000.0,"{'USD': {'price': 0.00113571, 'volume_24h': 46.1182, 'market_cap': 89092.0, 'percent_change_1h': -0.31, 'percent_change_24h': -5.63, 'percent_change_7d': -2.51}}",1244.0,78446045.0
+Groestlcoin,GRS,groestlcoin,70367244.0,1530473103.0,105000000.0,"{'USD': {'price': 0.618672, 'volume_24h': 6227220.0, 'market_cap': 43534244.0, 'percent_change_1h': 0.07, 'percent_change_24h': 0.72, 'percent_change_7d': 5.51}}",166.0,70367244.0
+EggCoin,EGG,eggcoin,,,,,,
+PetroDollar,XPD,petrodollar,63993275.0,1530473108.0,,"{'USD': {'price': 0.00769757, 'volume_24h': 170.414, 'market_cap': 492593.0, 'percent_change_1h': -0.31, 'percent_change_24h': -0.12, 'percent_change_7d': 2.4}}",1106.0,63993275.0
+MedicCoin,MEDIC,mediccoin,,,,,,
+Bubble,BUB,bubble,,,,,,
+PLNcoin,PLNC,plncoin,17089600.0,1530473104.0,38540000.0,"{'USD': {'price': 0.000946423, 'volume_24h': 1.45604, 'market_cap': 16174.0, 'percent_change_1h': -0.31, 'percent_change_24h': -0.02, 'percent_change_7d': 22.46}}",1323.0,19089600.0
+Universal Currency,UNIT,universal-currency,,,,,,
+ShellCoin,SHELL,shellcoin,,,,,,
+Crypto,CTO,crypto,,,,,,
+ParkByte,PKB,parkbyte,,,,,,
+WhiteCoin,XWC,whitecoin,249173554.0,1530473112.0,,"{'USD': {'price': 0.105757, 'volume_24h': 53383.9, 'market_cap': 26351848.0, 'percent_change_1h': -0.12, 'percent_change_24h': -2.5, 'percent_change_7d': 29.39}}",235.0,249173554.0
+AsiaCoin,AC,asiacoin,1661017438.0,1530473101.0,,"{'USD': {'price': 0.00252379, 'volume_24h': 15.8999, 'market_cap': 4192059.0, 'percent_change_1h': -0.31, 'percent_change_24h': -2.82, 'percent_change_7d': 9.68}}",1018.0,1661017438.0
+Bata,BTA,bata,,,,,,
+AudioCoin,ADC,audiocoin,,,,,,
+Synergy,SNRG,synergy,,,,,,
+bitEUR,BITEUR,biteur,,,,,,
+UniCoin,UNIC,unicoin,,,,,,
+PopularCoin,POP,popularcoin,3819437692.0,1530473107.0,4999999999.0,"{'USD': {'price': 0.000252379, 'volume_24h': 123.777, 'market_cap': 963946.0, 'percent_change_1h': -0.31, 'percent_change_24h': 40.62, 'percent_change_7d': 13.06}}",1069.0,3819437692.0
+Bitstar,BITS,bitstar,19463678.0,1530473103.0,,"{'USD': {'price': 0.0145747, 'volume_24h': 503.666, 'market_cap': 283677.0, 'percent_change_1h': -2.4, 'percent_change_24h': 5.03, 'percent_change_7d': -10.92}}",926.0,19463678.0
+The Cypherfunks,FUNK,the-cypherfunks,,,,,,
+Quebecoin,QBC,quebecoin,15588776.0,1530473104.0,42000000.0,"{'USD': {'price': 0.00529997, 'volume_24h': 225.975, 'market_cap': 82620.0, 'percent_change_1h': -0.31, 'percent_change_24h': -1.85, 'percent_change_7d': -2.11}}",1247.0,36375376.0
+CannaCoin,CCN,cannacoin,4701839.0,1530473101.0,,"{'USD': {'price': 0.0437878, 'volume_24h': 699.321, 'market_cap': 205883.0, 'percent_change_1h': -0.31, 'percent_change_24h': -0.39, 'percent_change_7d': -1.32}}",939.0,4701839.0
+CrevaCoin,CREVA,crevacoin,,,,,,
+IrishCoin,IRL,irishcoin,,,,,,
+Bitzeny,ZNY,bitzeny,,,,,,
+BowsCoin,BSC,bowscoin,,,,,,
+AnarchistsPrime,ACP,anarchistsprime,,,,,,
+CompuCoin,CPN,compucoin,,,,,,
+ChainCoin,CHC,chaincoin,,,,,,
+Slothcoin,SLOTH,slothcoin,,1530473107.0,,"{'USD': {'price': 3.1361e-06, 'volume_24h': 115.94, 'market_cap': None, 'percent_change_1h': -0.13, 'percent_change_24h': -0.46, 'percent_change_7d': -1.64}}",1517.0,
+Helleniccoin,HNC,helleniccoin,,,,,,
+Capricoin,CPC,capricoin,,,,,,
+BlueCoin,BLU,bluecoin,574683675.0,1530473104.0,,"{'USD': {'price': 0.00239072, 'volume_24h': 449.105, 'market_cap': 1373908.0, 'percent_change_1h': 5.84, 'percent_change_24h': -27.42, 'percent_change_7d': -28.27}}",1051.0,574683675.0
+MaidSafeCoin,MAID,maidsafecoin,452552412.0,1530473104.0,,"{'USD': {'price': 0.327198, 'volume_24h': 1675130.0, 'market_cap': 148074244.0, 'percent_change_1h': -0.33, 'percent_change_24h': -0.67, 'percent_change_7d': 7.83}}",65.0,452552412.0
+Axiom,AXIOM,axiom,,,,,,
+Bitcoin Plus,XBC,bitcoin-plus,111338.0,1530473103.0,1000000.0,"{'USD': {'price': 25.6812, 'volume_24h': 68913.4, 'market_cap': 2859300.0, 'percent_change_1h': -0.31, 'percent_change_24h': -3.97, 'percent_change_7d': -1.43}}",666.0,111338.0
+Aeon,AEON,aeon,,,,,,
+BTCtalkcoin,TALK,btctalkcoin,65290635.0,1530473107.0,,"{'USD': {'price': 0.00618329, 'volume_24h': 605.02, 'market_cap': 403711.0, 'percent_change_1h': -0.31, 'percent_change_24h': -0.39, 'percent_change_7d': 7.83}}",907.0,65290635.0
+SJWCoin,SJW,sjwcoin,,,,,,
+TransferCoin,TX,transfercoin,,,,,,
+NewYorkCoin,NYC,newyorkcoin,134024588760.0,1530473104.0,,"{'USD': {'price': 4.55253e-05, 'volume_24h': 2929.97, 'market_cap': 6101510.0, 'percent_change_1h': 5.15, 'percent_change_24h': -3.67, 'percent_change_7d': -10.39}}",513.0,134024588760.0
+AmsterdamCoin,AMS,amsterdamcoin,,,,,,
+Eurocoin,EUC,eurocoin,,,,,,
+Siacoin,SC,siacoin,,,,,,
+Global Currency Reserve,GCR,global-currency-reserve,,,,,,
+Shift,SHIFT,shift,,,,,,
+Canada eCoin,CDN,canada-ecoin,97415544.0,1530473104.0,,"{'USD': {'price': 0.00861767, 'volume_24h': 79.1885, 'market_cap': 839495.0, 'percent_change_1h': -0.36, 'percent_change_24h': 1.73, 'percent_change_7d': -4.84}}",1073.0,97415544.0
+Bolivarcoin,BOLI,bolivarcoin,,,,,,
+SpaceCoin,SPACE,spacecoin,,,,,,
+Bitcrystals,BCY,bitcrystals,,,,,,
+Pakcoin,PAK,pakcoin,,,,,,
+Influxcoin,INFX,influxcoin,,,,,,
+Expanse,EXP,expanse,,,,,,
+SIBCoin,SIB,sibcoin,,,,,,
+Guncoin,GUN,guncoin,218777128.0,1530473103.0,500000000.0,"{'USD': {'price': 0.00170356, 'volume_24h': 312.66, 'market_cap': 372700.0, 'percent_change_1h': 7.66, 'percent_change_24h': 6.98, 'percent_change_7d': 7.29}}",1129.0,218777128.0
+PinkCoin,PINK,pinkcoin,381906699.0,1530473108.0,,"{'USD': {'price': 0.0123777, 'volume_24h': 30229.9, 'market_cap': 4727127.0, 'percent_change_1h': -0.75, 'percent_change_24h': -12.75, 'percent_change_7d': 7.61}}",559.0,392906699.0
+Factom,FCT,factom,,,,,,
+ParallelCoin,DUO,parallelcoin,,,,,,
+Dreamcoin,DRM,dreamcoin,2481628.0,1530473104.0,,"{'USD': {'price': 0.0102214, 'volume_24h': 2.86596, 'market_cap': 25366.0, 'percent_change_1h': -0.31, 'percent_change_24h': -0.44, 'percent_change_7d': None}}",1311.0,2481628.0
+CoffeeCoin,CFC,coffeecoin,,1530432010.0,,"{'USD': {'price': 0.00114651, 'volume_24h': None, 'market_cap': None, 'percent_change_1h': None, 'percent_change_24h': 0.56, 'percent_change_7d': -19.16}}",1576.0,
+DigiCube,CUBE,digicube,,,,,,
+Augur,REP,augur,,,,,,
+StrongHands,SHND,stronghands,,,,,,
+PACcoin,$PAC,paccoin,,,,,,
+Energycoin,ENRG,energycoin,122002374.0,1530473101.0,,"{'USD': {'price': 0.0297808, 'volume_24h': 9031.22, 'market_cap': 3633328.0, 'percent_change_1h': 2.07, 'percent_change_24h': -3.74, 'percent_change_7d': -2.47}}",623.0,122002374.0
+VeriCoin,VRC,vericoin,31046715.0,1530473104.0,,"{'USD': {'price': 0.183976, 'volume_24h': 409036.0, 'market_cap': 5711850.0, 'percent_change_1h': -0.79, 'percent_change_24h': -2.7, 'percent_change_7d': -9.28}}",521.0,31046715.0
+SOILcoin,SOIL,soilcoin,,,,,,
+TEKcoin,TEK,tekcoin,1414054562.0,1530473104.0,,"{'USD': {'price': 0.000175485, 'volume_24h': 29.1801, 'market_cap': 248145.0, 'percent_change_1h': 11.05, 'percent_change_24h': -7.65, 'percent_change_7d': 22.88}}",1153.0,1414054562.0
+DraftCoin,DFT,draftcoin,,,,,,
+OBITS,OBITS,obits,,,,,,
+Monero,XMR,monero,16184908.0,1530473104.0,,"{'USD': {'price': 127.733, 'volume_24h': 31552000.0, 'market_cap': 2067346837.0, 'percent_change_1h': -0.3, 'percent_change_24h': -1.63, 'percent_change_7d': 7.52}}",12.0,16184908.0
+ClubCoin,CLUB,clubcoin,,,,,,
+Adzcoin,ADZ,adzcoin,,,,,,
+Litecoin Plus,LCP,litecoin-plus,1584766.0,1530473101.0,4000000.0,"{'USD': {'price': 0.12619, 'volume_24h': 1242.17, 'market_cap': 199982.0, 'percent_change_1h': -0.31, 'percent_change_24h': -1.57, 'percent_change_7d': -4.87}}",943.0,1584766.0
+AvatarCoin,AV,avatarcoin,,,,,,
+Curecoin,CURE,curecoin,23881328.0,1530473107.0,,"{'USD': {'price': 0.165344, 'volume_24h': 1374.38, 'market_cap': 3948634.0, 'percent_change_1h': -0.67, 'percent_change_24h': 0.55, 'percent_change_7d': 0.6}}",604.0,23881328.0
+UnbreakableCoin,UNB,unbreakablecoin,2278150.0,1530473105.0,,"{'USD': {'price': 0.29199, 'volume_24h': 13313.9, 'market_cap': 665197.0, 'percent_change_1h': -0.82, 'percent_change_24h': -2.81, 'percent_change_7d': -7.65}}",863.0,2278150.0
+Creditbit,CRB,creditbit,,,,,,
+Radium,RADS,radium,,,,,,
+CryptCoin,CRYPT,cryptcoin,,1530457863.0,,"{'USD': {'price': 0.0736726, 'volume_24h': None, 'market_cap': None, 'percent_change_1h': None, 'percent_change_24h': -0.42, 'percent_change_7d': -14.24}}",1577.0,6070409.0
+QuazarCoin,QCN,quazarcoin,7133042.0,1528332844.0,,"{'USD': {'price': 0.0153449, 'volume_24h': None, 'market_cap': 109456.0, 'percent_change_1h': None, 'percent_change_24h': None, 'percent_change_7d': None}}",1230.0,7133042.0
+SaluS,SLS,salus,,,,,,
+Francs,FRN,francs,,,,,,
+SuperCoin,SUPER,supercoin,49123413.0,1530473108.0,,"{'USD': {'price': 0.00570503, 'volume_24h': 169.725, 'market_cap': 280251.0, 'percent_change_1h': -0.31, 'percent_change_24h': 30.75, 'percent_change_7d': 40.17}}",1149.0,49123413.0
+Decred,DCR,decred,,,,,,
+PIVX,PIVX,pivx,,,,,,
+Safe Exchange Coin,SAFEX,safe-exchange-coin,,,,,,
+Rubies,RBIES,rubies,,,,,,
+Asiadigicoin,ADCN,asiadigicoin,,,,,,
+KiloCoin,KLC,kilocoin,,,,,,
+TrumpCoin,TRUMP,trumpcoin,,,,,,
+Memetic / PepeCoin,MEME,memetic,,,,,,
+BoostCoin,BOST,boostcoin,11855487.0,1530403923.0,,"{'USD': {'price': 0.00988047, 'volume_24h': None, 'market_cap': 117138.0, 'percent_change_1h': None, 'percent_change_24h': 1.29, 'percent_change_7d': None}}",1224.0,11855487.0
+Independent Money System,IMS,independent-money-system,,,,,,
+HOdlcoin,HODL,hodlcoin,,,,,,
+Hyper,HYPER,hyper,,1530473103.0,,"{'USD': {'price': 0.0124928, 'volume_24h': 3.74783, 'market_cap': None, 'percent_change_1h': -0.31, 'percent_change_24h': 5.91, 'percent_change_7d': 2.0}}",1562.0,
+NevaCoin,NEVA,nevacoin,,,,,,
+BumbaCoin,BUMBA,bumbacoin,,,,,,
+BitQuark,BTQ,bitquark,10381176.0,1530473103.0,,"{'USD': {'price': 0.0061202, 'volume_24h': 26.5993, 'market_cap': 63535.0, 'percent_change_1h': -0.31, 'percent_change_24h': -0.39, 'percent_change_7d': 18.03}}",1265.0,10381176.0
+PosEx,PEX,posex,,,,,,
+Cabbage,CAB,cabbage,,,,,,
+MojoCoin,MOJO,mojocoin,,,,,,
+Motocoin,MOTO,motocoin,19642673.0,1530473107.0,,"{'USD': {'price': 0.0154556, 'volume_24h': 6.19031, 'market_cap': 303589.0, 'percent_change_1h': -21.32, 'percent_change_24h': -51.29, 'percent_change_7d': -5.15}}",1144.0,32173303.0
+Lisk,LSK,lisk,,,,,,
+CloakCoin,CLOAK,cloakcoin,5156742.0,1530473112.0,,"{'USD': {'price': 4.55833, 'volume_24h': 2178740.0, 'market_cap': 23506134.0, 'percent_change_1h': 17.23, 'percent_change_24h': 20.91, 'percent_change_7d': 8.08}}",258.0,5156742.0
+PostCoin,POST,postcoin,,,,,,
+BERNcash,BERN,berncash,,,,,,
+Qwark,QWARK,qwark,,,,,,
+BitSend,BSD,bitsend,19665725.0,1530473103.0,,"{'USD': {'price': 0.258401, 'volume_24h': 42684.1, 'market_cap': 5081643.0, 'percent_change_1h': -1.62, 'percent_change_24h': -4.81, 'percent_change_7d': -9.45}}",545.0,19665725.0
+Coin2.1,C2,coin2-1,78245975.0,1530473103.0,,"{'USD': {'price': 0.00195338, 'volume_24h': 205.417, 'market_cap': 152844.0, 'percent_change_1h': -0.31, 'percent_change_24h': -5.97, 'percent_change_7d': 22.57}}",1196.0,133273764.0
+Fantasy Cash,FANS,fantasy-cash,,,,,,
+Espers,ESP,espers,,,,,,
+Fantomcoin,FCN,fantomcoin,7272036.0,1530473107.0,,"{'USD': {'price': 0.138809, 'volume_24h': 1216.49, 'market_cap': 1009424.0, 'percent_change_1h': -0.31, 'percent_change_24h': -2.96, 'percent_change_7d': -43.44}}",834.0,7272036.0
+HiCoin,XHI,hicoin,,,,,,
+Bytecoin,BCN,bytecoin-bcn,183890481254.0,1530473104.0,184470000000.0,"{'USD': {'price': 0.00288747, 'volume_24h': 6942990.0, 'market_cap': 530978248.0, 'percent_change_1h': -0.27, 'percent_change_24h': -1.11, 'percent_change_7d': 10.26}}",26.0,183890481254.0
+Bitcoin 21,XBTC21,bitcoin-21,,,,,,
+ArtByte,ABY,artbyte,792537250.0,1530473103.0,,"{'USD': {'price': 0.00360357, 'volume_24h': 6263.06, 'market_cap': 2855963.0, 'percent_change_1h': -0.46, 'percent_change_24h': -0.96, 'percent_change_7d': -7.35}}",667.0,792537250.0
+Zurcoin,ZUR,zurcoin,,,,,,
+SixEleven,611,sixeleven,,,,,,
+NavCoin,NAV,nav-coin,63023817.0,1530473101.0,,"{'USD': {'price': 0.475287, 'volume_24h': 3179990.0, 'market_cap': 29954401.0, 'percent_change_1h': -3.32, 'percent_change_24h': 11.18, 'percent_change_7d': 13.49}}",210.0,63023817.0
+PlatinumBAR,XPTX,platinumbar,,,,,,
+Alphabit,ABC,alphabitcoinfund,,,,,,
+LanaCoin,LANA,lanacoin,,,,,,
+PonziCoin,PONZI,ponzicoin,,,,,,
+Granite,GRN,granitecoin,39450000.0,1530473107.0,65000000.0,"{'USD': {'price': 0.00391188, 'volume_24h': 10.1275, 'market_cap': 154324.0, 'percent_change_1h': -0.31, 'percent_change_24h': 1.24, 'percent_change_7d': 18.26}}",1195.0,40100000.0
+MarteXcoin,MXT,martexcoin,,,,,,
+Nullex,NLX,nullex,,,,,,
+Donationcoin,DON,donationcoin,,1530473104.0,,"{'USD': {'price': 0.000694043, 'volume_24h': 10.9746, 'market_cap': None, 'percent_change_1h': -0.31, 'percent_change_24h': 9.57, 'percent_change_7d': -6.9}}",1546.0,
+Piggycoin,PIGGY,piggycoin,490460575.0,1530473103.0,,"{'USD': {'price': 0.000718642, 'volume_24h': 275.798, 'market_cap': 352466.0, 'percent_change_1h': -0.31, 'percent_change_24h': -2.71, 'percent_change_7d': -2.09}}",1134.0,490460575.0
+Waves,WAVES,waves,,,,,,
+ICO OpenLedger,ICOO,ico-openledger,,,,,,
+Startcoin,START,startcoin,45079785.0,1530473103.0,,"{'USD': {'price': 0.00875535, 'volume_24h': 47.6611, 'market_cap': 394689.0, 'percent_change_1h': -0.31, 'percent_change_24h': -0.61, 'percent_change_7d': 10.12}}",1122.0,70782220.0
+ION,ION,ion,,,,,,
+High Voltage,HVCO,high-voltage,,,,,,
+Mineum,MNM,mineum,,,,,,
+RevolverCoin,XRE,revolvercoin,,,,,,
+GoldBlocks,GB,goldblocks,,,,,,
+Breakout,BRK,breakout,,,,,,
+Debitcoin,DBTC,debitcoin,,,,,,
+Comet,CMT,comet,,,,,,
+Rise,RISE,rise,,,,,,
+ChessCoin,CHESS,chesscoin,,,,,,
+Kore,KORE,korecoin,2022465.0,1530473107.0,12000000.0,"{'USD': {'price': 1.55749, 'volume_24h': 9635.15, 'market_cap': 3149969.0, 'percent_change_1h': -1.41, 'percent_change_24h': -5.47, 'percent_change_7d': 2.29}}",646.0,2022465.0
+PutinCoin,PUT,putincoin,,,,,,
+Breakout Stake,BRX,breakout-stake,,,,,,
+Syndicate,SYNX,syndicate,,,,,,
+Cryptojacks,CJ,cryptojacks,,,,,,
+DigitalNote,XDN,digitalnote,6906847847.0,1530473104.0,8589869056.0,"{'USD': {'price': 0.00574163, 'volume_24h': 1623620.0, 'market_cap': 39656565.0, 'percent_change_1h': 1.93, 'percent_change_24h': -2.7, 'percent_change_7d': -4.86}}",179.0,6906847847.0
+Boolberry,BBR,boolberry,11726387.0,1530473104.0,18450000.0,"{'USD': {'price': 1.13571, 'volume_24h': 9535.55, 'market_cap': 13317775.0, 'percent_change_1h': 16.93, 'percent_change_24h': 28.69, 'percent_change_7d': 27.51}}",350.0,11726387.0
+Steem Dollars,SBD,steem-dollars,,,,,,
+Ardor,ARDR,ardor,,,,,,
+Ethereum Classic,ETC,ethereum-classic,,,,,,
+808Coin,808,808coin,,,,,,
+SHACoin,SHA,shacoin,,1530473103.0,,"{'USD': {'price': 0.000567854, 'volume_24h': 4133.77, 'market_cap': None, 'percent_change_1h': 9.86, 'percent_change_24h': 49.41, 'percent_change_7d': 55.14}}",1471.0,
+Elementrem,ELE,elementrem,,,,,,
+UGAIN,GAIN,ugain,,,,,,
+Karbo,KRB,karbo,,,,,,
+BlazeCoin,BLZ,blazecoin,608557394.0,1530473107.0,,"{'USD': {'price': 0.000375319, 'volume_24h': 41.7284, 'market_cap': 228403.0, 'percent_change_1h': -0.37, 'percent_change_24h': -2.53, 'percent_change_7d': -0.88}}",1164.0,608557394.0
+HempCoin,THC,hempcoin,230478760.0,1530473104.0,,"{'USD': {'price': 0.0544509, 'volume_24h': 39185.5, 'market_cap': 12549776.0, 'percent_change_1h': -1.0, 'percent_change_24h': 2.09, 'percent_change_7d': 10.85}}",364.0,230478760.0
+President Trump,PRES,president-trump,,,,,,
+Aces,ACES,aces,,,,,,
+President Johnson,GARY,president-johnson,,,,,,
+TajCoin,TAJ,tajcoin,,,,,,
+E-Dinar Coin,EDR,e-dinar-coin,,,,,,
+Artex Coin,ATX,artex-coin,,,,,,
+Experience Points,XP,experience-points,,,,,,
+Veltor,VLT,veltor,,,,,,
+B3Coin,KB3,b3coin,,,,,,
+BritCoin,BRIT,britcoin,21268092.0,1530473104.0,,"{'USD': {'price': 0.0182344, 'volume_24h': 205.176, 'market_cap': 387811.0, 'percent_change_1h': -0.31, 'percent_change_24h': -1.75, 'percent_change_7d': -14.6}}",1125.0,21268092.0
+NEO,NEO,neo,,,,,,
+LoMoCoin,LMC,lomocoin,,,,,,
+Bitcloud,BTDX,bitcloud,,,,,,
+NoLimitCoin,NLC2,nolimitcoin,,,,,,
+VeriumReserve,VRM,veriumreserve,,,,,,
+Zayedcoin,ZYD,zayedcoin,,,,,,
+Jin Coin,JIN,jin-coin,,,,,,
+Tao,XTO,tao,,,,,,
+Pluton,PLU,pluton,,,,,,
+Tellurion,TELL,tellurion,,,,,,
+Dollarcoin,DLC,dollarcoin,,,,,,
+MustangCoin,MST,mustangcoin,,,,,,
+Beatcoin,XBTS,beatcoin,,,,,,
+PROUD Money,PROUD,proud-money,,,,,,
+Sequence,SEQ,sequence,,,,,,
+Omicron,OMC,omicron,,,,,,
+FirstBlood,1ST,firstblood,,,,,,
+Pepe Cash,PEPECASH,pepe-cash,,,,,,
+Iconomi,ICN,iconomi,,,,,,
+SingularDTV,SNGLS,singulardtv,,,,,,
+ZCoin,XZC,zcoin,,,,,,
+Stealth,XST,stealth,29175195.0,1530473103.0,,"{'USD': {'price': 0.173135, 'volume_24h': 1383.11, 'market_cap': 5051247.0, 'percent_change_1h': -1.12, 'percent_change_24h': -2.42, 'percent_change_7d': -8.59}}",547.0,29175195.0
+Atomic Coin,ATOM,atomic-coin,,,,,,
+TrustPlus,TRUST,trustplus,32086595.0,1530473107.0,,"{'USD': {'price': 0.0301593, 'volume_24h': 968.543, 'market_cap': 967709.0, 'percent_change_1h': -1.75, 'percent_change_24h': -1.22, 'percent_change_7d': -10.42}}",823.0,32086595.0
+Triggers,TRIG,triggers,,,,,,
+Sakuracoin,SKR,sakuracoin,,,,,,
+Levocoin,LEVO,levocoin,,,,,,
+Advanced Technology Coin,ARC,arcticcoin,,,,,,
+Cubits,QBT,cubits,,,,,,
+DynamicCoin,DMC,dynamiccoin,,,,,,
+Zcash,ZEC,zcash,,,,,,
+AllSafe,ASAFE2,allsafe,,,,,,
+BipCoin,BIP,bipcoin,,,,,,
+Clams,CLAM,clams,3108690.0,1530473103.0,,"{'USD': {'price': 2.56689, 'volume_24h': 6241.18, 'market_cap': 7979665.0, 'percent_change_1h': -1.05, 'percent_change_24h': -0.74, 'percent_change_7d': 15.02}}",465.0,16770381.0
+Quatloo,QTL,quatloo,7718883.0,1530473103.0,,"{'USD': {'price': 0.0154582, 'volume_24h': 14.0829, 'market_cap': 119320.0, 'percent_change_1h': -0.31, 'percent_change_24h': -0.39, 'percent_change_7d': 18.1}}",1222.0,7718883.0
+WA Space,WA,wa-space,,,,,,
+BitShares,BTS,bitshares,2637670000.0,1530473103.0,3600570502.0,"{'USD': {'price': 0.136581, 'volume_24h': 6041840.0, 'market_cap': 360255606.0, 'percent_change_1h': -1.08, 'percent_change_24h': -0.61, 'percent_change_7d': 2.53}}",35.0,2637670000.0
+Golem,GNT,golem-network-tokens,,,,,,
+ZetaMicron,ZMC,zetamicron,,,,,,
+Bitcurrency,BTCR,bitcurrency,,,,,,
+BitcoinDark,BTCD,bitcoindark,1288862.0,1530473107.0,,"{'USD': {'price': 50.0559, 'volume_24h': 68392.5, 'market_cap': 64515157.0, 'percent_change_1h': -0.32, 'percent_change_24h': 2.19, 'percent_change_7d': 3.37}}",123.0,1288862.0
+Truckcoin,TRK,truckcoin,195339500.0,1530473104.0,,"{'USD': {'price': 0.00189285, 'volume_24h': 94.8975, 'market_cap': 369748.0, 'percent_change_1h': -0.31, 'percent_change_24h': -3.6, 'percent_change_7d': -17.47}}",1130.0,195339500.0
+Veros,VRS,veros,,,,,,
+Viacoin,VIA,viacoin,23059620.0,1530473125.0,23176392.0,"{'USD': {'price': 1.07493, 'volume_24h': 147636.0, 'market_cap': 24787477.0, 'percent_change_1h': 0.08, 'percent_change_24h': 0.11, 'percent_change_7d': 14.67}}",245.0,23059620.0
+Kurrent,KURT,kurrent,,,,,,
+Creatio,XCRE,creatio,,,,,,
+Rawcoin,XRC,rawcoin2,,,,,,
+Pascal Coin,PASC,pascal-coin,,,,,,
+Eternity,ENT,eternity,,,,,,
+Incent,INCNT,incent,,,,,,
+Triangles,TRI,triangles,114309.0,1530473103.0,,"{'USD': {'price': 2.50512, 'volume_24h': 21.51, 'market_cap': 286358.0, 'percent_change_1h': -0.31, 'percent_change_24h': 2.85, 'percent_change_7d': -9.99}}",1147.0,114309.0
+Golos,GOLOS,golos,,,,,,
+Nexium,NXC,nexium,,,,,,
+vSlice,VSL,vslice,,,,,,
+Dollar Online,DOLLAR,dollar-online,,,,,,
+Vault Coin,VLTC,vault-coin,,,,,,
+Pabyosi Coin (Special),PCS,pabyosi-coin-special,,,,,,
+T-coin,TCOIN,t-coin,,,,,,
+Byteball Bytes,GBYTE,byteball,,,,,,
+PoSW Coin,POSW,posw-coin,,,,,,
+Luna Coin,LUNA,luna-coin,,,,,,
+Fargocoin,FRGC,fargocoin,,,,,,
+Wings,WINGS,wings,,,,,,
+Dix Asset,DIX,dix-asset,,,,,,
+Darcrus,DAR,darcrus,,,,,,
+InflationCoin,IFLT,inflationcoin,,,,,,
+Spectrecoin,XSPEC,spectrecoin,,,,,,
+Safe Trade Coin,XSTC,safe-trade-coin,,,,,,
+I/O Coin,IOC,iocoin,16806156.0,1530473107.0,,"{'USD': {'price': 0.494096, 'volume_24h': 3411.02, 'market_cap': 8303854.0, 'percent_change_1h': -2.47, 'percent_change_24h': -0.05, 'percent_change_7d': 16.33}}",452.0,16806156.0
+BenjiRolls,BENJI,benjirolls,,,,,,
+CryptoCarbon,CCRB,cryptocarbon,,,,,,
+PureVidz,VIDZ,purevidz,,,,,,
+BitConnect,BCC,bitconnect,,,,,,
+ICOBID,ICOB,icobid,,,,,,
+Cryptonite,XCN,cryptonite,422257153.0,1530473104.0,,"{'USD': {'price': 0.00127709, 'volume_24h': 34.6921, 'market_cap': 539260.0, 'percent_change_1h': -6.34, 'percent_change_24h': 4.94, 'percent_change_7d': 3.83}}",1096.0,422257153.0
+Carboncoin,CARBON,carboncoin,15392021145.0,1530473103.0,,"{'USD': {'price': 6.57407e-05, 'volume_24h': 335.058, 'market_cap': 1011882.0, 'percent_change_1h': -46.19, 'percent_change_24h': -22.95, 'percent_change_7d': 7.76}}",1067.0,15392021145.0
+Digital Rupees,DRS,digital-rupees,,,,,,
+Komodo,KMD,komodo,,,,,,
+FirstCoin,FRST,firstcoin,,,,,,
+CannabisCoin,CANN,cannabiscoin,77231176.0,1530473103.0,,"{'USD': {'price': 0.0213317, 'volume_24h': 5251.53, 'market_cap': 1647472.0, 'percent_change_1h': -0.17, 'percent_change_24h': 7.05, 'percent_change_7d': -9.0}}",755.0,91859176.0
+Tattoocoin (Standard Edition),TSE,tattoocoin,,,,,,
+Solarflarecoin,SFC,solarflarecoin,,,,,,
+Zilbercoin,ZBC,zilbercoin,,,,,,
+Waves Community Token,WCT,waves-community-token,,,,,,
+Iconic,ICON,iconic,,,,,,
+Stellar,XLM,stellar,18760439185.0,1530473108.0,,"{'USD': {'price': 0.197575, 'volume_24h': 41664800.0, 'market_cap': 3706593772.0, 'percent_change_1h': 0.76, 'percent_change_24h': 3.41, 'percent_change_7d': 2.06}}",7.0,104065507794.0
+Titcoin,TIT,titcoin,49898202.0,1530473107.0,,"{'USD': {'price': 0.00293921, 'volume_24h': 17.1687, 'market_cap': 146661.0, 'percent_change_1h': 0.61, 'percent_change_24h': 0.29, 'percent_change_7d': 9.06}}",1200.0,49898202.0
+Avoncoin,ACN,avoncoin,,,,,,
+BOAT,BOAT,doubloon,,,,,,
+Eryllium,ERY,eryllium,,,,,,
+Elysium,ELS,elysium,,,,,,
+Golos Gold,GBG,golos-gold,,,,,,
+Centurion,CNT,centurion,,,,,,
+Virtacoin,VTA,virtacoin,5201310113.0,1530473103.0,21000000000.0,"{'USD': {'price': 9.499e-06, 'volume_24h': 33.442, 'market_cap': 49407.0, 'percent_change_1h': -0.23, 'percent_change_24h': -20.73, 'percent_change_7d': -55.81}}",1281.0,12666916683.0
+Master Swiscoin,MSCN,master-swiscoin,,,,,,
+Melon,MLN,melon,,,,,,
+Allion,ALL,allion,,,,,,
+PRCoin,PRC,prcoin,,,,,,
+HyperStake,HYP,hyperstake,1266768770.0,1530473103.0,,"{'USD': {'price': 0.00145616, 'volume_24h': 6392.81, 'market_cap': 1844618.0, 'percent_change_1h': -0.31, 'percent_change_24h': -17.85, 'percent_change_7d': -30.31}}",739.0,1266768770.0
+Argus,ARGUS,argus,,,,,,
+Renos,RNS,renos,,,,,,
+UR,UR,ur,,,,,,
+Swarm City,SWT,swarm-city,,,,,,
+PIECoin,PIE,piecoin,,,,,,
+MarxCoin,MARX,marxcoin,,,,,,
+Visio,VISIO,visio,,,,,,
+Nano,NANO,nano,,,,,,
+LevoPlus,LVPS,levoplus,,,,,,
+GeertCoin,GEERT,geertcoin,,,,,,
+Joincoin,J,joincoin,3133759.0,1530473107.0,,"{'USD': {'price': 0.0471318, 'volume_24h': 53.9646, 'market_cap': 147700.0, 'percent_change_1h': -0.31, 'percent_change_24h': -6.17, 'percent_change_7d': 2.57}}",1198.0,3133759.0
+MiloCoin,MILO,milocoin,,,,,,
+Musicoin,MUSIC,musicoin,,,,,,
+Zero,ZER,zero,,,,,,
+BioBar,BIOB,biobar,,,,,,
+Syscoin,SYS,syscoin,536106066.0,1530473104.0,888000000.0,"{'USD': {'price': 0.169295, 'volume_24h': 879818.0, 'market_cap': 90760077.0, 'percent_change_1h': 0.18, 'percent_change_24h': 0.45, 'percent_change_7d': -4.86}}",96.0,536106066.0
+Netko,NETKO,netko,,,,,,
+Bitmark,BTM,bitmark,8979651.0,1530473104.0,,"{'USD': {'price': 0.183038, 'volume_24h': 47129.0, 'market_cap': 1643617.0, 'percent_change_1h': -0.31, 'percent_change_24h': -23.11, 'percent_change_7d': -27.58}}",757.0,8979651.0
+Dynamic,DYN,dynamic,,,,,,
+Halcyon,HAL,halcyon,6035007.0,1530473103.0,,"{'USD': {'price': 0.0639782, 'volume_24h': 287.6, 'market_cap': 386109.0, 'percent_change_1h': -0.31, 'percent_change_24h': -0.42, 'percent_change_7d': 7.86}}",1126.0,6035007.0
+Mercury,MER,mercury,,,,,,
+TaaS,TAAS,taas,,,,,,
+Soarcoin,SOAR,soarcoin,,,,,,
+Storjcoin X,SJCX,storjcoin-x,,1530473104.0,,"{'USD': {'price': 0.6321, 'volume_24h': 299.679, 'market_cap': None, 'percent_change_1h': -0.24, 'percent_change_24h': -0.0, 'percent_change_7d': -9.5}}",1505.0,500000000.0
+Bankcoin,B@,bankcoin,,,,,,
+NeosCoin,NEOS,neoscoin,3867517.0,1530473104.0,,"{'USD': {'price': 1.57501, 'volume_24h': 102273.0, 'market_cap': 6091379.0, 'percent_change_1h': -0.34, 'percent_change_24h': 4.31, 'percent_change_7d': -1.67}}",514.0,3867517.0
+HealthyWormCoin,WORM,healthywormcoin,,,,,,
+Databits,DTB,databits,,,,,,
+Universe,UNI,universe,,,,,,
+Solaris,XLR,solaris,,,,,,
+Impact,IMX,impact,,,,,,
+Tristar Coin,TSTR,tristar-coin,,,,,,
+Emercoin,EMC,emercoin,41945964.0,1530473103.0,,"{'USD': {'price': 2.78266, 'volume_24h': 2301340.0, 'market_cap': 116721355.0, 'percent_change_1h': -1.96, 'percent_change_24h': 3.44, 'percent_change_7d': 13.99}}",75.0,41945964.0
+DubaiCoin,DBIX,dubaicoin-dbix,,,,,,
+Darsek,KED,darsek,,,,,,
+Matchpool,GUP,guppy,,,,,,
+Ultimate Secure Cash,USC,ultimate-secure-cash,,,,,,
+E-coin,ECN,e-coin,,,,,,
+Skycoin,SKY,skycoin,,,,,,
+BlazerCoin,BLAZR,blazercoin,,,,,,
+Atmos,ATMOS,atmos,,,,,,
+Ethereum Movie Venture,EMV,ethereum-movie-venture,,,,,,
+InPay,INPAY,inpay,,,,,,
+Happycoin,HPC,happycoin,,,,,,
+Zennies,ZENI,zennies,,,,,,
+Coinonat,CXT,coinonat,,,,,,
+RabbitCoin,RBBT,rabbitcoin,,1530473103.0,,"{'USD': {'price': 3.41388e-05, 'volume_24h': 154.365, 'market_cap': None, 'percent_change_1h': 1.32, 'percent_change_24h': -34.93, 'percent_change_7d': 49.52}}",1515.0,130615575432.0
+Burst,BURST,burst,1959215123.0,1530473108.0,2158812800.0,"{'USD': {'price': 0.0136573, 'volume_24h': 47737.5, 'market_cap': 26757589.0, 'percent_change_1h': -7.02, 'percent_change_24h': -8.04, 'percent_change_7d': -3.96}}",233.0,1959215123.0
+XTRABYTES,XBY,xtrabytes,,,,,,
+iExec RLC,RLC,rlc,,,,,,
+GameCredits,GAME,gamecredits,64355352.0,1530473107.0,84000000.0,"{'USD': {'price': 0.614435, 'volume_24h': 456859.0, 'market_cap': 39542181.0, 'percent_change_1h': -1.3, 'percent_change_24h': -0.66, 'percent_change_7d': -7.85}}",175.0,64355352.0
+DeusCoin,DEUS,deuscoin,,,,,,
+Altcoin,ALT,altcoin-alt,,,,,,
+WavesGo,WGO,wavesgo,,,,,,
+MACRON,MCRN,macron,,,,,,
+Tattoocoin (Limited Edition),TLE,tattoocoin-limited,,,,,,
+ProCurrency,PROC,procurrency,,,,,,
+SpeedCash,SCS,speedcash,,,,,,
+WeAreSatoshi,WSX,wearesatoshi,24532587.0,1530473103.0,,"{'USD': {'price': 0.0501604, 'volume_24h': 1062.53, 'market_cap': 1230564.0, 'percent_change_1h': -0.73, 'percent_change_24h': 16.03, 'percent_change_7d': -2.61}}",793.0,24532587.0
+Bitvolt,VOLT,bitvolt,,,,,,
+Lunyr,LUN,lunyr,,,,,,
+Gnosis,GNO,gnosis-gno,,,,,,
+Ubiq,UBQ,ubiq,41468582.0,1530473103.0,,"{'USD': {'price': 0.837244, 'volume_24h': 17056.9, 'market_cap': 34719322.0, 'percent_change_1h': 2.39, 'percent_change_24h': -1.31, 'percent_change_7d': 3.62}}",193.0,41468582.0
+Condensate,RAIN,condensate,,,,,,
+Gold Pressed Latinum,GPL,gold-pressed-latinum,,,,,,
+Humaniq,HMQ,humaniq,,,,,,
+FUNCoin,FUNC,funcoin,,,,,,
+iTicoin,ITI,iticoin,,,,,,
+BunnyCoin,BUN,bunnycoin,103036607564.0,1530473107.0,,"{'USD': {'price': 1.37185e-05, 'volume_24h': 946.256, 'market_cap': 1413508.0, 'percent_change_1h': 1.05, 'percent_change_24h': 35.28, 'percent_change_7d': -9.78}}",771.0,103036607564.0
+Cannation,CNNC,cannation,,,,,,
+Creativecoin,CREA,creativecoin,,,,,,
+Opal,OPAL,opal,15148351.0,1530473107.0,,"{'USD': {'price': 0.0266891, 'volume_24h': 14.3077, 'market_cap': 404296.0, 'percent_change_1h': -0.31, 'percent_change_24h': 8.6, 'percent_change_7d': 43.89}}",1118.0,15148351.0
+InsaneCoin,INSN,insanecoin-insn,,,,,,
+Halloween Coin,HALLO,halloween-coin,,,,,,
+Aragon,ANT,aragon,,,,,,
+Acoin,ACOIN,acoin,1220085.0,1530473103.0,,"{'USD': {'price': 0.0779075, 'volume_24h': 641.24, 'market_cap': 95054.0, 'percent_change_1h': 0.55, 'percent_change_24h': -16.05, 'percent_change_7d': 13.55}}",970.0,1220085.0
+RouletteToken,RLT,roulettetoken,,,,,,
+Qtum,QTUM,qtum,,,,,,
+EcoCoin,ECO,ecocoin,,,,,,
+EquiTrader,EQT,equitrader,,,,,,
+FoldingCoin,FLDC,foldingcoin,605470958.0,1530473103.0,,"{'USD': {'price': 0.00753082, 'volume_24h': 12808.4, 'market_cap': 4559693.0, 'percent_change_1h': -1.43, 'percent_change_24h': -1.4, 'percent_change_7d': -4.54}}",567.0,1000000000.0
+APX,APX,apx,,,,,,
+MCAP,MCAP,mcap,,,,,,
+Project-X,NANOX,project-x,,,,,,
+Theresa May Coin,MAY,theresa-may-coin,,,,,,
+Sumokoin,SUMO,sumokoin,,,,,,
+ZenGold,ZENGOLD,zengold,,,,,,
+Basic Attention Token,BAT,basic-attention-token,,,,,,
+ZenCash,ZEN,zencash,,,,,,
+Ethbits,ETBS,ethbits,,,,,,
+Aeternity,AE,aeternity,,,,,,
+Version,V,version,,,,,,
+Metaverse ETP,ETP,metaverse,,,,,,
+eBoost,EBST,eboostcoin,,,,,,
+Aidos Kuneen,ADK,aidos-kuneen,,,,,,
+STEX,STEX,stex,,,,,,
+Patientory,PTOY,patientory,,,,,,
+bitUSD,BITUSD,bitusd,11523800.0,1530473107.0,,"{'USD': {'price': 1.12665, 'volume_24h': 224895.0, 'market_cap': 12983289.0, 'percent_change_1h': -1.44, 'percent_change_24h': -0.72, 'percent_change_7d': 1.82}}",356.0,11523800.0
+bitCNY,BITCNY,bitcny,161212000.0,1530473107.0,,"{'USD': {'price': 0.167409, 'volume_24h': 10680600.0, 'market_cap': 26988340.0, 'percent_change_1h': -0.43, 'percent_change_24h': 0.65, 'percent_change_7d': -1.07}}",232.0,161212000.0
+bitBTC,BITBTC,bitbtc,52.0,1530473104.0,,"{'USD': {'price': 6204.19, 'volume_24h': 103.008, 'market_cap': 323410.0, 'percent_change_1h': -1.34, 'percent_change_24h': 0.23, 'percent_change_7d': 2.75}}",1135.0,52.0
+NuBits,USNBT,nubits,10190908.0,1530473103.0,,"{'USD': {'price': 0.219711, 'volume_24h': 84193.8, 'market_cap': 2239054.0, 'percent_change_1h': -0.4, 'percent_change_24h': -2.41, 'percent_change_7d': -20.94}}",711.0,70418172.0
+Sterlingcoin,SLG,sterlingcoin,4241006.0,1530473108.0,,"{'USD': {'price': 0.0439771, 'volume_24h': 59.5395, 'market_cap': 186507.0, 'percent_change_1h': -0.31, 'percent_change_24h': -0.45, 'percent_change_7d': 13.21}}",1181.0,4241006.0
+MobileGo,MGO,mobilego,,,,,,
+Magi,XMG,magi,8073708.0,1530473107.0,,"{'USD': {'price': 0.121114, 'volume_24h': 2885.4, 'market_cap': 977839.0, 'percent_change_1h': -0.88, 'percent_change_24h': 3.48, 'percent_change_7d': -11.96}}",820.0,8073708.0
+Neuro,NRO,neuro,,,,,,
+Peerplays,PPY,peerplays-ppy,,,,,,
+IOTA,MIOTA,iota,,,,,,
+ExclusiveCoin,EXCL,exclusivecoin,4652953.0,1530473104.0,,"{'USD': {'price': 0.440554, 'volume_24h': 774.353, 'market_cap': 2049877.0, 'percent_change_1h': -1.31, 'percent_change_24h': -0.62, 'percent_change_7d': -1.92}}",724.0,4652953.0
+More Coin,MORE,more-coin,,,,,,
+SONM,SNM,sonm,,,,,,
+Linx,LINX,linx,,,,,,
+ZrCoin,ZRC,zrcoin,,,,,,
+Trollcoin,TROLL,trollcoin,576115813.0,1530473103.0,,"{'USD': {'price': 0.000820288, 'volume_24h': 1377.25, 'market_cap': 472581.0, 'percent_change_1h': -0.31, 'percent_change_24h': 7.65, 'percent_change_7d': 11.57}}",894.0,576115813.0
+Cheapcoin,CHEAP,cheapcoin,,,,,,
+Cofound.it,CFI,cofound-it,,,,,,
+GlobalToken,GLT,globaltoken,,,,,,
+Numeraire,NMR,numeraire,,,,,,
+SuperNET,UNITY,supernet-unity,,1530473107.0,,"{'USD': {'price': 60.7628, 'volume_24h': 16.7759, 'market_cap': None, 'percent_change_1h': -0.2, 'percent_change_24h': -0.67, 'percent_change_7d': 25.68}}",1542.0,777777.0
+GlobalBoost-Y,BSTY,globalboost-y,14645176.0,1530473112.0,,"{'USD': {'price': 0.0165637, 'volume_24h': 799.806, 'market_cap': 242578.0, 'percent_change_1h': 4.31, 'percent_change_24h': 23.97, 'percent_change_7d': 21.74}}",929.0,14645176.0
+Elastic,XEL,elastic,,,,,,
+Coupecoin,COUPE,coupecoin,,,,,,
+Miners' Reward Token,MRT,miners-reward-token,,,,,,
+Bitok,BITOK,bitok,,,,,,
+Huncoin,HNC,huncoin,,,,,,
+KingN Coin,KNC,kingn-coin,,,,,,
+Dinastycoin,DCY,dinastycoin,,,,,,
+Leviar,XLC,leviar,,,,,,
+Onix,ONX,onix,,,,,,
+DigitalPrice,DP,digitalprice,19780674.0,1530473104.0,,"{'USD': {'price': 0.0521163, 'volume_24h': 385.855, 'market_cap': 1030896.0, 'percent_change_1h': -0.43, 'percent_change_24h': -1.27, 'percent_change_7d': -18.27}}",1066.0,27280675.0
+GXChain,GXS,gxchain,,,,,,
+Prime-XI,PXI,prime-xi,21258020.0,1530473103.0,,"{'USD': {'price': 0.0045809, 'volume_24h': 105.649, 'market_cap': 97381.0, 'percent_change_1h': 0.81, 'percent_change_24h': 4.83, 'percent_change_7d': 5.24}}",1240.0,21258020.0
+Antimatter,ANTX,antimatter,,,,,,
+Bitradio,BRO,bitradio,,,,,,
+Bitswift,SWIFT,bitswift,3884635.0,1530473107.0,,"{'USD': {'price': 0.269226, 'volume_24h': 5941.12, 'market_cap': 1045845.0, 'percent_change_1h': -0.29, 'percent_change_24h': -3.01, 'percent_change_7d': -13.13}}",816.0,3884635.0
+Dashcoin,DSH,dashcoin,17574970.0,1530473107.0,,"{'USD': {'price': 0.0176666, 'volume_24h': 1467.09, 'market_cap': 310490.0, 'percent_change_1h': -1.72, 'percent_change_24h': -4.32, 'percent_change_7d': -0.26}}",923.0,17574970.0
+TenX,PAY,tenx,,,,,,
+Status,SNT,status,,,,,,
+ChanCoin,CHAN,chancoin,,,,,,
+Ergo,EFYT,ergo,,,,,,
+BriaCoin,BRIA,briacoin,,,,,,
+AurumCoin,AU,aurumcoin,297949.0,1530473104.0,300000.0,"{'USD': {'price': 19.5678, 'volume_24h': 160.022, 'market_cap': 5830210.0, 'percent_change_1h': -0.31, 'percent_change_24h': 0.77, 'percent_change_7d': 8.9}}",1012.0,297949.0
+TurboCoin,TURBO,turbocoin,,,,,,
+AdEx,ADX,adx-net,,,,,,
+Denarius,DNR,denarius-dnr,,,,,,
+DAO.Casino,BET,dao-casino,,,,,,
+Storj,STORJ,storj,,,,,,
+BnrtxCoin,BNX,bnrtxcoin,,,,,,
+SocialCoin,SOCC,socialcoin-socc,,,,,,
+adToken,ADT,adtoken,,,,,,
+Monaco,MCO,monaco,,,,,,
+CryptoPing,PING,cryptoping,,,,,,
+Useless Ethereum Token,UET,useless-ethereum-token,,,,,,
+Wagerr,WGR,wagerr,,,,,,
+Slevin,SLEVIN,slevin,,,,,,
+Sativacoin,STV,sativacoin,7094467.0,1530473104.0,,"{'USD': {'price': 0.0189285, 'volume_24h': 1.11495, 'market_cap': 134288.0, 'percent_change_1h': -0.31, 'percent_change_24h': -18.94, 'percent_change_7d': 12.32}}",1209.0,7094467.0
+UniversalRoyalCoin,UNRC,universalroyalcoin,,,,,,
+Polybius,PLBT,polybius,,,,,,
+Gas,GAS,gas,,,,,,
+SunContract,SNC,suncontract,,,,,,
+Jetcoin,JET,jetcoin,,,,,,
+Metal,MTL,metal,,,,,,
+Populous,PPT,populous,,,,,,
+WomenCoin,WOMEN,women,,,,,,
+Virta Unique Coin,VUC,virta-unique-coin,,,,,,
+Bitdeal,BDL,bitdeal,,,,,,
+Sphre AIR ,XID,sphre-air,,,,,,
+DaxxCoin,DAXX,daxxcoin,,,,,,
+Verge,XVG,verge,15054315539.0,1530473107.0,16555000000.0,"{'USD': {'price': 0.0230879, 'volume_24h': 5133070.0, 'market_cap': 347572532.0, 'percent_change_1h': -0.39, 'percent_change_24h': 0.44, 'percent_change_7d': -0.15}}",36.0,15054315539.0
+Rupee,RUP,rupee,,,,,,
+Global Tour Coin,GTC,global-tour-coin,,,,,,
+PeepCoin,PCN,peepcoin,,,,,,
+Sovereign Hero,HERO,sovereign-hero,,,,,,
+Santiment Network Token,SAN,santiment,,,,,,
+NuShares,NSR,nushares,2777600756.0,1530473107.0,,"{'USD': {'price': 0.000252379, 'volume_24h': 0.252379, 'market_cap': 701008.0, 'percent_change_1h': -0.31, 'percent_change_24h': -0.39, 'percent_change_7d': -24.69}}",1083.0,3134648141.0
+TerraNova,TER,terranova,,,,,,
+CVCoin,CVCOIN,cvcoin,,,,,,
+SpreadCoin,SPR,spreadcoin,10256875.0,1530473107.0,,"{'USD': {'price': 0.252044, 'volume_24h': 3300.82, 'market_cap': 2585184.0, 'percent_change_1h': -1.76, 'percent_change_24h': -8.55, 'percent_change_7d': -0.27}}",684.0,10256875.0
+Rimbit,RBT,rimbit,197581050.0,1530473103.0,,"{'USD': {'price': 0.00148547, 'volume_24h': 205.354, 'market_cap': 293501.0, 'percent_change_1h': -0.21, 'percent_change_24h': 12.88, 'percent_change_7d': 1.76}}",1146.0,401578118.0
+Linda,LINDA,linda,,,,,,
+Embers,MBRS,embers,,,,,,
+MonetaryUnit,MUE,monetaryunit,134641645.0,1530473104.0,4000000000.0,"{'USD': {'price': 0.0642929, 'volume_24h': 27862.5, 'market_cap': 8656502.0, 'percent_change_1h': -0.91, 'percent_change_24h': -2.09, 'percent_change_7d': -4.55}}",444.0,134641645.0
+Blocknet,BLOCK,blocknet,5213671.0,1530473107.0,,"{'USD': {'price': 13.672, 'volume_24h': 38249.6, 'market_cap': 71281308.0, 'percent_change_1h': -0.29, 'percent_change_24h': -1.12, 'percent_change_7d': 4.29}}",118.0,5213671.0
+Gapcoin,GAP,gapcoin,13410006.0,1530473107.0,,"{'USD': {'price': 0.0148273, 'volume_24h': 242.663, 'market_cap': 198834.0, 'percent_change_1h': -0.31, 'percent_change_24h': -0.39, 'percent_change_7d': 5.47}}",1177.0,13410006.0
+Starta,STA,starta,,,,,,
+BitCoal,COAL,bitcoal,,,,,,
+LiteBitcoin,LBTC,litebitcoin,,,,,,
+Particl,PART,particl,,,,,,
+SmartCash,SMART,smartcash,,,,,,
+SkinCoin,SKIN,skincoin,,,,,,
+Bitcoin Cash,BCH,bitcoin-cash,,,,,,
+HarmonyCoin,HMC,harmonycoin-hmc,,,,,,
+ToaCoin,TOA,toacoin,,,,,,
+Pillar,PLR,pillar,,,,,,
+TittieCoin,TTC,tittiecoin,1259816434.0,1530473107.0,,"{'USD': {'price': 0.000317458, 'volume_24h': 3140.14, 'market_cap': 399939.0, 'percent_change_1h': 22.75, 'percent_change_24h': 0.38, 'percent_change_7d': 29.49}}",909.0,1259816434.0
+Crown,CRW,crown,19033834.0,1530473108.0,42000000.0,"{'USD': {'price': 0.515391, 'volume_24h': 12269.1, 'market_cap': 9809867.0, 'percent_change_1h': -0.84, 'percent_change_24h': -1.31, 'percent_change_7d': -4.62}}",411.0,19033834.0
+Coimatic 2.0,CTIC2,coimatic-2,,,,,,
+OracleChain,OCT,oraclechain,,,,,,
+BitBay,BAY,bitbay,1012146906.0,1530473107.0,,"{'USD': {'price': 0.0237647, 'volume_24h': 35336.9, 'market_cap': 24053368.0, 'percent_change_1h': 1.41, 'percent_change_24h': 6.34, 'percent_change_7d': -3.96}}",254.0,1012146906.0
+300 Token,300,300-token,,,,,,
+Primalbase Token,PBT,primalbase,,,,,,
+CampusCoin,CMPCO,campuscoin,,,,,,
+EmberCoin,EMB,embercoin,,,,,,
+iXledger,IXT,ixledger,,,,,,
+GeyserCoin,GSR,geysercoin,,,,,,
+GCN Coin,GCN,gcn-coin,158153660000.0,1530473107.0,,"{'USD': {'price': 7.7989e-06, 'volume_24h': 1161.9, 'market_cap': 1233431.0, 'percent_change_1h': 2.6, 'percent_change_24h': 6.98, 'percent_change_7d': 5.73}}",792.0,158153660000.0
+Aseancoin,ASN,aseancoin,,,,,,
+Birds,BIRDS,birds,,,,,,
+Quotient,XQN,quotient,,1530473104.0,,"{'USD': {'price': 0.00292019, 'volume_24h': 25.0343, 'market_cap': None, 'percent_change_1h': -0.31, 'percent_change_24h': 16.17, 'percent_change_7d': 37.2}}",1537.0,
+Bytecent,BYC,bytecent,2199836.0,1530473104.0,,"{'USD': {'price': 0.400652, 'volume_24h': 1294.78, 'market_cap': 881369.0, 'percent_change_1h': 0.27, 'percent_change_24h': 0.91, 'percent_change_7d': -7.36}}",841.0,2199836.0
+KekCoin,KEK,kekcoin,,,,,,
+OAX,OAX,oax,,,,,,
+district0x,DNT,district0x,,,,,,
+FundYourselfNow,FYN,fundyourselfnow,,,,,,
+Stox,STX,stox,,,,,,
+Minex,MINEX,minex,,,,,,
+Blox,CDT,blox,,,,,,
+Wink,WINK,wink,,,,,,
+Bytom,BTM,bytom,,,,,,
+Mao Zedong,MAO,mao-zedong,,,,,,
+First Bitcoin Capital,BITCF,first-bitcoin-capital,,,,,,
+NEVERDIE,NDC,neverdie,,,,,,
+Bitcoin Fast,BCF,bitcoinfast,15090189.0,1530473107.0,2500000000.0,"{'USD': {'price': 0.00769757, 'volume_24h': 577.918, 'market_cap': 116158.0, 'percent_change_1h': -0.31, 'percent_change_24h': -2.78, 'percent_change_7d': -7.69}}",963.0,15090189.0
+Dentacoin,DCN,dentacoin,,,,,,
+Rupaya,RUPX,rupaya,,,,,,
+Shadow Token,SHDW,shadow-token,,,,,,
+DeepOnion,ONION,deeponion,,,,,,
+BlockCAT,CAT,blockcat,,,,,,
+AdShares,ADST,adshares,,,,,,
+DigitalDevelopersFund,DDF,digital-developers-fund,,,,,,
+BitAsean,BAS,bitasean,,,,,,
+Dent,DENT,dent,,,,,,
+Monster Byte,MBI,monster-byte,,,,,,
+InvestFeed,IFT,investfeed,,,,,,
+CoinonatX,XCXT,coinonatx,,,,,,
+OKCash,OK,okcash,74079653.0,1530473107.0,105000000.0,"{'USD': {'price': 0.0628125, 'volume_24h': 25873.5, 'market_cap': 4653128.0, 'percent_change_1h': 0.06, 'percent_change_24h': -1.45, 'percent_change_7d': -7.43}}",563.0,74079653.0
+The ChampCoin,TCC,the-champcoin,,,,,,
+0x,ZRX,0x,,,,,,
+Bolenum,BLN,bolenum,,,,,,
+PayCoin,XPY,paycoin2,11907601.0,1530473106.0,,"{'USD': {'price': 0.0192439, 'volume_24h': 2.35621, 'market_cap': 229149.0, 'percent_change_1h': 0.35, 'percent_change_24h': -5.42, 'percent_change_7d': -3.49}}",1163.0,11907601.0
+YOYOW,YOYOW,yoyow,,,,,,
+vTorrent,VTR,vtorrent,11604722.0,1530473108.0,20000000.0,"{'USD': {'price': 0.147705, 'volume_24h': 3944.43, 'market_cap': 1714075.0, 'percent_change_1h': -0.06, 'percent_change_24h': -0.77, 'percent_change_7d': -0.18}}",748.0,11604722.0
+MyBit Token,MYB,mybit-token,,,,,,
+Hshare,HSR,hshare,,,,,,
+VeChain,VEN,vechain,,,,,,
+TrueFlip,TFL,trueflip,,,,,,
+XTD Coin,XTD,xtd-coin,,,,,,
+Nebulas,NAS,nebulas-token,,,,,,
+ATMCoin,ATMC,atmcoin,,,,,,
+Dalecoin,DALC,dalecoin,,,,,,
+Protean,PRN,protean,,,,,,
+AdCoin,ACC,adcoin,,,,,,
+BiblePay,BBP,biblepay,,,,,,
+bitGold,BITGOLD,bitgold,189.0,1530473107.0,,"{'USD': {'price': 1480.81, 'volume_24h': 497.556, 'market_cap': 280591.0, 'percent_change_1h': -0.97, 'percent_change_24h': -2.54, 'percent_change_7d': -0.71}}",1148.0,189.0
+Achain,ACT,achain,,,,,,
+NamoCoin,NAMO,namocoin,,,,,,
+Unitus,UIS,unitus,58815845.0,1530473104.0,,"{'USD': {'price': 0.0116095, 'volume_24h': 358.862, 'market_cap': 682823.0, 'percent_change_1h': -0.31, 'percent_change_24h': -1.73, 'percent_change_7d': -5.58}}",1085.0,58815845.0
+Monoeci,XMCC,monacocoin,,,,,,
+Tierion,TNT,tierion,,,,,,
+Waltonchain,WTC,waltonchain,,,,,,
+GoldPieces,GP,goldpieces,1220161.0,1530473104.0,,"{'USD': {'price': 0.050946, 'volume_24h': 5.22627, 'market_cap': 62162.0, 'percent_change_1h': -0.31, 'percent_change_24h': -6.51, 'percent_change_7d': 6.3}}",1269.0,1220161.0
+Ulatech,ULA,ulatech,,,,,,
+Primas,PST,primas,,,,,,
+Circuits of Value,COVAL,circuits-of-value,1000000000.0,1530473108.0,,"{'USD': {'price': 0.00347022, 'volume_24h': 5200.78, 'market_cap': 3470220.0, 'percent_change_1h': -0.91, 'percent_change_24h': -4.4, 'percent_change_7d': 3.39}}",632.0,1200000000.0
+Nexus,NXS,nexus,58068508.0,1530473107.0,,"{'USD': {'price': 1.19397, 'volume_24h': 1182850.0, 'market_cap': 69332056.0, 'percent_change_1h': -0.37, 'percent_change_24h': -3.26, 'percent_change_7d': -0.45}}",119.0,58068508.0
+Loopring,LRC,loopring,,,,,,
+LiteCoin Ultra,LTCU,litecoin-ultra,,,,,,
+Po.et,POE,poet,,,,,,
+Fujinto,NTO,fujinto,,,,,,
+StarCredits,STRC,starcredits,,,,,,
+SoonCoin,SOON,sooncoin,12462620.0,1530473107.0,,"{'USD': {'price': 0.00498449, 'volume_24h': 24.9104, 'market_cap': 62120.0, 'percent_change_1h': -0.31, 'percent_change_24h': -4.03, 'percent_change_7d': 5.23}}",1270.0,12462620.0
+MetalCoin,METAL,metalcoin,76925527.0,1530473104.0,,"{'USD': {'price': 0.00681424, 'volume_24h': 1.87631, 'market_cap': 524189.0, 'percent_change_1h': -0.31, 'percent_change_24h': -1.3, 'percent_change_7d': 4.39}}",1100.0,76925527.0
+IncaKoin,NKA,incakoin,15576620742.0,1530473107.0,,"{'USD': {'price': 5.57788e-05, 'volume_24h': 65.1992, 'market_cap': 868845.0, 'percent_change_1h': 4.43, 'percent_change_24h': -0.95, 'percent_change_7d': -6.19}}",1070.0,15578620742.0
+Monetha,MTH,monetha,,,,,,
+SmileyCoin,SMLY,smileycoin,25960250000.0,1530473107.0,,"{'USD': {'price': 2.23179e-05, 'volume_24h': 530.552, 'market_cap': 579378.0, 'percent_change_1h': -4.57, 'percent_change_24h': 62.49, 'percent_change_7d': -34.78}}",876.0,25960250000.0
+Agrello,DLT,agrello-delta,,,,,,
+Hive Project,HVN,hive-project,,,,,,
+Vsync,VSX,vsync-vsx,,,,,,
+Magnetcoin,MAGN,magnetcoin,,,,,,
+Moeda Loyalty Points,MDA,moeda-loyalty-points,,,,,,
+Neblio,NEBL,neblio,,,,,,
+VIVO,VIVO,vivo,,,,,,
+TRON,TRX,tron,,,,,,
+Oceanlab,OCL,oceanlab,,,,,,
+imbrex,REX,imbrex,,,,,,
+BuzzCoin,BUZZ,buzzcoin,,,,,,
+Credo,CREDO,credo,,,,,,
+Machinecoin,MAC,machinecoin,21435250.0,1530473107.0,,"{'USD': {'price': 0.0328724, 'volume_24h': 2522.58, 'market_cap': 704628.0, 'percent_change_1h': -0.88, 'percent_change_24h': 2.36, 'percent_change_7d': -13.16}}",857.0,21435250.0
+bitSilver,BITSILVER,bitsilver,21762.0,1530473104.0,,"{'USD': {'price': 18.9406, 'volume_24h': 2839.85, 'market_cap': 412191.0, 'percent_change_1h': -0.98, 'percent_change_24h': -8.44, 'percent_change_7d': -6.5}}",903.0,21762.0
+Dotcoin,DOT,dotcoin,308822750.0,1530473107.0,890000000.0,"{'USD': {'price': 0.0138862, 'volume_24h': 10273.0, 'market_cap': 4288374.0, 'percent_change_1h': -0.31, 'percent_change_24h': 2.25, 'percent_change_7d': 6.17}}",584.0,573822750.0
+Kobocoin,KOBO,kobocoin,24700248.0,1530473107.0,,"{'USD': {'price': 0.0495216, 'volume_24h': 26.7391, 'market_cap': 1223196.0, 'percent_change_1h': -0.31, 'percent_change_24h': -1.4, 'percent_change_7d': -0.44}}",1057.0,24700248.0
+XPA,XPA,xpa,,,,,,
+Sociall,SCL,sociall,,,,,,
+PayCon,CON,paycon,23042604.0,1530473107.0,,"{'USD': {'price': 0.00326367, 'volume_24h': 12.9472, 'market_cap': 75203.0, 'percent_change_1h': -0.31, 'percent_change_24h': 21.1, 'percent_change_7d': 34.93}}",1254.0,23042604.0
+Bean Cash,BITB,bean-cash,2580697000.0,1530473104.0,50000000000.0,"{'USD': {'price': 0.0036034, 'volume_24h': 46899.8, 'market_cap': 9299284.0, 'percent_change_1h': -0.75, 'percent_change_24h': -3.01, 'percent_change_7d': -8.01}}",431.0,2580697000.0
+Ethereum Dark,ETHD,ethereum-dark,,,,,,
+Propy,PRO,propy,,,,,,
+ChainLink,LINK,chainlink,,,,,,
+GeoCoin,GEO,geocoin,3170551.0,1530473108.0,,"{'USD': {'price': 0.865853, 'volume_24h': 7495.56, 'market_cap': 2745231.0, 'percent_change_1h': -1.63, 'percent_change_24h': -7.88, 'percent_change_7d': -1.44}}",674.0,4000000.0
+Wi Coin,WIC,wi-coin,,,,,,
+Tether,USDT,tether,2707140346.0,1530473108.0,,"{'USD': {'price': 0.999112, 'volume_24h': 3281890000.0, 'market_cap': 2704736405.0, 'percent_change_1h': -0.07, 'percent_change_24h': -0.06, 'percent_change_7d': -0.26}}",10.0,3080109502.0
+Billionaire Token,XBL,billionaire-token,,,,,,
+Kyber Network,KNC,kyber-network,,,,,,
+VIBE,VIBE,vibe,,,,,,
+Substratum,SUB,substratum,,,,,,
+Chronologic,DAY,chronologic,,,,,,
+Wild Beast Block,WBB,wild-beast-block,181919.0,1530473107.0,,"{'USD': {'price': 0.0567854, 'volume_24h': 76.5227, 'market_cap': 10330.0, 'percent_change_1h': -0.31, 'percent_change_24h': -0.39, 'percent_change_7d': 7.89}}",1331.0,181919.0
+CryptoInsight,TKR,trackr,,,,,,
+GridCoin,GRC,gridcoin,390312753.0,1530473104.0,,"{'USD': {'price': 0.0242103, 'volume_24h': 4333.57, 'market_cap': 9449589.0, 'percent_change_1h': -0.21, 'percent_change_24h': 2.29, 'percent_change_7d': 0.63}}",423.0,390312753.0
+COSS,COSS,coss,,,,,,
+BitDice,CSNO,bitdice,,,,,,
+Vcash,XVC,vcash,15439812.0,,,"{'USD': {'price': None, 'volume_24h': None, 'market_cap': None, 'percent_change_1h': None, 'percent_change_24h': None, 'percent_change_7d': None}}",1590.0,15439812.0
+X-Coin,XCO,x-coin,12384976.0,1530473107.0,,"{'USD': {'price': 0.00881337, 'volume_24h': 465.716, 'market_cap': 109153.0, 'percent_change_1h': 0.29, 'percent_change_24h': 5.72, 'percent_change_7d': 57.44}}",1231.0,12384976.0
+Interzone,ITZ,interzone,,,,,,
+Target Coin,TGT,target-coin,,,,,,
+SALT,SALT,salt,,,,,,
+Sharkcoin,SAK,sharkcoin,,1529739248.0,,"{'USD': {'price': 0.00274443, 'volume_24h': None, 'market_cap': None, 'percent_change_1h': None, 'percent_change_24h': None, 'percent_change_7d': None}}",1591.0,
+Kolion,KLN,kolion,,,,,,
+Musiconomi,MCI,musiconomi,,,,,,
+ColossusXT,COLX,colossusxt,,,,,,
+TrezarCoin,TZC,trezarcoin,,,,,,
+HODL Bucks,HDLB,hodl-bucks,,,,,,
+Obsidian,ODN,obsidian,,,,,,
+Cobinhood,COB,cobinhood,,,,,,
+Regalcoin,REC,regalcoin,,,,,,
+MSD,MSD,msd,,,,,,
+Bismuth,BIS,bismuth,,,,,,
+Cardano,ADA,cardano,,,,,,
+LiteDoge,LDOGE,litedoge,15033550549.0,1530473107.0,,"{'USD': {'price': 6.40592e-05, 'volume_24h': 825.461, 'market_cap': 963037.0, 'percent_change_1h': -0.26, 'percent_change_24h': 1.05, 'percent_change_7d': -35.95}}",825.0,15033550549.0
+Voise,VOISE,voisecom,,,,,,
+Infinity Economics,XIN,infinity-economics,,,,,,
+ATMChain,ATM,attention-token-of-media,,,,,,
+SongCoin,SONG,songcoin,32565300.0,1530473107.0,,"{'USD': {'price': 0.00145118, 'volume_24h': 108.747, 'market_cap': 47258.0, 'percent_change_1h': -0.31, 'percent_change_24h': -0.13, 'percent_change_7d': 8.13}}",1284.0,32565300.0
+EncryptoTel [ETH],ETT,encryptotel-eth,,,,,,
+Woodcoin,LOG,woodcoin,8035193.0,1530455586.0,,"{'USD': {'price': 0.0633239, 'volume_24h': None, 'market_cap': 508820.0, 'percent_change_1h': None, 'percent_change_24h': 0.17, 'percent_change_7d': 3.8}}",1102.0,8035193.0
+RChain,RHOC,rchain,,,,,,
+Internxt,INXT,internxt,,,,,,
+WhaleCoin,WHL,whalecoin,,,,,,
+FLiK,FLIK,flik,,,,,,
+EthBet,EBET,ethbet,,,,,,
+Cryptonex,CNX,cryptonex,,,,,,
+Wild Crypto,WILD,wild-crypto,,,,,,
+REAL,REAL,real,,,,,,
+Hubii Network,HBT,hubii-network,,,,,,
+Crave,CRAVE,crave,15366648.0,1530473104.0,,"{'USD': {'price': 0.113524, 'volume_24h': 2763.22, 'market_cap': 1744483.0, 'percent_change_1h': -0.32, 'percent_change_24h': 0.27, 'percent_change_7d': -5.03}}",744.0,15366648.0
+Pura,PURA,pura,174202691.0,1530473104.0,350000000.0,"{'USD': {'price': 0.0762317, 'volume_24h': 156574.0, 'market_cap': 13279767.0, 'percent_change_1h': -0.51, 'percent_change_24h': -10.55, 'percent_change_7d': -7.2}}",350.0,180985185.0
+Everex,EVX,everex,,,,,,
+PayPie,PPP,paypie,,,,,,
+NEM,XEM,nem,8999999999.0,1530473108.0,,"{'USD': {'price': 0.163101, 'volume_24h': 16516200.0, 'market_cap': 1467909000.0, 'percent_change_1h': -1.06, 'percent_change_24h': 1.15, 'percent_change_7d': 6.92}}",17.0,8999999999.0
+PoSToken,POS,postoken,,,,,,
+Senderon,SDRN,senderon,,,,,,
+ALIS,ALIS,alis,,,,,,
+BitcoinZ,BTCZ,bitcoinz,,,,,,
+HelloGold,HGT,hellogold,,,,,,
+Cindicator,CND,cindicator,,,,,,
+Enigma,ENG,enigma-project,,,,,,
+Coimatic 3.0,CTIC3,coimatic-3,,,,,,
+Bastonet,BSN,bastonet,,,,,,
+Zeusshield,ZSC,zeusshield,,,,,,
+Ethereum Cash,ECASH,ethereumcash,,,,,,
+CORION,COR,corion,,,,,,
+Swisscoin,SIC,swisscoin,,,,,,
+Authorship,ATS,authorship,,,,,,
+Royal Kingdom Coin,RKC,royal-kingdom-coin,,,,,,
+Akuya Coin,AKY,akuya-coin,,,,,,
+8Bit,8BIT,8bit,1467841.0,1530473107.0,,"{'USD': {'price': 0.106279, 'volume_24h': 17.8523, 'market_cap': 156001.0, 'percent_change_1h': -0.31, 'percent_change_24h': 0.89, 'percent_change_7d': 20.28}}",1194.0,1467841.0
+PiplCoin,PIPL,piplcoin,,,,,,
+LeaCoin,LEA,leacoin,370356715.0,1530473107.0,2000000000.0,"{'USD': {'price': 0.000378569, 'volume_24h': 1179.29, 'market_cap': 140206.0, 'percent_change_1h': -0.31, 'percent_change_24h': -1.71, 'percent_change_7d': 2.37}}",958.0,370356715.0
+AirSwap,AST,airswap,,,,,,
+Neutron,NTRN,neutron,36560748.0,1530473107.0,68000000.0,"{'USD': {'price': 0.0718162, 'volume_24h': 2094.37, 'market_cap': 2625654.0, 'percent_change_1h': -0.35, 'percent_change_24h': -7.38, 'percent_change_7d': 0.86}}",681.0,36560748.0
+Xaurum,XAUR,xaurum,127132965.0,1530473104.0,,"{'USD': {'price': 0.0444849, 'volume_24h': 7939.63, 'market_cap': 5655497.0, 'percent_change_1h': -0.31, 'percent_change_24h': -1.71, 'percent_change_7d': 9.9}}",524.0,127132965.0
+BlockMason Credit Protocol,BCPT,blockmason,,,,,,
+Aion,AION,aion,,,,,,
+Californium,CF,californium,2446961.0,1530473106.0,,"{'USD': {'price': 0.0239129, 'volume_24h': 9.17853, 'market_cap': 58514.0, 'percent_change_1h': -0.31, 'percent_change_24h': -0.5, 'percent_change_7d': 59.66}}",1274.0,2446961.0
+Maecenas,ART,maecenas,,,,,,
+XGOX,XGOX,xgox,,,,,,
+Everus,EVR,everus,,,,,,
+Dutch Coin,DUTCH,dutch-coin,,,,,,
+Open Trading Network,OTN,open-trading-network,,,,,,
+DomRaider,DRT,domraider,,,,,,
+Request Network,REQ,request-network,,,,,,
+SegWit2x,B2X,segwit2x,,,,,,
+Ethereum Gold,ETG,ethereum-gold,,,,,,
+Blue Protocol,BLUE,ethereum-blue,,,,,,
+Runners,RUNNERS,runners,,,,,,
+LIFE,LIFE,life,,,,,,
+Advanced Internet Blocks,AIB,advanced-internet-blocks,32234319.0,1530473107.0,,"{'USD': {'price': 0.00264998, 'volume_24h': 1.26619, 'market_cap': 85420.0, 'percent_change_1h': -0.31, 'percent_change_24h': -3.85, 'percent_change_7d': -40.82}}",1245.0,31412139756.0
+EggCoin,EGG,eggcoin,,1530473107.0,,"{'USD': {'price': 0.0182344, 'volume_24h': 4.70606, 'market_cap': None, 'percent_change_1h': -0.31, 'percent_change_24h': -0.39, 'percent_change_7d': 1.08}}",1558.0,
+Ambrosus,AMB,amber,,,,,,
+Sphere,SPHR,sphere,3082940.0,1530473108.0,,"{'USD': {'price': 1.0002, 'volume_24h': 891622.0, 'market_cap': 3083557.0, 'percent_change_1h': -0.54, 'percent_change_24h': -14.6, 'percent_change_7d': -28.02}}",652.0,3082940.0
+Bitcoin Gold,BTG,bitcoin-gold,,,,,,
+MedicCoin,MEDIC,mediccoin,192366376.0,1530473107.0,,"{'USD': {'price': 0.0523276, 'volume_24h': 5323.03, 'market_cap': 10066071.0, 'percent_change_1h': 9.08, 'percent_change_24h': -2.93, 'percent_change_7d': -25.67}}",404.0,192366813.0
+EXRNchain,EXRN,exrnchain,,,,,,
+Bubble,BUB,bubble,,1530473107.0,,"{'USD': {'price': 0.00447973, 'volume_24h': 48.7422, 'market_cap': None, 'percent_change_1h': -0.31, 'percent_change_24h': -1.17, 'percent_change_7d': None}}",1526.0,768753.0
+LATOKEN,LA,latoken,,,,,,
+MUSE,MUSE,bitshares-music,14581806.0,1530473104.0,,"{'USD': {'price': 0.272877, 'volume_24h': 2192.29, 'market_cap': 3979039.0, 'percent_change_1h': -27.54, 'percent_change_24h': -26.77, 'percent_change_7d': -60.3}}",601.0,18081806.0
+Universal Currency,UNIT,universal-currency,14294876.0,1530473104.0,210000000.0,"{'USD': {'price': 0.230707, 'volume_24h': 57261.1, 'market_cap': 3297928.0, 'percent_change_1h': 2.84, 'percent_change_24h': 15.58, 'percent_change_7d': 26.16}}",641.0,18394876.0
+Bitcoin Red,BTCRED,bitcoin-red,,,,,,
+Paragon,PRG,paragon,,,,,,
+ShellCoin,SHELL,shellcoin,,1530473107.0,,"{'USD': {'price': 0.0259951, 'volume_24h': 1.65555, 'market_cap': None, 'percent_change_1h': -0.31, 'percent_change_24h': 0.37, 'percent_change_7d': 39.97}}",1568.0,99026000.0
+Ripio Credit Network,RCN,ripio-credit-network,,,,,,
+Mercury Protocol,GMT,mercury-protocol,,,,,,
+ICON,ICX,icon,,,,,,
+JavaScript Token,JS,javascript-token,,,,,,
+Ethereum Lite,ELITE,ethereum-lite,,,,,,
+Intelligent Trading Foundation,ITT,intelligent-trading-foundation,,,,,,
+iEthereum,IETH,iethereum,,,,,,
+Pirl,PIRL,pirl,,,,,,
+Crypto,CTO,crypto,13742738.0,1530473107.0,,"{'USD': {'price': 0.00618329, 'volume_24h': 562.962, 'market_cap': 84975.0, 'percent_change_1h': -0.31, 'percent_change_24h': -0.39, 'percent_change_7d': -18.75}}",974.0,13742738.0
+ParkByte,PKB,parkbyte,4764026.0,1530473107.0,,"{'USD': {'price': 0.0271308, 'volume_24h': 82.217, 'market_cap': 129252.0, 'percent_change_1h': -0.31, 'percent_change_24h': -0.13, 'percent_change_7d': 13.42}}",1216.0,4764026.0
+Network Token,NTWK,network-token,,,,,,
+Dovu,DOVU,dovu,,,,,,
+Red Pulse,RPX,red-pulse,,,,,,
+ARbit,ARB,arbit,8203320.0,1530473107.0,,"{'USD': {'price': 0.00321784, 'volume_24h': 0.643567, 'market_cap': 26397.0, 'percent_change_1h': -0.31, 'percent_change_24h': -7.63, 'percent_change_7d': -0.48}}",1310.0,8203320.0
+Gambit,GAM,gambit,1200279.0,1530473107.0,,"{'USD': {'price': 4.55362, 'volume_24h': 433.139, 'market_cap': 5465616.0, 'percent_change_1h': -4.19, 'percent_change_24h': -3.86, 'percent_change_7d': 16.65}}",1013.0,1200279.0
+Roofs,ROOFS,roofs,,,,,,
+FAPcoin,FAP,fapcoin,,,,,,
+BTCMoon,BTCM,btcmoon,,,,,,
+Etherparty,FUEL,etherparty,,,,,,
+Ellaism,ELLA,ellaism,,,,,,
+Bata,BTA,bata,5029909.0,1530473107.0,10000000.0,"{'USD': {'price': 0.0873154, 'volume_24h': 307.484, 'market_cap': 439188.0, 'percent_change_1h': -0.31, 'percent_change_24h': 7.35, 'percent_change_7d': -11.13}}",1113.0,5029909.0
+Qvolta,QVT,qvolta,,,,,,
+Russian Miner Coin,RMC,russian-mining-coin,,,,,,
+AudioCoin,ADC,audiocoin,900830300.0,1530473107.0,,"{'USD': {'price': 0.00137668, 'volume_24h': 194.827, 'market_cap': 1240155.0, 'percent_change_1h': -0.31, 'percent_change_24h': 3.54, 'percent_change_7d': -8.1}}",1055.0,900830300.0
+eBitcoin,EBTC,ebtcnew,,,,,,
+Bitbase,BTBc,bitbase,,,,,,
+Synergy,SNRG,synergy,3779812.0,1530473107.0,,"{'USD': {'price': 0.101583, 'volume_24h': 10.6249, 'market_cap': 383965.0, 'percent_change_1h': -0.31, 'percent_change_24h': 0.23, 'percent_change_7d': 8.55}}",1127.0,3779812.0
+Power Ledger,POWR,power-ledger,,,,,,
+Grid+,GRID,grid,,,,,,
+bitEUR,BITEUR,biteur,107706.0,1530473107.0,,"{'USD': {'price': 1.33172, 'volume_24h': 2697.78, 'market_cap': 143434.0, 'percent_change_1h': -1.65, 'percent_change_24h': -2.39, 'percent_change_7d': 0.52}}",956.0,107706.0
+ATLANT,ATL,atlant,,,,,,
+Electroneum,ETN,electroneum,,,,,,
+High Gain,HIGH,high-gain,,,,,,
+MinexCoin,MNX,minexcoin,,,,,,
+UniCoin,UNIC,unicoin,3036997.0,1530473104.0,,"{'USD': {'price': 0.20468, 'volume_24h': 1442.15, 'market_cap': 621613.0, 'percent_change_1h': -19.38, 'percent_change_24h': -3.53, 'percent_change_7d': 11.55}}",871.0,3036997.0
+FujiCoin,FJC,fujicoin,1310942755.0,1530473107.0,10000000000.0,"{'USD': {'price': 0.000359817, 'volume_24h': 142.476, 'market_cap': 471699.0, 'percent_change_1h': -0.09, 'percent_change_24h': 0.38, 'percent_change_7d': -0.4}}",1109.0,1310942755.0
+SHIELD,XSH,shield-xsh,,,,,,
+Pure,PURE,pure,,,,,,
+ELTCOIN,ELTCOIN,eltcoin,,,,,,
+EuropeCoin,ERC,europecoin,10088637.0,1530473107.0,32000000.0,"{'USD': {'price': 0.272254, 'volume_24h': 1530.82, 'market_cap': 2746672.0, 'percent_change_1h': -1.34, 'percent_change_24h': -3.69, 'percent_change_7d': 13.16}}",673.0,10088637.0
+The Cypherfunks,FUNK,the-cypherfunks,48068744999.0,1530473106.0,,"{'USD': {'price': 1.58317e-05, 'volume_24h': 168.323, 'market_cap': 761010.0, 'percent_change_1h': -0.23, 'percent_change_24h': -1.59, 'percent_change_7d': -5.38}}",1077.0,48068744999.0
+Credence Coin,CRDNC,credence-coin,,,,,,
+Autonio,NIO,autonio,,,,,,
+CarTaxi Token,CTX,cartaxi-token,,,,,,
+Aeron,ARN,aeron,,,,,,
+StarCash Network,STARS,starcash-network,,,,,,
+Phore,PHR,phore,,,,,,
+Farad,FRD,farad,,,,,,
+Innova,INN,innova,,,,,,
+Raiden Network Token,RDN,raiden-network-token,,,,,,
+Delphy,DPY,delphy,,,,,,
+Zephyr,ZEPH,zephyr,,,,,,
+Hexx,HXX,hexx,1671597.0,1530473107.0,9999999.0,"{'USD': {'price': 4.41792, 'volume_24h': 49670.1, 'market_cap': 7384982.0, 'percent_change_1h': -0.17, 'percent_change_24h': -0.32, 'percent_change_7d': 22.03}}",477.0,1671597.0
+Ratecoin,XRA,ratecoin,122449162.0,1530473107.0,,"{'USD': {'price': 0.00157188, 'volume_24h': 346.647, 'market_cap': 192475.0, 'percent_change_1h': -0.31, 'percent_change_24h': -0.6, 'percent_change_7d': 20.18}}",1179.0,122449162.0
+Blockpool,BPL,blockpool,,,,,,
+Grimcoin,GRIM,grimcoin,,,,,,
+Oxycoin,OXY,oxycoin,,,,,,
+Abjcoin Commerce,ABJC,abjcoin,,,,,,
+Emphy,EPY,emphy,,,,,,
+Interstellar Holdings,HOLD,interstellar-holdings,,,,,,
+NEO GOLD,NEOG,neo-gold,,,,,,
+CrevaCoin,CREVA,crevacoin,36390750.0,1530473107.0,,"{'USD': {'price': 0.00012619, 'volume_24h': 379.604, 'market_cap': 4592.0, 'percent_change_1h': 62.06, 'percent_change_24h': -29.24, 'percent_change_7d': 13.01}}",1338.0,6240390800.0
+Decision Token,HST,decision-token,,,,,,
+IrishCoin,IRL,irishcoin,35504349.0,1530457205.0,,"{'USD': {'price': 0.00629106, 'volume_24h': None, 'market_cap': 223360.0, 'percent_change_1h': None, 'percent_change_24h': -0.68, 'percent_change_7d': 5.78}}",1166.0,40004349.0
+Upfiring,UFR,upfiring,,,,,,
+Bitzeny,ZNY,bitzeny,75614500.0,1530473107.0,250000000.0,"{'USD': {'price': 0.00724371, 'volume_24h': 1707.42, 'market_cap': 547730.0, 'percent_change_1h': 1.74, 'percent_change_24h': -3.87, 'percent_change_7d': 0.31}}",884.0,197510000.0
+bitJob,STU,student-coin,,,,,,
+Genesis Vision,GVT,genesis-vision,,,,,,
+BowsCoin,BSC,bowscoin,5550102.0,1530473104.0,,"{'USD': {'price': 0.00195594, 'volume_24h': 11.5649, 'market_cap': 10856.0, 'percent_change_1h': -0.31, 'percent_change_24h': -0.39, 'percent_change_7d': 40.04}}",1330.0,5550102.0
+AnarchistsPrime,ACP,anarchistsprime,4394874.0,1530473107.0,53760000.0,"{'USD': {'price': 0.00277617, 'volume_24h': 49.9249, 'market_cap': 12201.0, 'percent_change_1h': -0.31, 'percent_change_24h': 36.96, 'percent_change_7d': -5.19}}",1329.0,4394874.0
+Privatix,PRIX,privatix,,,,,,
+IntenseCoin,ITNS,intensecoin,,,,,,
+EBCH,EBCH,ebitcoin-cash,,,,,,
+CompuCoin,CPN,compucoin,19615019.0,1530473107.0,,"{'USD': {'price': 0.00302855, 'volume_24h': 133.607, 'market_cap': 59405.0, 'percent_change_1h': -0.31, 'percent_change_24h': 3.94, 'percent_change_7d': 46.01}}",1273.0,19615019.0
+ChainCoin,CHC,chaincoin,15324174.0,1530473106.0,23000000.0,"{'USD': {'price': 0.0856197, 'volume_24h': 1344.36, 'market_cap': 1312051.0, 'percent_change_1h': -0.31, 'percent_change_24h': -1.34, 'percent_change_7d': 7.39}}",783.0,17353871.0
+Paypex,PAYX,paypex,,,,,,
+GOLD Reward Token,GRX,gold-reward-token,,,,,,
+Sprouts,SPRTS,sprouts,14794158804637.0,1530473107.0,,"{'USD': {'price': 4.179e-07, 'volume_24h': 20371.9, 'market_cap': 6182346.0, 'percent_change_1h': 1.5, 'percent_change_24h': -6.51, 'percent_change_7d': -11.54}}",508.0,14794158804637.0
+BitSerial,BTE,bitserial,,,,,,
+Helleniccoin,HNC,helleniccoin,67293383.0,1530473107.0,100000000.0,"{'USD': {'price': 0.00229511, 'volume_24h': 976.095, 'market_cap': 154446.0, 'percent_change_1h': -4.22, 'percent_change_24h': 15.27, 'percent_change_7d': 15.12}}",954.0,67293383.0
+Viuly,VIU,viuly,,,,,,
+ALQO,ALQO,alqo,,,,,,
+GoByte,GBX,gobyte,,,,,,
+Capricoin,CPC,capricoin,1990045.0,1530473107.0,205000000.0,"{'USD': {'price': 1.10228, 'volume_24h': 54462.6, 'market_cap': 2193587.0, 'percent_change_1h': -0.32, 'percent_change_24h': 0.3, 'percent_change_7d': 3.89}}",713.0,200995023.0
+Oyster,PRL,oyster,,,,,,
+Flaxscript,FLAX,flaxscript,5623910.0,1530462368.0,,"{'USD': {'price': 0.0091571, 'volume_24h': None, 'market_cap': 51499.0, 'percent_change_1h': None, 'percent_change_24h': -0.3, 'percent_change_7d': 40.47}}",1279.0,5623910.0
+Phantomx,PNX,phantomx,,,,,,
+DigiPulse,DGPT,digipulse,,,,,,
+EncrypGen,DNA,encrypgen,,,,,,
+Ink,INK,ink,,,,,,
+Bodhi,BOT,bodhi,,,,,,
+Quantstamp,QSP,quantstamp,,,,,,
+QASH,QASH,qash,,,,,,
+ZoZoCoin,ZZC,zozocoin,,,,,,
+Manna,MANNA,manna,74579828.0,1530473107.0,,"{'USD': {'price': 0.00312943, 'volume_24h': 247.397, 'market_cap': 233392.0, 'percent_change_1h': 23.53, 'percent_change_24h': 9.17, 'percent_change_7d': 11.11}}",1159.0,10043673073.0
+Axiom,AXIOM,axiom,,1530473107.0,,"{'USD': {'price': 0.00788686, 'volume_24h': 2.54594, 'market_cap': None, 'percent_change_1h': -0.31, 'percent_change_24h': -0.39, 'percent_change_7d': 2.61}}",1565.0,
+Magnet,MAG,magnet,,,,,,
+LEOcoin,LEO,leocoin,101743211.0,1530473107.0,1000000000.0,"{'USD': {'price': 0.136149, 'volume_24h': 1255010.0, 'market_cap': 13852236.0, 'percent_change_1h': -0.29, 'percent_change_24h': 7.08, 'percent_change_7d': 29.77}}",340.0,110100629.0
+VoteCoin,VOT,votecoin,,,,,,
+Bitcoin Diamond,BCD,bitcoin-diamond,,,,,,
+BLOCKv,VEE,blockv,,,,,,
+Aeon,AEON,aeon,15831459.0,1530473107.0,,"{'USD': {'price': 1.25131, 'volume_24h': 4844.69, 'market_cap': 19810063.0, 'percent_change_1h': -0.2, 'percent_change_24h': 2.49, 'percent_change_7d': 7.55}}",277.0,15831459.0
+Ethereum,ETH,ethereum,100423567.0,1530473108.0,,"{'USD': {'price': 449.47, 'volume_24h': 1416490000.0, 'market_cap': 45137380856.0, 'percent_change_1h': -0.28, 'percent_change_24h': 0.76, 'percent_change_7d': -0.49}}",2.0,100423567.0
+SJWCoin,SJW,sjwcoin,,1530473108.0,,"{'USD': {'price': 0.000252379, 'volume_24h': 68.5387, 'market_cap': None, 'percent_change_1h': -0.31, 'percent_change_24h': -0.39, 'percent_change_7d': -20.49}}",1522.0,
+Divi,DIVX,divi,,,,,,
+Monkey Project,MONK,monkey-project,,,,,,
+Flixxo,FLIXX,flixxo,,,,,,
+TransferCoin,TX,transfercoin,6530695.0,1530473107.0,,"{'USD': {'price': 0.341783, 'volume_24h': 26441.3, 'market_cap': 2232081.0, 'percent_change_1h': -0.3, 'percent_change_24h': -3.19, 'percent_change_7d': -26.06}}",712.0,6530695.0
+GuccioneCoin,GCC,guccionecoin,20285537.0,1530473107.0,,"{'USD': {'price': 0.00189285, 'volume_24h': 417.177, 'market_cap': 38397.0, 'percent_change_1h': -0.31, 'percent_change_24h': -0.39, 'percent_change_7d': 6.18}}",1294.0,23775537.0
+MyWish,WISH,mywish,,,,,,
+AmsterdamCoin,AMS,amsterdamcoin,50201886.0,1530473107.0,,"{'USD': {'price': 0.0018933, 'volume_24h': 1302.38, 'market_cap': 95047.0, 'percent_change_1h': 10.73, 'percent_change_24h': 20.64, 'percent_change_7d': 8.31}}",971.0,81469427.0
+ETHLend,LEND,ethlend,,,,,,
+onG.social,ONG,ongsocial,,,,,,
+Eurocoin,EUC,eurocoin,12416554.0,1530473107.0,,"{'USD': {'price': 0.00598585, 'volume_24h': 42.1764, 'market_cap': 74324.0, 'percent_change_1h': -0.33, 'percent_change_24h': 2.1, 'percent_change_7d': 15.05}}",1256.0,12416554.0
+Qbao,QBT,qbao,,,,,,
+Dragonchain,DRGN,dragonchain,,,,,,
+Payfair,PFR,payfair,,,,,,
+Siacoin,SC,siacoin,35401613819.0,1530473107.0,,"{'USD': {'price': 0.0103336, 'volume_24h': 7788970.0, 'market_cap': 365826117.0, 'percent_change_1h': -0.04, 'percent_change_24h': -2.28, 'percent_change_7d': -0.75}}",34.0,35401613819.0
+CyberMiles,CMT,cybermiles,,,,,,
+Global Currency Reserve,GCR,global-currency-reserve,104292610.0,1530473107.0,,"{'USD': {'price': 0.0644829, 'volume_24h': 3221.68, 'market_cap': 6725090.0, 'percent_change_1h': -0.31, 'percent_change_24h': -2.03, 'percent_change_7d': -4.33}}",490.0,104292610.0
+Cappasity,CAPP,cappasity,,,,,,
+Eroscoin,ERO,eroscoin,,,,,,
+MagicCoin,MAGE,magiccoin,,,,,,
+IoT Chain,ITC,iot-chain,,,,,,
+Jiyo,JIYO,jiyo,,,,,,
+Shift,SHIFT,shift,12198804.0,1530473104.0,,"{'USD': {'price': 1.06424, 'volume_24h': 47082.6, 'market_cap': 12982455.0, 'percent_change_1h': -1.0, 'percent_change_24h': 3.09, 'percent_change_7d': -2.75}}",357.0,12198804.0
+Bonpay,BON,bonpay,,,,,,
+VectorAI,VEC2,vector,17462801.0,1530473107.0,,"{'USD': {'price': 0.0011988, 'volume_24h': 3.5506, 'market_cap': 20934.0, 'percent_change_1h': -0.31, 'percent_change_24h': 5.14, 'percent_change_7d': 14.66}}",1319.0,17462801.0
+Bolivarcoin,BOLI,bolivarcoin,10724950.0,1530473107.0,25000000.0,"{'USD': {'price': 0.0120851, 'volume_24h': 181.766, 'market_cap': 129612.0, 'percent_change_1h': -0.33, 'percent_change_24h': -1.44, 'percent_change_7d': 1.44}}",1214.0,10724950.0
+StrikeBitClub,SBC,strikebitclub,,,,,,
+Bulwark,BWK,bulwark,,,,,,
+SagaCoin,SAGA,sagacoin,,,,,,
+COMSA [ETH],CMS,comsa-eth,,,,,,
+SpaceCoin,SPACE,spacecoin,23432014.0,1530473107.0,,"{'USD': {'price': 0.00725591, 'volume_24h': 42.9369, 'market_cap': 170021.0, 'percent_change_1h': -0.31, 'percent_change_24h': -0.22, 'percent_change_7d': 24.95}}",1188.0,23432014.0
+Tokugawa,TOK,tokugawa,,,,,,
+Pioneer Coin,PCOIN,pioneer-coin,,,,,,
+COMSA [XEM],CMS,comsa-xem,,,,,,
+WaBi,WABI,wabi,,,,,,
+Bitcrystals,BCY,bitcrystals,23167827.0,1530473107.0,,"{'USD': {'price': 0.168776, 'volume_24h': 2622.02, 'market_cap': 3910173.0, 'percent_change_1h': -0.2, 'percent_change_24h': -2.79, 'percent_change_7d': 2.42}}",606.0,23167827.0
+WandX,WAND,wandx,,,,,,
+SportyCo,SPF,sportyco,,,,,,
+Pakcoin,PAK,pakcoin,57276750.0,1530473107.0,182000000.0,"{'USD': {'price': 0.0029462, 'volume_24h': 840.268, 'market_cap': 168749.0, 'percent_change_1h': -0.31, 'percent_change_24h': -4.89, 'percent_change_7d': -10.42}}",951.0,57276750.0
+Soma,SCT,soma,,,,,,
+Uquid Coin,UQC,uquid-coin,,,,,,
+Influxcoin,INFX,influxcoin,1673383.0,1530473107.0,,"{'USD': {'price': 0.0815185, 'volume_24h': 10.1116, 'market_cap': 136412.0, 'percent_change_1h': -0.31, 'percent_change_24h': -3.2, 'percent_change_7d': 2.79}}",1206.0,1673383.0
+Expanse,EXP,expanse,7906397.0,1530473107.0,,"{'USD': {'price': 0.829463, 'volume_24h': 16057.6, 'market_cap': 6558063.0, 'percent_change_1h': -0.82, 'percent_change_24h': 0.4, 'percent_change_7d': -0.75}}",497.0,16906397.0
+Ignis,IGNIS,ignis,,,,,,
+SmartMesh,SMT,smartmesh,,,,,,
+HollyWoodCoin,HWC,hollywoodcoin,,,,,,
+Playkey,PKT,playkey,,,,,,
+Filecoin [Futures],FIL,filecoin,,,,,,
+BitcoinX,BCX,bitcoinx,,,,,,
+Super Bitcoin,SBTC,super-bitcoin,,,,,,
+Datum,DAT,datum,,,,,,
+Trident Group,TRDT,trident,,,,,,
+Bitair,BTCA,bitair,,,,,,
+MicroMoney,AMM,micromoney,,,,,,
+SIBCoin,SIB,sibcoin,16849614.0,1530473104.0,,"{'USD': {'price': 0.344977, 'volume_24h': 22496.6, 'market_cap': 5812729.0, 'percent_change_1h': 1.77, 'percent_change_24h': -0.58, 'percent_change_7d': -4.4}}",519.0,16849614.0
+Worldcore,WRC,worldcore,,,,,,
+IslaCoin,ISL,islacoin,1513704.0,1530473107.0,,"{'USD': {'price': 0.10316, 'volume_24h': 0.928378, 'market_cap': 156154.0, 'percent_change_1h': -0.31, 'percent_change_24h': -0.33, 'percent_change_7d': 31.7}}",1193.0,1513704.0
+Swing,SWING,swing,3410332.0,1530473107.0,,"{'USD': {'price': 0.041007, 'volume_24h': 419.268, 'market_cap': 139847.0, 'percent_change_1h': -0.31, 'percent_change_24h': 3.77, 'percent_change_7d': 18.94}}",1202.0,3410332.0
+Genaro Network,GNX,genaro-network,,,,,,
+Factom,FCT,factom,8745102.0,1530473107.0,,"{'USD': {'price': 8.87823, 'volume_24h': 61315.6, 'market_cap': 77641027.0, 'percent_change_1h': 0.06, 'percent_change_24h': 1.28, 'percent_change_7d': -8.3}}",107.0,8745102.0
+Starbase,STAR,starbase,,,,,,
+ParallelCoin,DUO,parallelcoin,314719.0,1530473107.0,,"{'USD': {'price': 0.661164, 'volume_24h': 314.241, 'market_cap': 208081.0, 'percent_change_1h': -0.25, 'percent_change_24h': 13.38, 'percent_change_7d': 22.0}}",1171.0,314719.0
+Save and Gain,SANDG,save-and-gain,3064800.0,1530473112.0,,"{'USD': {'price': 0.00280557, 'volume_24h': 2.35871, 'market_cap': 8599.0, 'percent_change_1h': -0.29, 'percent_change_24h': -15.55, 'percent_change_7d': 8.51}}",1333.0,3064800.0
+Dynamic Trading Rights,DTR,dynamic-trading-rights,,,,,,
+aelf,ELF,aelf,,,,,,
+Prototanium,PR,prototanium,196891.0,1530473107.0,,"{'USD': {'price': 1.12082, 'volume_24h': 102.551, 'market_cap': 220679.0, 'percent_change_1h': -0.31, 'percent_change_24h': -0.32, 'percent_change_7d': 8.99}}",1168.0,196891.0
+MediBloc [QRC20],MED,medibloc,,,,,,
+DEW,DEW,dew,,,,,,
+NAGA,NGC,naga,,,,,,
+Bread,BRD,bread,,,,,,
+Bibox Token,BIX,bibox-token,,,,,,
+Dai,DAI,dai,,,,,,
+DigiCube,CUBE,digicube,2429126009.0,1530473107.0,,"{'USD': {'price': 6.30948e-05, 'volume_24h': 630.948, 'market_cap': 153265.0, 'percent_change_1h': -0.31, 'percent_change_24h': -0.39, 'percent_change_7d': 3.43}}",956.0,2429126009.0
+Bounty0x,BNTY,bounty0x,,,,,,
+Ace,ACE,ace,,,,,,
+DIMCOIN,DIM,dimcoin,,,,,,
+Augur,REP,augur,11000000.0,1530473107.0,,"{'USD': {'price': 34.4679, 'volume_24h': 2806420.0, 'market_cap': 379146900.0, 'percent_change_1h': 0.04, 'percent_change_24h': -1.79, 'percent_change_7d': 14.8}}",32.0,11000000.0
+Cryptopay,CPAY,cryptopay,,,,,,
+StrongHands,SHND,stronghands,18984246847200.0,1530473112.0,18984246847200.0,"{'USD': {'price': 4.971e-07, 'volume_24h': 37843.2, 'market_cap': 9436291.0, 'percent_change_1h': 7.82, 'percent_change_24h': 15.33, 'percent_change_7d': 10.93}}",426.0,18984246847200.0
+PACcoin,$PAC,paccoin,4051990686.0,1530473107.0,100000000000.0,"{'USD': {'price': 0.00479409, 'volume_24h': 66239.5, 'market_cap': 19425608.0, 'percent_change_1h': 1.56, 'percent_change_24h': 6.26, 'percent_change_7d': -6.75}}",278.0,4561972760.0
+HomeBlockCoin,HBC,homeblockcoin,,,,,,
+Elite,1337,1337coin,26211536472.0,1530473107.0,,"{'USD': {'price': 6.14054e-05, 'volume_24h': 703.278, 'market_cap': 1609530.0, 'percent_change_1h': 0.36, 'percent_change_24h': 0.02, 'percent_change_7d': -3.54}}",760.0,29013889587.0
+Money,$$$,money,45887218.0,1530473107.0,,"{'USD': {'price': 0.00138809, 'volume_24h': 34.1308, 'market_cap': 63696.0, 'percent_change_1h': -0.31, 'percent_change_24h': -0.39, 'percent_change_7d': 26.41}}",1264.0,45887218.0
+SOILcoin,SOIL,soilcoin,5702048.0,1530473112.0,,"{'USD': {'price': 0.0160892, 'volume_24h': 225.986, 'market_cap': 91741.0, 'percent_change_1h': -0.31, 'percent_change_24h': -0.39, 'percent_change_7d': 29.28}}",1243.0,5702048.0
+HEROcoin,PLAY,herocoin,,,,,,
+SecretCoin,SCRT,secretcoin,4228672.0,1530473107.0,,"{'USD': {'price': 0.0236606, 'volume_24h': 0.664641, 'market_cap': 100053.0, 'percent_change_1h': -0.31, 'percent_change_24h': -0.39, 'percent_change_7d': None}}",1238.0,4228672.0
+Matryx,MTX,matryx,,,,,,
+Olympus Labs,MOT,olympus-labs,,,,,,
+Hyper Pay,HPY,hyper-pay,,,,,,
+Pylon Network,PYLNT,pylon-network,,,,,,
+ENTCash,ENT,entcash,,,,,,
+STRAKS,STAK,straks,,,,,,
+DraftCoin,DFT,draftcoin,7914886.0,1530473107.0,,"{'USD': {'price': 0.095657, 'volume_24h': 3049.76, 'market_cap': 757114.0, 'percent_change_1h': -0.25, 'percent_change_24h': -8.29, 'percent_change_7d': 5.43}}",851.0,17914886.0
+BitClave,CAT,bitclave,,,,,,
+Lightning Bitcoin,LBTC,lightning-bitcoin,,,,,,
+OBITS,OBITS,obits,15674600.0,1530473107.0,,"{'USD': {'price': 0.18559, 'volume_24h': 1893.82, 'market_cap': 2909049.0, 'percent_change_1h': -1.15, 'percent_change_24h': -5.91, 'percent_change_7d': -5.55}}",661.0,15674600.0
+Lamden,TAU,lamden,,,,,,
+Synereo,AMP,synereo,100728564.0,1530473112.0,,"{'USD': {'price': 0.10442, 'volume_24h': 19621.5, 'market_cap': 10518077.0, 'percent_change_1h': 0.13, 'percent_change_24h': -3.05, 'percent_change_7d': -1.67}}",399.0,622410799.0
+Bloom,BLT,bloomtoken,,,,,,
+SwftCoin,SWFTC,swftcoin,,,,,,
+Covesting,COV,covesting,,,,,,
+CanYaCoin,CAN,canyacoin,,,,,,
+AppCoins,APPC,appcoins,,,,,,
+High Performance Blockchain,HPB,high-performance-blockchain,,,,,,
+WaykiChain,WICC,waykichain,,,,,,
+NumusCash,NUMUS,numuscash,,,,,,
+Measurable Data Token,MDT,measurable-data-token,,,,,,
+ClubCoin,CLUB,clubcoin,,1530473107.0,160000000.0,"{'USD': {'price': 0.36595, 'volume_24h': 5110.93, 'market_cap': None, 'percent_change_1h': -0.31, 'percent_change_24h': 11.07, 'percent_change_7d': 18.66}}",1469.0,99924369.0
+Adzcoin,ADZ,adzcoin,43850481.0,1530473104.0,84000000.0,"{'USD': {'price': 0.0166827, 'volume_24h': 3246.7, 'market_cap': 731544.0, 'percent_change_1h': 6.79, 'percent_change_24h': -14.93, 'percent_change_7d': -21.51}}",854.0,43850481.0
+Numus,NMS,numus,,,,,,
+Coinlancer,CL,coinlancer,,,,,,
+CryptopiaFeeShares,CEFS,cryptopiafeeshares,,,,,,
+GET Protocol,GET,get-protocol,,,,,,
+Moin,MOIN,moin,7693479.0,1530473107.0,,"{'USD': {'price': 0.0626892, 'volume_24h': 871.19, 'market_cap': 482298.0, 'percent_change_1h': -0.32, 'percent_change_24h': 7.41, 'percent_change_7d': 2.59}}",891.0,7693479.0
+CFun,CFUN,cfun,,,,,,
+AI Doctor,AIDOC,aidoc,,,,,,
+Content and AD Network,CAN,content-and-ad-network,,,,,,
+Polis,POLIS,polis,,,,,,
+AvatarCoin,AV,avatarcoin,,1530473112.0,,"{'USD': {'price': 0.0329355, 'volume_24h': 10.6014, 'market_cap': None, 'percent_change_1h': -0.31, 'percent_change_24h': -1.1, 'percent_change_7d': None}}",1550.0,
+RussiaCoin,RC,russiacoin,8377873.0,1530473107.0,,"{'USD': {'price': 0.194206, 'volume_24h': 58.1912, 'market_cap': 1627033.0, 'percent_change_1h': -0.31, 'percent_change_24h': 0.46, 'percent_change_7d': 20.74}}",1045.0,8377873.0
+EverGreenCoin,EGC,evergreencoin,13627556.0,1530473104.0,,"{'USD': {'price': 0.0973899, 'volume_24h': 1941.37, 'market_cap': 1327186.0, 'percent_change_1h': -0.28, 'percent_change_24h': -7.31, 'percent_change_7d': -7.32}}",779.0,13627556.0
+Zap,ZAP,zap,,,,,,
+TokenClub,TCT,tokenclub,,,,,,
+FairGame,FAIR,fairgame,,,,,,
+Aigang,AIX,aigang,,,,,,
+Creditbit,CRB,creditbit,16691694.0,1530473104.0,,"{'USD': {'price': 0.0560317, 'volume_24h': 2914.54, 'market_cap': 935264.0, 'percent_change_1h': -0.42, 'percent_change_24h': -3.84, 'percent_change_7d': -3.25}}",828.0,16691694.0
+Radium,RADS,radium,3501068.0,1530473107.0,,"{'USD': {'price': 2.3226, 'volume_24h': 96295.1, 'market_cap': 8131580.0, 'percent_change_1h': -0.28, 'percent_change_24h': 0.61, 'percent_change_7d': -0.76}}",458.0,3501068.0
+Litecred,LTCR,litecred,30227750.0,1530473107.0,,"{'USD': {'price': 0.000820233, 'volume_24h': 36.7115, 'market_cap': 24794.0, 'percent_change_1h': -0.31, 'percent_change_24h': -0.39, 'percent_change_7d': None}}",1312.0,30227750.0
+Yocoin,YOC,yocoin,112194700.0,1530473107.0,336000000.0,"{'USD': {'price': 0.0260855, 'volume_24h': 15604.2, 'market_cap': 2926655.0, 'percent_change_1h': 0.11, 'percent_change_24h': -14.7, 'percent_change_7d': -31.75}}",660.0,171704700.0
+Commodity Ad Network,CDX,commodity-ad-network,,,,,,
+Trade Token,TIO,trade-token,,,,,,
+SaluS,SLS,salus,1010679.0,1530473107.0,,"{'USD': {'price': 23.0002, 'volume_24h': 98119.0, 'market_cap': 23245812.0, 'percent_change_1h': -1.45, 'percent_change_24h': -5.31, 'percent_change_7d': -0.29}}",257.0,1010679.0
+QunQun,QUN,qunqun,,,,,,
+TopChain,TOPC,topchain,,,,,,
+Leverj,LEV,leverj,,,,,,
+Karma,KRM,karma,,,,,,
+Francs,FRN,francs,,1530473112.0,,"{'USD': {'price': 0.0139964, 'volume_24h': 348.299, 'market_cap': None, 'percent_change_1h': -0.32, 'percent_change_24h': 16.42, 'percent_change_7d': 2.79}}",1497.0,6133836.0
+Evil Coin,EVIL,evil-coin,21020383.0,1530473107.0,,"{'USD': {'price': 0.0113571, 'volume_24h': 1.70356, 'market_cap': 238731.0, 'percent_change_1h': -0.31, 'percent_change_24h': -0.34, 'percent_change_7d': 19.35}}",1158.0,21020383.0
+Spectre.ai Dividend Token,SXDT,spectre-dividend,,,,,,
+Spectre.ai Utility Token,SXUT,spectre-utility,,,,,,
+Decred,DCR,decred,7145743.0,1530473107.0,21000000.0,"{'USD': {'price': 65.2462, 'volume_24h': 3680040.0, 'market_cap': 466232571.0, 'percent_change_1h': -0.29, 'percent_change_24h': -2.97, 'percent_change_7d': -8.05}}",28.0,7565743.0
+PIVX,PIVX,pivx,56619878.0,1530473107.0,,"{'USD': {'price': 1.93672, 'volume_24h': 936269.0, 'market_cap': 109656850.0, 'percent_change_1h': 0.18, 'percent_change_24h': -1.81, 'percent_change_7d': 2.98}}",80.0,56619878.0
+Cloud,CLD,cloud,,,,,,
+United Crypto Community,UCOM,ucom,,,,,,
+Safe Exchange Coin,SAFEX,safe-exchange-coin,1543157590.0,1530473112.0,2147483647.0,"{'USD': {'price': 0.0260233, 'volume_24h': 36847.8, 'market_cap': 40158053.0, 'percent_change_1h': -0.55, 'percent_change_24h': -2.21, 'percent_change_7d': 30.08}}",174.0,2147483647.0
+ugChain,UGC,ugchain,,,,,,
+Bankex,BKX,bankex,,,,,,
+Rubies,RBIES,rubies,10415252.0,1530473107.0,,"{'USD': {'price': 0.0165308, 'volume_24h': 24.0851, 'market_cap': 172172.0, 'percent_change_1h': -0.31, 'percent_change_24h': -0.39, 'percent_change_7d': -3.5}}",1187.0,10415252.0
+Asiadigicoin,ADCN,asiadigicoin,24931054.0,1530473107.0,,"{'USD': {'price': 0.00170603, 'volume_24h': 336.181, 'market_cap': 42533.0, 'percent_change_1h': -0.3, 'percent_change_24h': -0.25, 'percent_change_7d': None}}",1288.0,210000000.0
+Telcoin,TEL,telcoin,,,,,,
+Ignition,IC,ignition,,,,,,
+WETH,WETH,weth,,,,,,
+Hackspace Capital,HAC,hackspace-capital,,,,,,
+Selfkey,KEY,selfkey,,,,,,
+KiloCoin,KLC,kilocoin,196297971.0,1530473107.0,,"{'USD': {'price': 0.029907, 'volume_24h': 71.7754, 'market_cap': 5870683.0, 'percent_change_1h': -0.31, 'percent_change_24h': 29.71, 'percent_change_7d': None}}",1011.0,10025186872.0
+OneRoot Network,RNT,oneroot-network,,,,,,
+Sense,SENSE,sense,,,,,,
+TrumpCoin,TRUMP,trumpcoin,6602146.0,1530473112.0,,"{'USD': {'price': 0.0454146, 'volume_24h': 171.36, 'market_cap': 299834.0, 'percent_change_1h': -1.43, 'percent_change_24h': -3.43, 'percent_change_7d': -3.29}}",1145.0,6602146.0
+TOKYO,TOKC,tokyo,,,,,,
+IOST,IOST,iostoken,,,,,,
+InvestDigital,IDT,investdigital,,,,,,
+AICHAIN,AIT,aichain,,,,,,
+Qube,QUBE,qube,,,,,,
+Memetic / PepeCoin,MEME,memetic,22698837.0,1530473107.0,,"{'USD': {'price': 0.0803838, 'volume_24h': 30262.4, 'market_cap': 1824619.0, 'percent_change_1h': -0.88, 'percent_change_24h': 0.49, 'percent_change_7d': -5.04}}",741.0,23066089.0
+SpaceChain,SPC,spacechain,,,,,,
+C-Bit,XCT,c-bit,157625875.0,1530473107.0,,"{'USD': {'price': 0.000718667, 'volume_24h': 1321.16, 'market_cap': 113281.0, 'percent_change_1h': -0.67, 'percent_change_24h': 23.96, 'percent_change_7d': -7.43}}",964.0,157625875.0
+Independent Money System,IMS,independent-money-system,5368934.0,1530473104.0,,"{'USD': {'price': 0.0049214, 'volume_24h': 1.08712, 'market_cap': 26423.0, 'percent_change_1h': -0.31, 'percent_change_24h': -0.39, 'percent_change_7d': 13.58}}",1309.0,5368934.0
+HOdlcoin,HODL,hodlcoin,164342925.0,1530473112.0,,"{'USD': {'price': 0.00189285, 'volume_24h': 131.69, 'market_cap': 311077.0, 'percent_change_1h': -0.31, 'percent_change_24h': 6.72, 'percent_change_7d': 19.34}}",1141.0,250000000.0
+RealChain,RCT,realchain,,,,,,
+ArbitrageCT,ARCT,arbitragect,,,,,,
+BigUp,BIGUP,bigup,2137572489.0,1530473107.0,,"{'USD': {'price': 0.000190148, 'volume_24h': 1871.56, 'market_cap': 406455.0, 'percent_change_1h': -0.22, 'percent_change_24h': 13.17, 'percent_change_7d': 28.06}}",905.0,2137572489.0
+Maverick Chain,MVC,maverick-chain,,,,,,
+NevaCoin,NEVA,nevacoin,3104585.0,1530473107.0,,"{'USD': {'price': 0.0441662, 'volume_24h': 67.224, 'market_cap': 137118.0, 'percent_change_1h': -0.31, 'percent_change_24h': -1.47, 'percent_change_7d': -4.6}}",1205.0,3104585.0
+Nitro,NOX,nitro,,,,,,
+InsurePal,IPL,insurepal,,,,,,
+IDEX Membership,IDXM,idex-membership,,,,,,
+Aurora DAO,AURA,aurora-dao,,,,,,
+SingularityNET,AGI,singularitynet,,,,,,
+BumbaCoin,BUMBA,bumbacoin,23022694.0,1530473107.0,,"{'USD': {'price': 0.00561544, 'volume_24h': 227.467, 'market_cap': 129283.0, 'percent_change_1h': -0.31, 'percent_change_24h': 7.57, 'percent_change_7d': 14.46}}",1215.0,23022694.0
+ShareX,SEXC,sharex,,,,,,
+RevolutionVR,RVR,revolutionvr,210000000.0,1530473112.0,210000000.0,"{'USD': {'price': 0.0463216, 'volume_24h': 76924.0, 'market_cap': 9727536.0, 'percent_change_1h': -0.7, 'percent_change_24h': -3.69, 'percent_change_7d': -5.76}}",413.0,210000000.0
+PosEx,PEX,posex,2453240.0,1530473107.0,,"{'USD': {'price': 0.00605711, 'volume_24h': 0.642053, 'market_cap': 14860.0, 'percent_change_1h': -0.31, 'percent_change_24h': 2.06, 'percent_change_7d': 4.52}}",1325.0,2453240.0
+Cabbage,CAB,cabbage,10499996.0,1530473107.0,,"{'USD': {'price': 0.00252379, 'volume_24h': 141.498, 'market_cap': 26500.0, 'percent_change_1h': -0.31, 'percent_change_24h': -0.39, 'percent_change_7d': 4.74}}",1308.0,10499996.0
+Hydro Protocol,HOT,hydro-protocol,,,,,,
+MojoCoin,MOJO,mojocoin,12223944.0,1530473106.0,,"{'USD': {'price': 0.0128824, 'volume_24h': 31.8732, 'market_cap': 157474.0, 'percent_change_1h': -0.31, 'percent_change_24h': 1.69, 'percent_change_7d': -5.22}}",1192.0,12223944.0
+GoldMaxCoin,GMX,goldmaxcoin,,1530473112.0,,"{'USD': {'price': 0.000441664, 'volume_24h': 1.85701, 'market_cap': None, 'percent_change_1h': -0.31, 'percent_change_24h': 5.34, 'percent_change_7d': -0.06}}",1567.0,84078950.0
+Lisk,LSK,lisk,107530484.0,1530473107.0,,"{'USD': {'price': 5.27567, 'volume_24h': 5888490.0, 'market_cap': 567295349.0, 'percent_change_1h': -0.13, 'percent_change_24h': -0.14, 'percent_change_7d': -3.4}}",24.0,122776932.0
+LightChain,LIGHT,lightchain,,,,,,
+EDRCoin,EDRC,edrcoin,,1530473107.0,,"{'USD': {'price': 0.120471, 'volume_24h': 9855.9, 'market_cap': None, 'percent_change_1h': -0.3, 'percent_change_24h': 10.06, 'percent_change_7d': 25.92}}",1461.0,3407292.0
+YEE,YEE,yee,,,,,,
+PostCoin,POST,postcoin,15868233.0,1530473104.0,,"{'USD': {'price': 0.0129651, 'volume_24h': 627.78, 'market_cap': 205733.0, 'percent_change_1h': -1.07, 'percent_change_24h': 0.22, 'percent_change_7d': 7.79}}",938.0,15868233.0
+SelfSell,SSC,selfsell,,,,,,
+Read,READ,read,,,,,,
+Molecular Future,MOF,molecular-future,,,,,,
+Trinity Network Credit,TNC,trinity-network-credit,,,,,,
+BERNcash,BERN,berncash,71234301.0,1530473112.0,,"{'USD': {'price': 0.00178747, 'volume_24h': 102.991, 'market_cap': 127329.0, 'percent_change_1h': 8.1, 'percent_change_24h': 6.85, 'percent_change_7d': -10.52}}",1218.0,71234301.0
+Block Array,ARY,block-array,,,,,,
+DATA,DTA,data,,,,,,
+Qwark,QWARK,qwark,58075279.0,1530473107.0,,"{'USD': {'price': 0.0404553, 'volume_24h': 2769.9, 'market_cap': 2349453.0, 'percent_change_1h': -2.11, 'percent_change_24h': -2.49, 'percent_change_7d': 9.53}}",704.0,206075989.0
+Sparks,SPK,sparks,,,,,,
+carVertical,CV,carvertical,,,,,,
+DigixDAO,DGD,digixdao,2000000.0,1530473107.0,,"{'USD': {'price': 96.6014, 'volume_24h': 510039.0, 'market_cap': 193202800.0, 'percent_change_1h': -0.42, 'percent_change_24h': 1.18, 'percent_change_7d': 4.66}}",57.0,2000000.0
+Steem,STEEM,steem,265975775.0,1530473104.0,,"{'USD': {'price': 1.75185, 'volume_24h': 43488100.0, 'market_cap': 465949661.0, 'percent_change_1h': -2.61, 'percent_change_24h': 22.76, 'percent_change_7d': 35.31}}",27.0,282949869.0
+UnlimitedIP,UIP,unlimitedip,,,,,,
+PressOne,PRS,pressone,,,,,,
+OFCOIN,OF,ofcoin,,,,,,
+Fantasy Cash,FANS,fantasy-cash,4602101.0,1530473112.0,,"{'USD': {'price': 0.0947054, 'volume_24h': 186.459, 'market_cap': 435844.0, 'percent_change_1h': -0.29, 'percent_change_24h': 6.11, 'percent_change_7d': -24.15}}",1115.0,4602101.0
+Odyssey,OCN,odyssey,,,,,,
+indaHash,IDH,indahash,,,,,,
+Qbic,QBIC,qbic,,,,,,
+Espers,ESP,espers,21838505310.0,1530473107.0,50000000000.0,"{'USD': {'price': 0.000204304, 'volume_24h': 994.616, 'market_cap': 4461694.0, 'percent_change_1h': -1.82, 'percent_change_24h': 3.33, 'percent_change_7d': -2.9}}",575.0,21838505310.0
+AidCoin,AID,aidcoin,,,,,,
+Devery,EVE,devery,,,,,,
+FuzzBalls,FUZZ,fuzzballs,4829945.0,1530473107.0,,"{'USD': {'price': 0.0124689, 'volume_24h': 491.73, 'market_cap': 60224.0, 'percent_change_1h': 2.09, 'percent_change_24h': 5.49, 'percent_change_7d': 27.25}}",1272.0,4829945.0
+aXpire,AXP,axpire,,,,,,
+OriginTrail,TRAC,origintrail,,,,,,
+HiCoin,XHI,hicoin,4434602828.0,1530473107.0,,"{'USD': {'price': 0.000451242, 'volume_24h': 2837.12, 'market_cap': 2001079.0, 'percent_change_1h': -9.28, 'percent_change_24h': -3.0, 'percent_change_7d': -0.79}}",729.0,10000244678.0
+Zilliqa,ZIL,zilliqa,,,,,,
+CoinMeet,MEET,coinmeet,,,,,,
+AquariusCoin,ARCO,aquariuscoin,1804461.0,1530473108.0,,"{'USD': {'price': 0.195875, 'volume_24h': 20.6117, 'market_cap': 353449.0, 'percent_change_1h': -0.31, 'percent_change_24h': -0.24, 'percent_change_7d': -2.33}}",1133.0,1804461.0
+Bitcoin 21,XBTC21,bitcoin-21,793108.0,1530473112.0,,"{'USD': {'price': 0.100258, 'volume_24h': 7.23389, 'market_cap': 79515.0, 'percent_change_1h': -0.12, 'percent_change_24h': 0.93, 'percent_change_7d': None}}",1250.0,7093108.0
+Elcoin,EL,elcoin-el,11208967.0,1530473112.0,,"{'USD': {'price': 0.0457561, 'volume_24h': 709.327, 'market_cap': 512879.0, 'percent_change_1h': -0.31, 'percent_change_24h': -2.58, 'percent_change_7d': -10.91}}",887.0,20935289.0
+Zurcoin,ZUR,zurcoin,87653034.0,1530473107.0,,"{'USD': {'price': 0.000820233, 'volume_24h': 94.8328, 'market_cap': 71896.0, 'percent_change_1h': -0.31, 'percent_change_24h': 0.25, 'percent_change_7d': None}}",1259.0,87653034.0
+SixEleven,611,sixeleven,450055.0,1530473112.0,,"{'USD': {'price': 0.256291, 'volume_24h': 149.698, 'market_cap': 115345.0, 'percent_change_1h': 0.27, 'percent_change_24h': -0.18, 'percent_change_7d': 26.58}}",1226.0,450055.0
+2GIVE,2GIVE,2give,519365621.0,1530473112.0,,"{'USD': {'price': 0.00515564, 'volume_24h': 6260.43, 'market_cap': 2677662.0, 'percent_change_1h': -1.36, 'percent_change_24h': -4.12, 'percent_change_7d': -6.16}}",679.0,519365621.0
+Nework,NKC,nework,,,,,,
+PlatinumBAR,XPTX,platinumbar,1058102.0,1530473107.0,,"{'USD': {'price': 0.868492, 'volume_24h': 3150.59, 'market_cap': 918953.0, 'percent_change_1h': -7.69, 'percent_change_24h': 1.23, 'percent_change_7d': -7.06}}",833.0,1058102.0
+Equal,EQL,equal,,,,,,
+Alphabit,ABC,alphabitcoinfund,,1530473104.0,,"{'USD': {'price': 26.9038, 'volume_24h': 199.213, 'market_cap': None, 'percent_change_1h': -0.31, 'percent_change_24h': 0.65, 'percent_change_7d': -6.36}}",1512.0,210000000.0
+LanaCoin,LANA,lanacoin,917494135.0,1530473112.0,,"{'USD': {'price': 0.000441664, 'volume_24h': 199.299, 'market_cap': 405224.0, 'percent_change_1h': -0.31, 'percent_change_24h': -0.39, 'percent_change_7d': 3.43}}",1117.0,917494135.0
+CPChain,CPC,cpchain,,,,,,
+PonziCoin,PONZI,ponzicoin,861099.0,1530473112.0,,"{'USD': {'price': 0.0314843, 'volume_24h': 136.268, 'market_cap': 27111.0, 'percent_change_1h': -0.31, 'percent_change_24h': -0.4, 'percent_change_7d': 1.56}}",1305.0,861099.0
+Hi Mutual Society,HMC,hi-mutual-society,,,,,,
+Candy,CANDY,candy,,,,,,
+Speed Mining Service,SMS,speed-mining-service,,,,,,
+Electronic PK Chain,EPC,electronic-pk-chain,,,,,,
+TeslaCoilCoin,TESLA,teslacoilcoin,,1530473104.0,,"{'USD': {'price': 1.89221, 'volume_24h': 3594.3, 'market_cap': None, 'percent_change_1h': -0.31, 'percent_change_24h': 18.33, 'percent_change_7d': -6.95}}",1473.0,100000000.0
+BitWhite,BTW,bitwhite,,,,,,
+MarteXcoin,MXT,martexcoin,3031640.0,1530473104.0,5000000.0,"{'USD': {'price': 0.165861, 'volume_24h': 36.1067, 'market_cap': 502831.0, 'percent_change_1h': -0.11, 'percent_change_24h': 7.99, 'percent_change_7d': -21.69}}",1104.0,3031640.0
+Travelflex,TRF,travelflex,,,,,,
+Nullex,NLX,nullex,40477042.0,1530473112.0,,"{'USD': {'price': 0.0305972, 'volume_24h': 27423.7, 'market_cap': 1238484.0, 'percent_change_1h': -0.44, 'percent_change_24h': 0.85, 'percent_change_7d': -15.85}}",791.0,51530001.0
+RichCoin,RICHX,richcoin,,1530473112.0,,"{'USD': {'price': 0.00277617, 'volume_24h': 42.9345, 'market_cap': None, 'percent_change_1h': 1.61, 'percent_change_24h': -14.06, 'percent_change_7d': -12.49}}",1527.0,5925522.0
+Pareto Network,PARETO,pareto-network,,,,,,
+PrismChain,PRM,prismchain,,1530323168.0,,"{'USD': {'price': 0.00083796, 'volume_24h': None, 'market_cap': None, 'percent_change_1h': None, 'percent_change_24h': None, 'percent_change_7d': None}}",1592.0,
+Medicalchain,MTN,medical-chain,,,,,,
+Jibrel Network,JNT,jibrel-network,,,,,,
+Waves,WAVES,waves,100000000.0,1530473107.0,,"{'USD': {'price': 2.90265, 'volume_24h': 17977200.0, 'market_cap': 290265000.0, 'percent_change_1h': 1.14, 'percent_change_24h': 3.45, 'percent_change_7d': 9.26}}",42.0,100000000.0
+Zilla,ZLA,zilla,,,,,,
+ICO OpenLedger,ICOO,ico-openledger,465952.0,1530473112.0,,"{'USD': {'price': 0.532096, 'volume_24h': 25.2408, 'market_cap': 247931.0, 'percent_change_1h': -1.78, 'percent_change_24h': 0.45, 'percent_change_7d': 2.45}}",1154.0,465952.0
+Huobi Token,HT,huobi-token,,,,,,
+DMarket,DMT,dmarket,,,,,,
+Powercoin,PWR,powercoin,,1530473112.0,,"{'USD': {'price': 6.309e-07, 'volume_24h': 4431.42, 'market_cap': None, 'percent_change_1h': -50.16, 'percent_change_24h': -48.77, 'percent_change_7d': -60.75}}",1470.0,500125816646.0
+Bluzelle,BLZ,bluzelle,,,,,,
+ION,ION,ion,21400061.0,1530473107.0,,"{'USD': {'price': 0.872999, 'volume_24h': 72695.4, 'market_cap': 18682232.0, 'percent_change_1h': -0.3, 'percent_change_24h': -3.52, 'percent_change_7d': -1.41}}",291.0,27300061.0
+High Voltage,HVCO,high-voltage,1494171.0,1530473107.0,,"{'USD': {'price': 0.0578051, 'volume_24h': 649.951, 'market_cap': 86371.0, 'percent_change_1h': -0.31, 'percent_change_24h': 5.4, 'percent_change_7d': 12.93}}",974.0,1694171.0
+Mineum,MNM,mineum,9436367.0,1530473112.0,,"{'USD': {'price': 0.0212802, 'volume_24h': 1125.19, 'market_cap': 200808.0, 'percent_change_1h': -0.31, 'percent_change_24h': -0.38, 'percent_change_7d': 12.91}}",942.0,9586367.0
+RevolverCoin,XRE,revolvercoin,22914791.0,1530473112.0,,"{'USD': {'price': 0.00599401, 'volume_24h': 19.8209, 'market_cap': 137351.0, 'percent_change_1h': -0.31, 'percent_change_24h': -0.39, 'percent_change_7d': -7.07}}",1204.0,22914791.0
+GoldBlocks,GB,goldblocks,15563873.0,1530473107.0,,"{'USD': {'price': 0.0113787, 'volume_24h': 270.222, 'market_cap': 177097.0, 'percent_change_1h': -0.46, 'percent_change_24h': 0.05, 'percent_change_7d': 8.1}}",1186.0,15563873.0
+Breakout,BRK,breakout,18949258.0,1530473104.0,,"{'USD': {'price': 0.0718019, 'volume_24h': 13321.4, 'market_cap': 1360593.0, 'percent_change_1h': 1.64, 'percent_change_24h': -19.07, 'percent_change_7d': -24.0}}",775.0,18949258.0
+U.CASH,UCASH,ucash,,,,,,
+Debitcoin,DBTC,debitcoin,17999629.0,1530473112.0,,"{'USD': {'price': 0.00410117, 'volume_24h': 2.05058, 'market_cap': 73820.0, 'percent_change_1h': -0.31, 'percent_change_24h': -0.39, 'percent_change_7d': 52.86}}",1257.0,25999629.0
+Shekel,JEW,shekel,,,,,,
+ACChain,ACC,acchain,,,,,,
+Comet,CMT,comet,872830.0,1530473112.0,,"{'USD': {'price': 0.059762, 'volume_24h': 219.918, 'market_cap': 52162.0, 'percent_change_1h': -0.31, 'percent_change_24h': -2.82, 'percent_change_7d': 19.55}}",1278.0,872830.0
+Animation Vision Cash,AVH,animation-vision-cash,,,,,,
+LOCIcoin,LOCI,locicoin,,,,,,
+Rise,RISE,rise,126335540.0,1530473107.0,,"{'USD': {'price': 0.0442259, 'volume_24h': 1276.37, 'market_cap': 5587303.0, 'percent_change_1h': -0.31, 'percent_change_24h': 26.07, 'percent_change_7d': -12.3}}",530.0,126335540.0
+Jesus Coin,JC,jesus-coin,,,,,,
+BioCoin,BIO,biocoin,,,,,,
+ChessCoin,CHESS,chesscoin,54032769.0,1530473107.0,,"{'USD': {'price': 0.00447933, 'volume_24h': 99.8356, 'market_cap': 242031.0, 'percent_change_1h': 1.1, 'percent_change_24h': 1.02, 'percent_change_7d': 8.86}}",1157.0,54032769.0
+LBRY Credits,LBC,library-credit,167241196.0,1530473112.0,,"{'USD': {'price': 0.0975266, 'volume_24h': 108765.0, 'market_cap': 16310465.0, 'percent_change_1h': -0.76, 'percent_change_24h': -3.94, 'percent_change_7d': -5.16}}",315.0,542141200.0
+PutinCoin,PUT,putincoin,439368623.0,1530473112.0,2000000000.0,"{'USD': {'price': 0.00191501, 'volume_24h': 870.744, 'market_cap': 841395.0, 'percent_change_1h': -0.3, 'percent_change_24h': 8.82, 'percent_change_7d': -10.21}}",844.0,439368623.0
+Alphacat,ACAT,alphacat,,,,,,
+Envion,EVN,envion,,,,,,
+SureRemit,RMT,sureremit,,,,,,
+Breakout Stake,BRX,breakout-stake,6268082.0,1530473107.0,6268082.0,"{'USD': {'price': 0.378783, 'volume_24h': 24943.6, 'market_cap': 2374243.0, 'percent_change_1h': 3.32, 'percent_change_24h': -16.04, 'percent_change_7d': -28.76}}",701.0,6268082.0
+Syndicate,SYNX,syndicate,19531650.0,1530473107.0,,"{'USD': {'price': 0.150011, 'volume_24h': 87409.2, 'market_cap': 2929962.0, 'percent_change_1h': -0.39, 'percent_change_24h': -4.84, 'percent_change_7d': -2.91}}",659.0,19531650.0
+Fusion,FSN,fusion,,,,,,
+Cryptojacks,CJ,cryptojacks,406568581.0,1530473108.0,,"{'USD': {'price': 0.000504759, 'volume_24h': 254.414, 'market_cap': 205219.0, 'percent_change_1h': 0.79, 'percent_change_24h': 12.97, 'percent_change_7d': -8.63}}",1172.0,406568581.0
+Etherecash,ECH,etherecash,,,,,,
+HEAT,HEAT,heat-ledger,34976558.0,1530473112.0,,"{'USD': {'price': 0.104425, 'volume_24h': 265.591, 'market_cap': 3652427.0, 'percent_change_1h': -0.31, 'percent_change_24h': -6.25, 'percent_change_7d': -17.82}}",1024.0,34976558.0
+LetItRide,LIR,letitride,37487323.0,1530473107.0,,"{'USD': {'price': 0.000567854, 'volume_24h': 170.357, 'market_cap': 21287.0, 'percent_change_1h': -0.31, 'percent_change_24h': -0.39, 'percent_change_7d': 51.38}}",1318.0,37487323.0
+DADI,DADI,dadi,,,,,,
+Neurotoken,NTK,neurotoken,,,,,,
+Steem Dollars,SBD,steem-dollars,15307630.0,1530473104.0,,"{'USD': {'price': 1.19987, 'volume_24h': 2089910.0, 'market_cap': 18367166.0, 'percent_change_1h': -0.21, 'percent_change_24h': 1.97, 'percent_change_7d': 13.18}}",294.0,15307630.0
+Nectar,NEC,nectar,,,,,,
+Republic Protocol,REN,republic-protocol,,,,,,
+Litecoin Cash,LCC,litecoin-cash,,,,,,
+Storiqa,STQ,storiqa,,,,,,
+Tidex Token,TDX,tidex-token,,,,,,
+COPYTRACK,CPY,copytrack,,,,,,
+Nucleus Vision,NCASH,nucleus-vision,,,,,,
+Ardor,ARDR,ardor,998999495.0,1530473112.0,998999495.0,"{'USD': {'price': 0.146197, 'volume_24h': 1047790.0, 'market_cap': 146050729.0, 'percent_change_1h': -0.42, 'percent_change_24h': 1.8, 'percent_change_7d': 7.05}}",67.0,998999495.0
+Ethereum Classic,ETC,ethereum-classic,102707984.0,1530473112.0,,"{'USD': {'price': 15.8663, 'volume_24h': 217169000.0, 'market_cap': 1629595687.0, 'percent_change_1h': -0.32, 'percent_change_24h': 0.84, 'percent_change_7d': 8.76}}",15.0,102707984.0
+808Coin,808,808coin,135784738473.0,1530473107.0,,"{'USD': {'price': 7.9616e-06, 'volume_24h': 3871.41, 'market_cap': 1081069.0, 'percent_change_1h': 0.27, 'percent_change_24h': -0.14, 'percent_change_7d': 16.49}}",812.0,135784738473.0
+First Bitcoin,BIT,first-bitcoin,,1530473107.0,,"{'USD': {'price': 0.0123035, 'volume_24h': 226.646, 'market_cap': None, 'percent_change_1h': -0.31, 'percent_change_24h': 9.74, 'percent_change_7d': 1.35}}",1509.0,20707629255.0
+Ink Protocol,XNK,ink-protocol,,,,,,
+Rock,RKT,rock,,,,,,
+Bezop,BEZ,bezop,,,,,,
+IHT Real Estate Protocol,IHT,iht-real-estate-protocol,,,,,,
+Refereum,RFR,refereum,,,,,,
+Lympo,LYM,lympo,,,,,,
+Sether,SETH,sether,,,,,,
+Credits,CS,credits,,,,,,
+Bee Token,BEE,bee-token,,,,,,
+Insights Network,INSTAR,insights-network,,,,,,
+Elementrem,ELE,elementrem,26134753.0,1530473112.0,,"{'USD': {'price': 0.0100952, 'volume_24h': 69.6242, 'market_cap': 263836.0, 'percent_change_1h': -0.31, 'percent_change_24h': -6.25, 'percent_change_7d': -2.78}}",1152.0,26134753.0
+EZToken,EZT,eztoken,,,,,,
+UGAIN,GAIN,ugain,,1530473108.0,,"{'USD': {'price': 0.00130723, 'volume_24h': 18.4424, 'market_cap': None, 'percent_change_1h': -0.31, 'percent_change_24h': None, 'percent_change_7d': None}}",1540.0,
+Education Ecosystem,LEDU,education-ecosystem,,,,,,
+TrueUSD,TUSD,trueusd,,,,,,
+HOQU,HQX,hoqu,,,,,,
+Karbo,KRB,karbo,6122254.0,1530473107.0,,"{'USD': {'price': 0.37947, 'volume_24h': 12482.9, 'market_cap': 2323212.0, 'percent_change_1h': -1.43, 'percent_change_24h': -2.02, 'percent_change_7d': 12.12}}",706.0,6122254.0
+VapersCoin,VPRC,vaperscoin,780124964.0,1530473107.0,,"{'USD': {'price': 9.91244e-05, 'volume_24h': 508.865, 'market_cap': 77329.0, 'percent_change_1h': -0.31, 'percent_change_24h': 15.95, 'percent_change_7d': 14.37}}",978.0,1635124964.0
+DATx,DATX,datx,,,,,,
+Stratis,STRAT,stratis,98917238.0,1530473112.0,,"{'USD': {'price': 2.61096, 'volume_24h': 7159290.0, 'market_cap': 258268952.0, 'percent_change_1h': -0.35, 'percent_change_24h': 5.11, 'percent_change_7d': 12.19}}",46.0,98917238.0
+CoinPoker,CHP,coinpoker,,,,,,
+TomoChain,TOMO,tomochain,,,,,,
+Graft,GRFT,graft,,,,,,
+BABB,BAX,babb,,,,,,
+President Trump,PRES,president-trump,,1530473112.0,,"{'USD': {'price': 0.0133496, 'volume_24h': 3724.54, 'market_cap': None, 'percent_change_1h': -0.31, 'percent_change_24h': 16.19, 'percent_change_7d': 5.42}}",1472.0,57968072167.0
+Bitcoin Private,BTCP,bitcoin-private,,,,,,
+Tokenomy,TEN,tokenomy,,,,,,
+Aces,ACES,aces,,1530473108.0,,"{'USD': {'price': 0.000189285, 'volume_24h': 1.32234, 'market_cap': None, 'percent_change_1h': -0.31, 'percent_change_24h': -0.39, 'percent_change_7d': None}}",1570.0,
+President Johnson,GARY,president-johnson,,1530473106.0,,"{'USD': {'price': 0.0315474, 'volume_24h': 3297.57, 'market_cap': None, 'percent_change_1h': -0.31, 'percent_change_24h': -0.36, 'percent_change_7d': 14.48}}",1476.0,57968072167.0
+TajCoin,TAJ,tajcoin,9667644.0,1530473112.0,,"{'USD': {'price': 0.0114857, 'volume_24h': 780.692, 'market_cap': 111040.0, 'percent_change_1h': -0.31, 'percent_change_24h': -4.03, 'percent_change_7d': 33.63}}",965.0,9667644.0
+Leadcoin,LDC,leadcoin,,,,,,
+Sharpe Platform Token,SHP,sharpe-platform-token,,,,,,
+LALA World,LALA,lala-world,,,,,,
+Octoin Coin,OCC,octoin-coin,,,,,,
+E-Dinar Coin,EDR,e-dinar-coin,886211988.0,1530473112.0,999999999999999.0,"{'USD': {'price': 0.0111193, 'volume_24h': 37484.4, 'market_cap': 9854057.0, 'percent_change_1h': -3.7, 'percent_change_24h': -3.73, 'percent_change_7d': 11.56}}",403.0,1011211988.0
+Centrality,CENNZ,centrality,,,,,,
+Havven,HAV,havven,,,,,,
+Artex Coin,ATX,artex-coin,18781750.0,1530473108.0,500000000.0,"{'USD': {'price': 0.000130172, 'volume_24h': 698.419, 'market_cap': 2445.0, 'percent_change_1h': -0.3, 'percent_change_24h': -83.13, 'percent_change_7d': -31.57}}",998.0,268781750.0
+Loom Network,LOOM,loom-network,,,,,,
+Guaranteed Ethurance Token Extra,GETX,guaranteed-ethurance-token-extra,,,,,,
+HireMatch,HIRE,hirematch,,,,,,
+Dropil,DROP,dropil,,,,,,
+Banca,BANCA,banca,,,,,,
+Experience Points,XP,experience-points,234515357668.0,1530473128.0,,"{'USD': {'price': 8.15255e-05, 'volume_24h': 30504.5, 'market_cap': 19118982.0, 'percent_change_1h': 0.96, 'percent_change_24h': 2.25, 'percent_change_7d': 5.08}}",283.0,269328817941.0
+Veltor,VLT,veltor,554855.0,1530473111.0,,"{'USD': {'price': 0.0580473, 'volume_24h': 47.1524, 'market_cap': 32208.0, 'percent_change_1h': -0.48, 'percent_change_24h': -0.28, 'percent_change_7d': 10.88}}",1300.0,554855.0
+NANJCOIN,NANJ,nanjcoin,,,,,,
+CK USD,CKUSD,ckusd,,,,,,
+B3Coin,KB3,b3coin,729374646.0,1530473112.0,,"{'USD': {'price': 0.00328166, 'volume_24h': 3159.97, 'market_cap': 2393560.0, 'percent_change_1h': -7.37, 'percent_change_24h': -6.73, 'percent_change_7d': -16.37}}",688.0,729374646.0
+Banyan Network,BBN,banyan-network,,,,,,
+Noah Coin,NOAH,noah-coin,,,,,,
+LGO Exchange,LGO,legolas-exchange,,,,,,
+Golfcoin,GOLF,golfcoin,1275791069.0,1530473107.0,1800000000.0,"{'USD': {'price': 0.000189285, 'volume_24h': 680.081, 'market_cap': 241488.0, 'percent_change_1h': -0.31, 'percent_change_24h': -0.39, 'percent_change_7d': 55.14}}",930.0,1715791079.0
+NEO,NEO,neo,65000000.0,1530473107.0,100000000.0,"{'USD': {'price': 30.5871, 'volume_24h': 73882600.0, 'market_cap': 1988161500.0, 'percent_change_1h': -1.01, 'percent_change_24h': 1.61, 'percent_change_7d': -1.93}}",13.0,100000000.0
+Pundi X,NPXS,pundi-x,,,,,,
+Bitcoin Green,BITG,bitcoin-green,,,,,,
+BnkToTheFuture,BFT,bnktothefuture,,,,,,
+LoMoCoin,LMC,lomocoin,236817606.0,1530473112.0,,"{'USD': {'price': 0.0278267, 'volume_24h': 3258.92, 'market_cap': 6589852.0, 'percent_change_1h': -0.39, 'percent_change_24h': -2.31, 'percent_change_7d': 2.49}}",494.0,321817606.0
+Bitcloud,BTDX,bitcloud,23680687.0,1530473112.0,43800000.0,"{'USD': {'price': 0.074867, 'volume_24h': 407.402, 'market_cap': 1772902.0, 'percent_change_1h': 0.04, 'percent_change_24h': -1.83, 'percent_change_7d': -7.26}}",1040.0,23680687.0
+NoLimitCoin,NLC2,nolimitcoin,208458739.0,1530473107.0,,"{'USD': {'price': 0.0452348, 'volume_24h': 13533.4, 'market_cap': 9429589.0, 'percent_change_1h': -1.33, 'percent_change_24h': 1.19, 'percent_change_7d': -19.74}}",425.0,208458739.0
+Lendroid Support Token,LST,lendroid-support-token,,,,,,
+Peculium,PCL,peculium,,,,,,
+Spectiv,SIG,signal-token,,,,,,
+BitRent,RNTB,bitrent,,,,,,
+VeriumReserve,VRM,veriumreserve,1684589.0,1530473107.0,,"{'USD': {'price': 1.27004, 'volume_24h': 1674.48, 'market_cap': 2139495.0, 'percent_change_1h': -1.68, 'percent_change_24h': -2.23, 'percent_change_7d': -4.85}}",718.0,1684589.0
+Blocklancer,LNC,blocklancer,,,,,,
+Zayedcoin,ZYD,zayedcoin,6243840.0,1530473112.0,,"{'USD': {'price': 0.00504759, 'volume_24h': 312.586, 'market_cap': 31516.0, 'percent_change_1h': -0.31, 'percent_change_24h': -1.89, 'percent_change_7d': 55.92}}",1301.0,6243840.0
+Jin Coin,JIN,jin-coin,9960402.0,1530473112.0,9960595.0,"{'USD': {'price': 0.0157737, 'volume_24h': 851.401, 'market_cap': 157112.0, 'percent_change_1h': -0.31, 'percent_change_24h': 23.28, 'percent_change_7d': 91.89}}",954.0,9960402.0
+Tao,XTO,tao,33001270.0,1530466387.0,,"{'USD': {'price': 0.327787, 'volume_24h': None, 'market_cap': 10817387.0, 'percent_change_1h': None, 'percent_change_24h': -0.16, 'percent_change_7d': 1.28}}",1004.0,33001270.0
+Pluton,PLU,pluton,850000.0,1530473107.0,20000000.0,"{'USD': {'price': 4.49145, 'volume_24h': 985.895, 'market_cap': 3817730.0, 'percent_change_1h': -0.32, 'percent_change_24h': None, 'percent_change_7d': 8.42}}",609.0,20000000.0
+Tellurion,TELL,tellurion,,1530473112.0,,"{'USD': {'price': 0.000288539, 'volume_24h': 17.4215, 'market_cap': None, 'percent_change_1h': 58.76, 'percent_change_24h': 355.52, 'percent_change_7d': -24.06}}",1541.0,
+Consensus,SEN,consensus,,,,,,
+Dollarcoin,DLC,dollarcoin,9106714.0,1530473112.0,,"{'USD': {'price': 0.00687734, 'volume_24h': 2.47975, 'market_cap': 62630.0, 'percent_change_1h': -0.31, 'percent_change_24h': 2.43, 'percent_change_7d': 7.37}}",1268.0,9106714.0
+MustangCoin,MST,mustangcoin,630343.0,1530473107.0,3000000.0,"{'USD': {'price': 0.17278, 'volume_24h': 11.2946, 'market_cap': 108911.0, 'percent_change_1h': -0.31, 'percent_change_24h': -1.29, 'percent_change_7d': 17.61}}",1233.0,630343.0
+Beatcoin,XBTS,beatcoin,1524686.0,1530473107.0,,"{'USD': {'price': 0.0191808, 'volume_24h': 13.8364, 'market_cap': 29245.0, 'percent_change_1h': 0.79, 'percent_change_24h': 1.91, 'percent_change_7d': -63.76}}",1303.0,2524686.0
+PROUD Money,PROUD,proud-money,,1530468254.0,,"{'USD': {'price': 0.0158275, 'volume_24h': None, 'market_cap': None, 'percent_change_1h': None, 'percent_change_24h': 0.24, 'percent_change_7d': 16.46}}",1578.0,5711511682.0
+Sequence,SEQ,sequence,45752303.0,1530473108.0,,"{'USD': {'price': 0.0955887, 'volume_24h': 158.819, 'market_cap': 4373403.0, 'percent_change_1h': -1.16, 'percent_change_24h': -1.34, 'percent_change_7d': 3.75}}",1017.0,45752303.0
+Omicron,OMC,omicron,,1530473107.0,,"{'USD': {'price': 0.0603187, 'volume_24h': 6.29125, 'market_cap': None, 'percent_change_1h': -0.31, 'percent_change_24h': -0.39, 'percent_change_7d': -36.98}}",1553.0,10140044.0
+PolySwarm,NCT,polyswarm,,,,,,
+ODEM,ODE,odem,,,,,,
+FirstBlood,1ST,firstblood,85558371.0,1530473107.0,,"{'USD': {'price': 0.156649, 'volume_24h': 2359800.0, 'market_cap': 13402633.0, 'percent_change_1h': -0.26, 'percent_change_24h': -1.3, 'percent_change_7d': 5.71}}",349.0,93468691.0
+Stakenet,XSN,stakenet,,,,,,
+Pepe Cash,PEPECASH,pepe-cash,701884009.0,1530473112.0,,"{'USD': {'price': 0.0173894, 'volume_24h': 216001.0, 'market_cap': 12205342.0, 'percent_change_1h': -1.42, 'percent_change_24h': -7.72, 'percent_change_7d': -5.05}}",366.0,701884009.0
+TokenDesk,TDS,tokendesk,,,,,,
+BelugaPay,BBI,belugapay,,,,,,
+Iconomi,ICN,iconomi,99156976.0,1530473112.0,,"{'USD': {'price': 0.616091, 'volume_24h': 301478.0, 'market_cap': 61089720.0, 'percent_change_1h': -0.18, 'percent_change_24h': -1.65, 'percent_change_7d': 5.51}}",129.0,99156976.0
+SingularDTV,SNGLS,singulardtv,600000000.0,1530473107.0,,"{'USD': {'price': 0.0366565, 'volume_24h': 841393.0, 'market_cap': 21993900.0, 'percent_change_1h': 1.02, 'percent_change_24h': 2.27, 'percent_change_7d': 1.95}}",263.0,1000000000.0
+Arbitracoin,ATC,arbitracoin,,,,,,
+WCOIN,WIN,wawllet,,,,,,
+Apex,CPX,apex,,,,,,
+CyberVein,CVT,cybervein,,,,,,
+ZCoin,XZC,zcoin,5088913.0,1530473107.0,21400000.0,"{'USD': {'price': 15.1775, 'volume_24h': 785542.0, 'market_cap': 77236974.0, 'percent_change_1h': -0.52, 'percent_change_24h': 3.24, 'percent_change_7d': -4.86}}",109.0,5088913.0
+eosDAC,EOSDAC,eosdac,,,,,,
+U Network,UUU,u-network,,,,,,
+AdHive,ADH,adhive,,,,,,
+Rcoin,RCN,rcoin,,1530348307.0,,"{'USD': {'price': 6.39234e-05, 'volume_24h': None, 'market_cap': None, 'percent_change_1h': None, 'percent_change_24h': None, 'percent_change_7d': None}}",1593.0,
+Bitsum,BSM,bitsum,,,,,,
+Atomic Coin,ATOM,atomic-coin,16608886.0,1530473112.0,252000000.0,"{'USD': {'price': 0.0121789, 'volume_24h': 103.11, 'market_cap': 202278.0, 'percent_change_1h': -0.34, 'percent_change_24h': 5.2, 'percent_change_7d': 7.96}}",1173.0,16608886.0
+JobsCoin,JOBS,jobscoin,106019270.0,1530473107.0,,"{'USD': {'price': 0.000315474, 'volume_24h': 12.619, 'market_cap': 33446.0, 'percent_change_1h': -0.31, 'percent_change_24h': -0.39, 'percent_change_7d': -33.91}}",1299.0,200019300.0
+GreenMed,GRMD,greenmed,,,,,,
+Triggers,TRIG,triggers,32105578.0,1530473107.0,,"{'USD': {'price': 0.350103, 'volume_24h': 554333.0, 'market_cap': 11240259.0, 'percent_change_1h': 0.07, 'percent_change_24h': -2.6, 'percent_change_7d': 14.11}}",383.0,32105578.0
+Auctus,AUC,auctus,,,,,,
+Sakuracoin,SKR,sakuracoin,,1530473112.0,105100000.0,"{'USD': {'price': 0.00195594, 'volume_24h': 315.427, 'market_cap': None, 'percent_change_1h': -0.31, 'percent_change_24h': 23.52, 'percent_change_7d': 5.35}}",1502.0,
+Monero Classic,XMC,monero-classic,,,,,,
+Daneel,DAN,daneel,,,,,,
+BrahmaOS,BRM,brahmaos,,,,,,
+Levocoin,LEVO,levocoin,,1530473112.0,,"{'USD': {'price': 0.000441664, 'volume_24h': 25.9484, 'market_cap': None, 'percent_change_1h': -0.31, 'percent_change_24h': -0.39, 'percent_change_7d': 3.43}}",1532.0,
+Dignity,DIG,dignity,,,,,,
+Aditus,ADI,aditus,,,,,,
+Tripio,TRIO,tripio,,,,,,
+Haven Protocol,XHV,haven-protocol,,,,,,
+Advanced Technology Coin,ARC,arcticcoin,24878034.0,1530473112.0,,"{'USD': {'price': 0.0242001, 'volume_24h': 2598.39, 'market_cap': 602051.0, 'percent_change_1h': -0.18, 'percent_change_24h': -2.17, 'percent_change_7d': 6.67}}",873.0,24878034.0
+Cubits,QBT,cubits,,1530417861.0,300000000.0,"{'USD': {'price': 0.00158743, 'volume_24h': None, 'market_cap': None, 'percent_change_1h': None, 'percent_change_24h': 0.24, 'percent_change_7d': -4.42}}",1579.0,73335366.0
+DynamicCoin,DMC,dynamiccoin,,1530473112.0,,"{'USD': {'price': 0.000250766, 'volume_24h': 25.9004, 'market_cap': None, 'percent_change_1h': -0.31, 'percent_change_24h': -10.09, 'percent_change_7d': -9.36}}",1533.0,10541442931.0
+Zcash,ZEC,zcash,4259919.0,1530473108.0,,"{'USD': {'price': 168.361, 'volume_24h': 41343300.0, 'market_cap': 717204181.0, 'percent_change_1h': 0.99, 'percent_change_24h': 2.01, 'percent_change_7d': 2.24}}",22.0,4259919.0
+FintruX Network,FTX,fintrux-network,,,,,,
+AllSafe,ASAFE2,allsafe,8200310.0,1530473108.0,15000000.0,"{'USD': {'price': 0.00669988, 'volume_24h': 634.547, 'market_cap': 54941.0, 'percent_change_1h': -0.29, 'percent_change_24h': 3.64, 'percent_change_7d': 10.73}}",981.0,8200310.0
+MARK.SPACE,MRK,mark-space,,,,,,
+Pixie Coin,PXC,pixie-coin,,,,,,
+BipCoin,BIP,bipcoin,1627261.0,1530473107.0,,"{'USD': {'price': 0.029276, 'volume_24h': 133.807, 'market_cap': 47640.0, 'percent_change_1h': -0.31, 'percent_change_24h': -0.44, 'percent_change_7d': 3.57}}",1282.0,1627261.0
+SRCOIN,SRCOIN,srcoin,,,,,,
+Chainium,CHX,chainium,,,,,,
+Masari,MSR,masari,,,,,,
+Dock,DOCK,dock,,,,,,
+ZClassic,ZCL,zclassic,4301350.0,1530473112.0,21000000.0,"{'USD': {'price': 7.56132, 'volume_24h': 149790.0, 'market_cap': 32523884.0, 'percent_change_1h': 1.11, 'percent_change_24h': -0.63, 'percent_change_7d': -2.03}}",200.0,4301350.0
+Zoin,ZOI,zoin,17921953.0,1530473112.0,21000000.0,"{'USD': {'price': 0.180368, 'volume_24h': 15139.5, 'market_cap': 3232547.0, 'percent_change_1h': 2.22, 'percent_change_24h': 1.43, 'percent_change_7d': -30.64}}",642.0,17921953.0
+WA Space,WA,wa-space,,1530473112.0,,"{'USD': {'price': 0.00649877, 'volume_24h': 2722.78, 'market_cap': None, 'percent_change_1h': 8.85, 'percent_change_24h': -14.3, 'percent_change_7d': 63.03}}",1479.0,
+Decentralized Machine Learning,DML,decentralized-machine-learning,,,,,,
+Helbiz,HBZ,helbiz,,,,,,
+Origami,ORI,origami,,,,,,
+Holo,HOT,holo,,,,,,
+Lykke,LKK,lykke,316809739.0,1527788953.0,,"{'USD': {'price': 0.0599223, 'volume_24h': None, 'market_cap': 18983968.0, 'percent_change_1h': None, 'percent_change_24h': None, 'percent_change_7d': None}}",1000.0,1285690000.0
+Golem,GNT,golem-network-tokens,839242000.0,1530473112.0,,"{'USD': {'price': 0.334711, 'volume_24h': 8622960.0, 'market_cap': 280903529.0, 'percent_change_1h': 0.25, 'percent_change_24h': -5.76, 'percent_change_7d': 18.31}}",44.0,1000000000.0
+ZetaMicron,ZMC,zetamicron,600344291.0,1530473112.0,,"{'USD': {'price': 6.30948e-05, 'volume_24h': 662.769, 'market_cap': 37879.0, 'percent_change_1h': -0.31, 'percent_change_24h': -0.39, 'percent_change_7d': 3.43}}",986.0,600344291.0
+Bitcurrency,BTCR,bitcurrency,169598616.0,1530473112.0,,"{'USD': {'price': 0.00145118, 'volume_24h': 57.2334, 'market_cap': 246118.0, 'percent_change_1h': -0.31, 'percent_change_24h': 9.39, 'percent_change_7d': 32.3}}",1154.0,169598616.0
+Proxeus,XES,proxeus,,,,,,
+Regacoin,REGA,regacoin,,1530473107.0,,"{'USD': {'price': 0.000378569, 'volume_24h': 1.08163, 'market_cap': None, 'percent_change_1h': -0.31, 'percent_change_24h': -0.39, 'percent_change_7d': 3.43}}",1572.0,42403494.0
+Rublix,RBLX,rublix,,,,,,
+Biotron,BTRN,biotron,,,,,,
+Penta,PNT,penta,,,,,,
+Nebula AI,NBAI,nebula-ai,,,,,,
+Internet of People,IOP,internet-of-people,3525843.0,1530473112.0,21000000.0,"{'USD': {'price': 0.769934, 'volume_24h': 81563.1, 'market_cap': 2714667.0, 'percent_change_1h': -1.82, 'percent_change_24h': -0.64, 'percent_change_7d': -1.76}}",677.0,3931947.0
+Veros,VRS,veros,12787240.0,1530473112.0,,"{'USD': {'price': 0.0272108, 'volume_24h': 10770.3, 'market_cap': 347951.0, 'percent_change_1h': -1.78, 'percent_change_24h': 5.52, 'percent_change_7d': -2.57}}",917.0,100000000.0
+Hush,HUSH,hush,4197788.0,1530473112.0,21000000.0,"{'USD': {'price': 0.411314, 'volume_24h': 4710.6, 'market_cap': 1726609.0, 'percent_change_1h': -0.37, 'percent_change_24h': -2.05, 'percent_change_7d': 1.01}}",746.0,4197788.0
+DAEX,DAX,daex,,,,,,
+Kurrent,KURT,kurrent,61364813.0,1530473107.0,228000000.0,"{'USD': {'price': 0.00328093, 'volume_24h': 18.9284, 'market_cap': 201334.0, 'percent_change_1h': -0.31, 'percent_change_24h': 1.56, 'percent_change_7d': 20.9}}",1174.0,72764813.0
+Creatio,XCRE,creatio,20520514.0,1530473108.0,,"{'USD': {'price': 0.0011988, 'volume_24h': 1.19874, 'market_cap': 24600.0, 'percent_change_1h': -0.31, 'percent_change_24h': -0.1, 'percent_change_7d': 9.17}}",1314.0,20520514.0
+TrustNote,TTT,trustnote,,,,,,
+Bitcoin Interest,BCI,bitcoin-interest,,,,,,
+Rawcoin,XRC,rawcoin2,704882.0,1530473112.0,,"{'USD': {'price': 0.0104737, 'volume_24h': 39.6731, 'market_cap': 7383.0, 'percent_change_1h': -0.31, 'percent_change_24h': 18.96, 'percent_change_7d': 3.41}}",1335.0,704882.0
+Pascal Coin,PASC,pascal-coin,21939100.0,1530473112.0,,"{'USD': {'price': 0.453399, 'volume_24h': 62421.5, 'market_cap': 9947166.0, 'percent_change_1h': -0.1, 'percent_change_24h': -0.24, 'percent_change_7d': 4.13}}",408.0,21939100.0
+Eternity,ENT,eternity,4351123.0,1530473109.0,,"{'USD': {'price': 0.0295915, 'volume_24h': 64.9272, 'market_cap': 128756.0, 'percent_change_1h': -0.31, 'percent_change_24h': 31.23, 'percent_change_7d': 28.86}}",1217.0,4351123.0
+Incent,INCNT,incent,46016602.0,1530473112.0,,"{'USD': {'price': 0.136346, 'volume_24h': 2091.55, 'market_cap': 6274180.0, 'percent_change_1h': -0.12, 'percent_change_24h': -17.31, 'percent_change_7d': -3.4}}",501.0,46016625.0
+FLIP,FLP,flip,,,,,,
+Crowd Machine,CMCT,crowd-machine,,,,,,
+DECENT,DCT,decent,51306089.0,1530473112.0,,"{'USD': {'price': 0.341393, 'volume_24h': 262471.0, 'market_cap': 17515540.0, 'percent_change_1h': -1.22, 'percent_change_24h': -2.26, 'percent_change_7d': 6.4}}",306.0,73197775.0
+Live Stars,LIVE,live-stars,,,,,,
+Golos,GOLOS,golos,124518891.0,1530473112.0,,"{'USD': {'price': 0.0347157, 'volume_24h': 3120.72, 'market_cap': 4322760.0, 'percent_change_1h': -2.37, 'percent_change_24h': -1.78, 'percent_change_7d': -7.79}}",582.0,124518891.0
+Nexium,NXC,nexium,66520614.0,1530473107.0,,"{'USD': {'price': 0.0771081, 'volume_24h': 5217.74, 'market_cap': 5129278.0, 'percent_change_1h': -0.86, 'percent_change_24h': -3.65, 'percent_change_7d': -2.53}}",543.0,66520614.0
+KEY,KEY,key,,,,,,
+vSlice,VSL,vslice,33390496.0,1530473108.0,,"{'USD': {'price': 0.0621484, 'volume_24h': 65.8086, 'market_cap': 2075166.0, 'percent_change_1h': -0.31, 'percent_change_24h': -6.38, 'percent_change_7d': 0.72}}",1034.0,33390496.0
+ConnectJob,CJT,connectjob,,,,,,
+Dollar Online,DOLLAR,dollar-online,753776.0,1530473108.0,,"{'USD': {'price': 0.0140071, 'volume_24h': 545.747, 'market_cap': 10558.0, 'percent_change_1h': -0.31, 'percent_change_24h': -10.83, 'percent_change_7d': 12.0}}",991.0,9601412.0
+Vault Coin,VLTC,vault-coin,30385540.0,1530473109.0,1000000000.0,"{'USD': {'price': 0.00012619, 'volume_24h': 764.757, 'market_cap': 3834.0, 'percent_change_1h': 19.64, 'percent_change_24h': 79.31, 'percent_change_7d': 101.17}}",994.0,530385540.0
+Pabyosi Coin (Special),PCS,pabyosi-coin-special,,1530425655.0,,"{'USD': {'price': 0.0511453, 'volume_24h': None, 'market_cap': None, 'percent_change_1h': None, 'percent_change_24h': 0.93, 'percent_change_7d': None}}",1580.0,30993751760.0
+Parkgene,GENE,parkgene,,,,,,
+T-coin,TCOIN,t-coin,,1530473111.0,,"{'USD': {'price': 6.30948e-05, 'volume_24h': 20.3875, 'market_cap': None, 'percent_change_1h': -0.31, 'percent_change_24h': -50.2, 'percent_change_7d': -30.32}}",1538.0,
+AC3,AC3,ac3,,,,,,
+FuzeX,FXT,fuzex,,,,,,
+Byteball Bytes,GBYTE,byteball,645946.0,1530473112.0,,"{'USD': {'price': 113.3, 'volume_24h': 65494.4, 'market_cap': 73185683.0, 'percent_change_1h': 0.62, 'percent_change_24h': 1.0, 'percent_change_7d': -1.88}}",115.0,1000000.0
+Skrumble Network,SKM,skrumble-network,,,,,,
+DAOstack,GEN,daostack,,,,,,
+PoSW Coin,POSW,posw-coin,44100000.0,1530473112.0,,"{'USD': {'price': 0.0566592, 'volume_24h': 367.532, 'market_cap': 2498671.0, 'percent_change_1h': -0.31, 'percent_change_24h': -8.78, 'percent_change_7d': -7.22}}",1028.0,70000000.0
+Luna Coin,LUNA,luna-coin,1706429.0,1530473107.0,,"{'USD': {'price': 0.0157618, 'volume_24h': 249.815, 'market_cap': 26896.0, 'percent_change_1h': -0.31, 'percent_change_24h': 0.58, 'percent_change_7d': -5.0}}",1306.0,1706429.0
+Fargocoin,FRGC,fargocoin,,1530473112.0,,"{'USD': {'price': 0.71081, 'volume_24h': 54822.8, 'market_cap': None, 'percent_change_1h': 0.23, 'percent_change_24h': 3.96, 'percent_change_7d': 15.23}}",1433.0,529388114.0
+Utrum,OOT,utrum,,,,,,
+Aston,ATX,aston,,,,,,
+Wings,WINGS,wings,89708333.0,1530473108.0,,"{'USD': {'price': 0.212851, 'volume_24h': 1129320.0, 'market_cap': 19094508.0, 'percent_change_1h': -0.41, 'percent_change_24h': 4.25, 'percent_change_7d': 0.23}}",285.0,100000000.0
+Dix Asset,DIX,dix-asset,100000000000.0,1530473112.0,,"{'USD': {'price': 1.10584e-05, 'volume_24h': 3041.52, 'market_cap': 1105840.0, 'percent_change_1h': 5.51, 'percent_change_24h': 10.49, 'percent_change_7d': 12.57}}",810.0,100000000000.0
+Content Neutrality Network,CNN,content-neutrality-network,,,,,,
+Darcrus,DAR,darcrus,13600388.0,1530473107.0,,"{'USD': {'price': 0.0815575, 'volume_24h': 164.141, 'market_cap': 1109214.0, 'percent_change_1h': 78.34, 'percent_change_24h': 44.37, 'percent_change_7d': 37.72}}",1061.0,13600388.0
+InflationCoin,IFLT,inflationcoin,44790092020.0,1530473112.0,,"{'USD': {'price': 1.52647e-05, 'volume_24h': 7093.46, 'market_cap': 683707.0, 'percent_change_1h': 2.19, 'percent_change_24h': -40.46, 'percent_change_7d': 28.87}}",861.0,44790092020.0
+Spectrecoin,XSPEC,spectrecoin,20785264.0,1530473108.0,,"{'USD': {'price': 0.191505, 'volume_24h': 4522.92, 'market_cap': 3980482.0, 'percent_change_1h': 0.75, 'percent_change_24h': -1.33, 'percent_change_7d': 5.9}}",602.0,20785264.0
+Safe Trade Coin,XSTC,safe-trade-coin,326829322.0,1530473112.0,,"{'USD': {'price': 0.000504759, 'volume_24h': 802.251, 'market_cap': 164970.0, 'percent_change_1h': -0.31, 'percent_change_24h': 5.47, 'percent_change_7d': 18.2}}",952.0,704431350.0
+LandCoin,LDCN,landcoin,,1530473107.0,,"{'USD': {'price': 0.00290236, 'volume_24h': 3.39325, 'market_cap': None, 'percent_change_1h': -0.31, 'percent_change_24h': -0.39, 'percent_change_7d': 64.06}}",1563.0,19003881978.0
+Intelligent Investment Chain,IIC,intelligent-investment-chain,,,,,,
+BenjiRolls,BENJI,benjirolls,20276099.0,1530473112.0,,"{'USD': {'price': 0.00266771, 'volume_24h': 9.42019, 'market_cap': 54091.0, 'percent_change_1h': -0.31, 'percent_change_24h': -2.2, 'percent_change_7d': 9.3}}",1276.0,20276099.0
+CryptoCarbon,CCRB,cryptocarbon,24690718.0,1530473112.0,70000000.0,"{'USD': {'price': 0.0640617, 'volume_24h': 1643.33, 'market_cap': 1581729.0, 'percent_change_1h': -1.65, 'percent_change_24h': -1.72, 'percent_change_7d': -12.12}}",762.0,70000000.0
+PureVidz,VIDZ,purevidz,125279775.0,1530473112.0,,"{'USD': {'price': 0.00517644, 'volume_24h': 4792.57, 'market_cap': 648503.0, 'percent_change_1h': 15.24, 'percent_change_24h': 37.91, 'percent_change_7d': 144.25}}",867.0,125279775.0
+Dascoin,DASC,dascoin,,,,,,
+BitConnect,BCC,bitconnect,9676542.0,1530473107.0,28000000.0,"{'USD': {'price': 0.41923, 'volume_24h': 816.676, 'market_cap': 4056697.0, 'percent_change_1h': -0.29, 'percent_change_24h': -6.81, 'percent_change_7d': -0.09}}",595.0,10449126.0
+ICOBID,ICOB,icobid,107048455.0,1530473112.0,,"{'USD': {'price': 0.000630948, 'volume_24h': 8.86148, 'market_cap': 67542.0, 'percent_change_1h': -0.31, 'percent_change_24h': 10.68, 'percent_change_7d': 72.38}}",1261.0,107048455.0
+iBank,IBANK,ibank,4526324.0,1530473112.0,,"{'USD': {'price': 0.00182975, 'volume_24h': 1.30695, 'market_cap': 8282.0, 'percent_change_1h': -0.31, 'percent_change_24h': -0.39, 'percent_change_7d': 9.69}}",1334.0,4526324.0
+Oyster Shell,SHL,oyster-shell,,,,,,
+FundRequest,FND,fundrequest,,,,,,
+Maker,MKR,maker,618228.0,1530473112.0,,"{'USD': {'price': 536.081, 'volume_24h': 106471.0, 'market_cap': 331420161.0, 'percent_change_1h': -0.3, 'percent_change_24h': 1.33, 'percent_change_7d': 5.56}}",37.0,1000000.0
+Colu Local Network,CLN,colu-local-network,,,,,,
+Digital Rupees,DRS,digital-rupees,510802961.0,1530473107.0,,"{'USD': {'price': 0.00012619, 'volume_24h': 520.949, 'market_cap': 64458.0, 'percent_change_1h': -0.31, 'percent_change_24h': 99.22, 'percent_change_7d': 3.56}}",979.0,510802961.0
+Komodo,KMD,komodo,104254806.0,1530473112.0,,"{'USD': {'price': 1.52171, 'volume_24h': 817717.0, 'market_cap': 158645580.0, 'percent_change_1h': -0.1, 'percent_change_24h': -0.49, 'percent_change_7d': -4.1}}",62.0,104254806.0
+FirstCoin,FRST,firstcoin,31207528.0,1530473112.0,,"{'USD': {'price': 0.0235726, 'volume_24h': 37575.9, 'market_cap': 735643.0, 'percent_change_1h': -0.82, 'percent_change_24h': -7.57, 'percent_change_7d': -20.46}}",853.0,110000000.0
+Magnum,MGM,magnum,4348396.0,1530473112.0,,"{'USD': {'price': 0.000630948, 'volume_24h': 48.0229, 'market_cap': 2744.0, 'percent_change_1h': -0.31, 'percent_change_24h': 24.51, 'percent_change_7d': 3.43}}",1340.0,254348396.0
+Tattoocoin (Standard Edition),TSE,tattoocoin,90421856.0,1530473107.0,,"{'USD': {'price': 0.00397498, 'volume_24h': 174.222, 'market_cap': 359425.0, 'percent_change_1h': -0.31, 'percent_change_24h': 30.73, 'percent_change_7d': None}}",1132.0,90421856.0
+Solarflarecoin,SFC,solarflarecoin,14083450.0,1530473112.0,,"{'USD': {'price': 0.0141187, 'volume_24h': 2228.11, 'market_cap': 198840.0, 'percent_change_1h': 1.55, 'percent_change_24h': 12.87, 'percent_change_7d': 246.13}}",940.0,14083450.0
+Zilbercoin,ZBC,zilbercoin,7736841.0,1530473112.0,,"{'USD': {'price': 0.0590568, 'volume_24h': 1236.13, 'market_cap': 456913.0, 'percent_change_1h': -0.47, 'percent_change_24h': -12.5, 'percent_change_7d': -0.3}}",899.0,9190569.0
+Waves Community Token,WCT,waves-community-token,9964597.0,1530473112.0,,"{'USD': {'price': 0.405318, 'volume_24h': 137949.0, 'market_cap': 4038831.0, 'percent_change_1h': 0.58, 'percent_change_24h': 1.13, 'percent_change_7d': 22.44}}",596.0,10000000.0
+Iconic,ICON,iconic,592894.0,1530473107.0,,"{'USD': {'price': 0.045078, 'volume_24h': 197.956, 'market_cap': 26726.0, 'percent_change_1h': 13.1, 'percent_change_24h': 5.4, 'percent_change_7d': 6.54}}",1307.0,592894.0
+KushCoin,KUSH,kushcoin,5565880.0,1530473112.0,,"{'USD': {'price': 0.0407593, 'volume_24h': 38.3632, 'market_cap': 226861.0, 'percent_change_1h': -0.31, 'percent_change_24h': -0.39, 'percent_change_7d': 11.2}}",1165.0,5565880.0
+Silent Notary,SNTR,silent-notary,,,,,,
+Global Cryptocurrency,GCC,global-cryptocurrency,1029208211.0,1530473112.0,2400000000.0,"{'USD': {'price': 0.00253275, 'volume_24h': 10377.3, 'market_cap': 2606727.0, 'percent_change_1h': -0.29, 'percent_change_24h': 0.13, 'percent_change_7d': -0.41}}",682.0,1419454779.0
+Cryptaur,CPT,cryptaur,,,,,,
+Avoncoin,ACN,avoncoin,,1530473108.0,,"{'USD': {'price': 0.000189285, 'volume_24h': 1.44993, 'market_cap': None, 'percent_change_1h': -0.31, 'percent_change_24h': -20.89, 'percent_change_7d': 2.29}}",1569.0,
+BOAT,BOAT,doubloon,71260309.0,1530473107.0,,"{'USD': {'price': 0.0012619, 'volume_24h': 644.75, 'market_cap': 89923.0, 'percent_change_1h': -0.31, 'percent_change_24h': 11.2, 'percent_change_7d': 8.87}}",973.0,71260309.0
+Eryllium,ERY,eryllium,12552178.0,1530473112.0,100000000.0,"{'USD': {'price': 0.00809806, 'volume_24h': 1233.21, 'market_cap': 101648.0, 'percent_change_1h': -0.31, 'percent_change_24h': 16.91, 'percent_change_7d': 5.3}}",967.0,17233560.0
+Cazcoin,CAZ,cazcoin,,,,,,
+RED,RED,red,,,,,,
+Digitex Futures,DGTX,digitex-futures,,,,,,
+Elysium,ELS,elysium,12757838.0,1530473112.0,18000000.0,"{'USD': {'price': 0.0036595, 'volume_24h': 581.104, 'market_cap': 46687.0, 'percent_change_1h': -2.55, 'percent_change_24h': 28.39, 'percent_change_7d': 6.24}}",985.0,12757838.0
+Invacio,INV,invacio,,,,,,
+Faceter,FACE,faceter,,,,,,
+Golos Gold,GBG,golos-gold,,1530473109.0,,"{'USD': {'price': 0.035559, 'volume_24h': 2440.16, 'market_cap': None, 'percent_change_1h': -3.34, 'percent_change_24h': -1.6, 'percent_change_7d': -7.74}}",1480.0,
+IoTeX,IOTX,iotex,,,,,,
+Eximchain,EXC,eximchain,,,,,,
+Level Up Coin,LUC,level-up,,,,,,
+Centurion,CNT,centurion,77663826.0,1530473107.0,250000000.0,"{'USD': {'price': 0.00409553, 'volume_24h': 7655.39, 'market_cap': 318075.0, 'percent_change_1h': 3.93, 'percent_change_24h': -1.82, 'percent_change_7d': 1.59}}",922.0,82663826.0
+Naviaddress,NAVI,naviaddress,,,,,,
+Marijuanacoin,MAR,marijuanacoin,1631601.0,1530473112.0,,"{'USD': {'price': 0.0292129, 'volume_24h': 557.69, 'market_cap': 47664.0, 'percent_change_1h': -0.31, 'percent_change_24h': -0.39, 'percent_change_7d': 7.87}}",983.0,1631601.0
+Phantasma,SOUL,phantasma,,,,,,
+Master Swiscoin,MSCN,master-swiscoin,45143320.0,1530473112.0,,"{'USD': {'price': 0.0017987, 'volume_24h': 5959.67, 'market_cap': 81199.0, 'percent_change_1h': -0.37, 'percent_change_24h': 9.06, 'percent_change_7d': 99.6}}",977.0,1007644415.0
+REPO,REPO,repo,,,,,,
+Melon,MLN,melon,599400.0,1530473108.0,,"{'USD': {'price': 27.9664, 'volume_24h': 193516.0, 'market_cap': 16763060.0, 'percent_change_1h': -0.26, 'percent_change_24h': 1.49, 'percent_change_7d': -0.82}}",307.0,749400.0
+EJOY,EJOY,ejoy,,,,,,
+Allion,ALL,allion,6199359.0,1530473107.0,,"{'USD': {'price': 0.0120511, 'volume_24h': 3.89131, 'market_cap': 74709.0, 'percent_change_1h': 17.85, 'percent_change_24h': 21.21, 'percent_change_7d': 25.51}}",1255.0,7323359.0
+PRCoin,PRC,prcoin,22387200.0,1530453313.0,,"{'USD': {'price': 0.000571585, 'volume_24h': None, 'market_cap': 12796.0, 'percent_change_1h': None, 'percent_change_24h': 0.26, 'percent_change_7d': 20.57}}",1328.0,802387200.0
+Chronobank,TIME,chronobank,710113.0,1530473108.0,,"{'USD': {'price': 12.1142, 'volume_24h': 197480.0, 'market_cap': 8602449.0, 'percent_change_1h': -0.4, 'percent_change_24h': -0.4, 'percent_change_7d': -21.59}}",446.0,710113.0
+Bigbom,BBO,bigbom,,,,,,
+Argus,ARGUS,argus,1148324.0,1530473108.0,,"{'USD': {'price': 0.0121102, 'volume_24h': 377.007, 'market_cap': 13906.0, 'percent_change_1h': -0.33, 'percent_change_24h': 12.71, 'percent_change_7d': 37.24}}",1326.0,5194373.0
+Renos,RNS,renos,33356077.0,1530473107.0,,"{'USD': {'price': 0.0210106, 'volume_24h': 117.819, 'market_cap': 700831.0, 'percent_change_1h': -0.31, 'percent_change_24h': -3.58, 'percent_change_7d': -4.4}}",1084.0,33356077.0
+Shopin,SHOP,shopin,,,,,,
+UR,UR,ur,,1530473108.0,,"{'USD': {'price': 0.000630948, 'volume_24h': 25.6089, 'market_cap': None, 'percent_change_1h': -0.31, 'percent_change_24h': -9.45, 'percent_change_7d': 3.43}}",1535.0,
+Swarm City,SWT,swarm-city,8274958.0,1530473112.0,,"{'USD': {'price': 0.600365, 'volume_24h': 14458.6, 'market_cap': 4967995.0, 'percent_change_1h': -0.06, 'percent_change_24h': -3.63, 'percent_change_7d': -1.38}}",551.0,8274958.0
+PIECoin,PIE,piecoin,11052595.0,1530473112.0,,"{'USD': {'price': 0.0024607, 'volume_24h': 389.556, 'market_cap': 27197.0, 'percent_change_1h': -0.31, 'percent_change_24h': -0.39, 'percent_change_7d': 44.64}}",1304.0,11052595.0
+Ether Zero,ETZ,ether-zero,,,,,,
+MarxCoin,MARX,marxcoin,,1530473109.0,,"{'USD': {'price': 0.00145118, 'volume_24h': 64.6208, 'market_cap': None, 'percent_change_1h': -0.31, 'percent_change_24h': 2.17, 'percent_change_7d': 11.54}}",1524.0,49312080.0
+Visio,VISIO,visio,51120769.0,1530473112.0,,"{'USD': {'price': 0.00125208, 'volume_24h': 27.9373, 'market_cap': 64007.0, 'percent_change_1h': -0.32, 'percent_change_24h': 0.15, 'percent_change_7d': 24.67}}",1263.0,63120769.0
+Nano,NANO,nano,133248289.0,1530473112.0,133248290.0,"{'USD': {'price': 2.38075, 'volume_24h': 4968670.0, 'market_cap': 317230865.0, 'percent_change_1h': -0.32, 'percent_change_24h': -2.31, 'percent_change_7d': 2.79}}",39.0,133248289.0
+LevoPlus,LVPS,levoplus,2052712.0,1530473112.0,,"{'USD': {'price': 0.000946255, 'volume_24h': 86.5104, 'market_cap': 1942.0, 'percent_change_1h': -0.31, 'percent_change_24h': 24.49, 'percent_change_7d': 29.26}}",1342.0,93052712.0
+Paymon,PMNT,paymon,,,,,,
+GeertCoin,GEERT,geertcoin,5091200.0,1530473109.0,,"{'USD': {'price': 0.0048583, 'volume_24h': 155.987, 'market_cap': 24735.0, 'percent_change_1h': -0.31, 'percent_change_24h': -13.81, 'percent_change_7d': 31.39}}",1313.0,5091200.0
+TRAXIA,TMT,traxia,,,,,,
+Engine,EGCC,engine,,,,,,
+MIRQ,MRQ,mirq,,,,,,
+PikcioChain,PKC,pikciochain,,,,,,
+Pascal Lite,PASL,pascal-lite,5022100.0,1530473112.0,,"{'USD': {'price': 0.0252379, 'volume_24h': 181.848, 'market_cap': 126747.0, 'percent_change_1h': 7.19, 'percent_change_24h': 5.13, 'percent_change_7d': 3.44}}",1219.0,5022100.0
+MiloCoin,MILO,milocoin,10789954.0,1530473112.0,30015000.0,"{'USD': {'price': 0.0023976, 'volume_24h': 1315.71, 'market_cap': 25870.0, 'percent_change_1h': -0.31, 'percent_change_24h': None, 'percent_change_7d': 10.45}}",989.0,10789954.0
+Musicoin,MUSIC,musicoin,776117568.0,1530473112.0,,"{'USD': {'price': 0.00643947, 'volume_24h': 23867.5, 'market_cap': 4997786.0, 'percent_change_1h': -1.22, 'percent_change_24h': -2.13, 'percent_change_7d': -8.49}}",550.0,776117568.0
+Zero,ZER,zero,3002570.0,1530473109.0,,"{'USD': {'price': 0.324938, 'volume_24h': 3554.09, 'market_cap': 975649.0, 'percent_change_1h': -0.31, 'percent_change_24h': -3.27, 'percent_change_7d': -4.47}}",821.0,3002570.0
+BioBar,BIOB,biobar,885756.0,1530473112.0,,"{'USD': {'price': 0.00694043, 'volume_24h': 4.74429, 'market_cap': 6148.0, 'percent_change_1h': -0.31, 'percent_change_24h': 0.52, 'percent_change_7d': 16.85}}",1337.0,985756.0
+GoChain,GO,gochain,,,,,,
+Honey,HONEY,honey,455955.0,1530473112.0,,"{'USD': {'price': 0.139074, 'volume_24h': 167.768, 'market_cap': 63411.0, 'percent_change_1h': -3.31, 'percent_change_24h': 22.22, 'percent_change_7d': 71.75}}",1267.0,455955.0
+Netko,NETKO,netko,5694990.0,1530473112.0,,"{'USD': {'price': 0.0631004, 'volume_24h': 803.716, 'market_cap': 359356.0, 'percent_change_1h': -0.31, 'percent_change_24h': -9.25, 'percent_change_7d': -11.33}}",915.0,5694990.0
+Bittwatt,BWT,bittwatt,,,,,,
+Constellation,DAG,constellation,,,,,,
+Merculet,MVP,merculet,,,,,,
+Ark,ARK,ark,103564000.0,1530473111.0,,"{'USD': {'price': 1.39004, 'volume_24h': 2023890.0, 'market_cap': 143958103.0, 'percent_change_1h': -0.6, 'percent_change_24h': 5.39, 'percent_change_7d': 4.85}}",68.0,134814000.0
+Dynamic,DYN,dynamic,5006891.0,1530473108.0,,"{'USD': {'price': 1.24417, 'volume_24h': 35568.3, 'market_cap': 6229424.0, 'percent_change_1h': -0.31, 'percent_change_24h': -0.39, 'percent_change_7d': 2.65}}",504.0,14095212.0
+Tokes,TKS,tokes,3356674.0,1530473112.0,,"{'USD': {'price': 0.571261, 'volume_24h': 8306.57, 'market_cap': 1917537.0, 'percent_change_1h': -1.7, 'percent_change_24h': -3.22, 'percent_change_7d': -14.64}}",735.0,50000000.0
+Aurora,AOA,aurora,,,,,,
+Mercury,MER,mercury,100000000.0,1530473112.0,,"{'USD': {'price': 0.128155, 'volume_24h': 1027840.0, 'market_cap': 12815500.0, 'percent_change_1h': 0.13, 'percent_change_24h': 1.17, 'percent_change_7d': 15.63}}",359.0,100000000.0
+Ternio,TERN,ternio,,,,,,
+TaaS,TAAS,taas,8146001.0,1530473109.0,,"{'USD': {'price': 2.01104, 'volume_24h': 191010.0, 'market_cap': 16381933.0, 'percent_change_1h': -0.44, 'percent_change_24h': -5.36, 'percent_change_7d': 7.5}}",313.0,8146001.0
+DigiFinexToken,DFT,digifinextoken,,,,,,
+Origin Sport,ORS,origin-sport,,,,,,
+Soarcoin,SOAR,soarcoin,1076641972.0,1530473112.0,5000000000.0,"{'USD': {'price': 0.011294, 'volume_24h': 22404.7, 'market_cap': 12159594.0, 'percent_change_1h': -0.31, 'percent_change_24h': -6.49, 'percent_change_7d': -8.68}}",368.0,5000000000.0
+Edgeless,EDG,edgeless,88087036.0,1530473112.0,,"{'USD': {'price': 0.311144, 'volume_24h': 430299.0, 'market_cap': 27407753.0, 'percent_change_1h': -0.28, 'percent_change_24h': 1.03, 'percent_change_7d': -3.27}}",228.0,132046997.0
