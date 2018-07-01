@@ -29,5 +29,5 @@ api:
   refresh_rate: 300
 
 persist:
-  bucket: gcp-challenge-javen-caserta
+  bucket: some-bucket
   filename: crypto_table.csv
