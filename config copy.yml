@@ -1,0 +1,33 @@
+api:
+
+  # Frequency to pull the data in seconds. Currently the API restricts max 30 pulls per minute. To be friendly
+  # we will at most we will pull at most 15 times per minute.
+  pull_frequency_minimum_interval: 3
+  error_timeout: 15
+  timeout: 1
+
+  listings:
+    address: https://api.coinmarketcap.com/v2/listings/
+    # frequency to update listings in seconds - pull every 30 minutes if 18000
+    pull_frequency: 18000
+
+  ticker:
+    address: https://api.coinmarketcap.com/v2/ticker/
+    # Frequency to pull the data in seconds. Currently the API restricts max 30 pulls per minute. To be friendly
+    # we will at most we will pull at most 15 times per minute.
+    pull_frequnecy: 4
+    page_length: 100
+    # This is a 300 second (5 minute) pause between pulls.
+    refresh_period: 300
+
+  global:
+    address: https://api.coinmarketcap.com/v2/global/
+    # freuency to update listings in seconds - pull every 30 minutes if 18000
+    pull_frequency: 18000
+
+  # rate at which the data is refreshed in seconds
+  refresh_rate: 300
+
+persist:
+  bucket: gcp-challenge-javen-caserta
+  filename: crypto_table.csv
